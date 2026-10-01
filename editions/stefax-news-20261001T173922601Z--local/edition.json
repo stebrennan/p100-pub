@@ -1,0 +1,2416 @@
+{
+  "schemaVersion": 3,
+  "edition": {
+    "id": "stefax-news-20261001T173922601Z",
+    "revision": "local",
+    "publishedAt": "2026-10-01T17:41:30.931Z",
+    "title": "STEFAX | The News",
+    "deck": "A flight attack raises questions about aviation security; police investigate a suspected plot near RAF Fairford; and governments face pressure over prisons, prices and public services.",
+    "editedOn": "2026-10-01",
+    "estimatedReadingMinutes": 16,
+    "editorialNote": "This edition distinguishes confirmed developments from claims still under investigation. In particular, the motives and any outside involvement in the Flydubai attack and RAF Fairford incident remain unconfirmed.",
+    "sourceGather": {
+      "snapshotId": "20261001T173922601Z",
+      "generatedAt": "2026-10-01T17:39:22.601Z"
+    },
+    "sections": [
+      {
+        "id": "home",
+        "title": "HOME",
+        "kind": "service",
+        "contentIds": []
+      },
+      {
+        "id": "news-headlines",
+        "title": "HEADLINES",
+        "kind": "editorial",
+        "contentIds": [],
+        "familyId": "news",
+        "familyNavigationReferenceIds": [
+          "nav-101",
+          "nav-110",
+          "nav-120",
+          "nav-130"
+        ]
+      },
+      {
+        "id": "world",
+        "title": "WORLD",
+        "kind": "editorial",
+        "contentIds": [
+          "world-01",
+          "world-02",
+          "world-03",
+          "world-04",
+          "world-05",
+          "world-06",
+          "world-07",
+          "world-08"
+        ],
+        "familyId": "news"
+      },
+      {
+        "id": "uk",
+        "title": "UK",
+        "kind": "editorial",
+        "contentIds": [
+          "uk-01",
+          "uk-02",
+          "uk-03",
+          "uk-04",
+          "uk-05",
+          "uk-06",
+          "uk-07",
+          "uk-08"
+        ],
+        "familyId": "news"
+      },
+      {
+        "id": "denmark",
+        "title": "DENMARK",
+        "kind": "editorial",
+        "contentIds": [
+          "denmark-01",
+          "denmark-02",
+          "denmark-03",
+          "denmark-04",
+          "denmark-05",
+          "denmark-06",
+          "denmark-07",
+          "denmark-08"
+        ],
+        "familyId": "news"
+      }
+    ],
+    "content": [
+      {
+        "id": "world-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Passengers and crew subdued attacker after Flydubai plane plunged",
+        "shortHeadline": "Passengers stopped attack on\nplunging Flydubai flight",
+        "standfirst": "A pilot was stabbed on a Dubai-to-Tel Aviv flight that made an emergency landing in Saudi Arabia. Authorities have yet to establish the alleged attacker’s motive.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-01-image.png",
+          "caption": "Adam Polovincik on the Flydubai flight",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c6d949ydnw3po",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6d949ydnw3po",
+            "credit": "Adam Polovincik"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+            "publisher": "The Guardian",
+            "originalTitle": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+            "publishedAt": "2026-10-01T16:04:48.000Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/c6d949ydnw3po",
+            "publisher": "BBC News",
+            "originalTitle": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6d949ydnw3po",
+            "publishedAt": "2026-10-01T13:34:37.736Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+            "publisher": "BBC News",
+            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+            "publishedAt": "2026-10-01T06:01:47.649Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/crje8edqyej9o",
+            "publisher": "BBC News",
+            "originalTitle": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+            "canonicalUrl": "https://www.bbc.com/news/articles/crje8edqyej9o",
+            "publishedAt": "2026-10-01T15:38:13.660Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+            "publisher": "The Guardian",
+            "originalTitle": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+            "publishedAt": "2026-09-30T17:47:25.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+            "publisher": "The Guardian",
+            "originalTitle": "Should cockpits stay locked from the inside? Flydubai stabbing raises flight security questions",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+            "publishedAt": "2026-10-01T12:04:08.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+        "segments": [
+          {
+            "id": "world-01-s1",
+            "body": "The Flydubai flight plunged more than 17,000ft after one pilot stabbed the captain, Indian national Smit Machchhar, during Wednesday’s journey from Dubai to Tel Aviv. Passengers and crew subdued the attacker, and other pilots on board took control. The plane landed safely in Saudi Arabia; the injured captain was reported to be recovering.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+              "https://www.bbc.com/news/articles/c6d949ydnw3po",
+              "https://www.bbc.com/news/articles/cje3r3z7g0zzo"
+            ]
+          },
+          {
+            "id": "world-01-s2",
+            "title": "Motive remains unclear",
+            "body": "Israeli Prime Minister Benjamin Netanyahu has said the attacker showed signs of Islamist radicalisation, while stressing that there are no final conclusions. A regional official cited by the Guardian said investigators were considering possibilities including terrorism and mental illness; two Israeli security officials said their initial assessment was that the co-pilot probably acted alone. Flydubai urged against speculation as investigations continue.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+              "https://www.bbc.com/news/articles/crje8edqyej9o",
+              "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+                "body": "Israeli Prime Minister Benjamin Netanyahu has said the attacker showed signs of Islamist radicalisation, while stressing that there are no final conclusions. A regional official cited by the Guardian said investigators were considering possibilities including terrorism and mental illness; two Israeli security officials said their initial assessment was that the co-pilot probably acted alone. Flydubai urged against speculation as investigations continue."
+              }
+            ]
+          },
+          {
+            "id": "world-01-s3",
+            "title": "Questions for aviation security",
+            "body": "The attack has renewed debate about cockpit access. Aviation security expert Philip Baum argues that a locked cockpit can prevent people outside from reaching a rogue pilot; he says background checks and ongoing assessments of pilots are also important. The Guardian reports that the full sequence of events and how the flight deck was accessed have not yet been established.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+              "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+                "body": "The attack has renewed debate about cockpit access. Aviation security expert Philip Baum argues that a locked cockpit can prevent people outside from reaching a rogue pilot; he says background checks and ongoing assessments of pilots are also important. The Guardian reports that the full sequence of events and how the flight deck was accessed have not yet been established."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Russian drones hit Kyiv bridge as attacks disrupt transport and power",
+        "shortHeadline": "Drones hit a major Kyiv\nbridge and disrupt transport",
+        "standfirst": "Two drones struck the Pivdennyi bridge as a metro train crossed. Officials said initial checks found no critical structural damage.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-02-image.png",
+          "caption": "The base of a central stanchion on the Pivdennyi bridge was hit",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+            "credit": "Reuters"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+            "publisher": "BBC News",
+            "originalTitle": "Russia targets busy bridge in central Kyiv",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+            "publishedAt": "2026-10-01T14:31:03.017Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+        "segments": [
+          {
+            "id": "world-02-s1",
+            "body": "Two Russian drones hit Kyiv’s Pivdennyi bridge on Thursday, prompting metro suspensions and bringing public transport to a halt. A journalist travelling on a train said dust from a blast wave entered the carriage through its ventilation system. City authorities said preliminary checks found no critical damage to the bridge.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn8e8344v5qo"
+            ]
+          },
+          {
+            "id": "world-02-s2",
+            "title": "Part of a wider campaign",
+            "body": "The bridge strike followed attacks on Kyiv’s energy grid and renewed power cuts. The report says Ukrainian officials have warned that fast, jet-powered Russian drones are challenging air defences; the type used against the bridge has not been confirmed. A drone also hit a school, where the headteacher said students had reached shelter and were unhurt.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn8e8344v5qo"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
+                "body": "The bridge strike followed attacks on Kyiv’s energy grid and renewed power cuts. The report says Ukrainian officials have warned that fast, jet-powered Russian drones are challenging air defences; the type used against the bridge has not been confirmed. A drone also hit a school, where the headteacher said students had reached shelter and were unhurt."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Tennessee pauses executions after two injections fail to kill Christa Pike",
+        "shortHeadline": "Tennessee halts executions\nafter Pike survives injections",
+        "standfirst": "Governor Bill Lee ordered an independent review and halted executions through the end of the year. Pike’s condition remains unclear.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-03-image.png",
+          "caption": "Christa Pike entering a Tennessee court in 2007",
+          "source": {
+            "candidateId": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "publisher": "BBC News",
+            "originalTitle": "What happened in the failed execution of Christa Pike - and what next?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "publishedAt": "2026-10-01T10:29:49.639Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmn4540d4z87o",
+            "publisher": "BBC News",
+            "originalTitle": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn4540d4z87o",
+            "publishedAt": "2026-10-01T15:43:05.368Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
+            "publisher": "The Guardian",
+            "originalTitle": "Tennessee governor suspends executions after ‘deeply disturbing’ failed lethal injection",
+            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
+            "publishedAt": "2026-10-01T17:16:45.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+            "publisher": "The Guardian",
+            "originalTitle": "Witnesses detail horror of Tennessee woman’s botched execution: ‘None of it was normal’",
+            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+            "publishedAt": "2026-10-01T14:01:12.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+        "segments": [
+          {
+            "id": "world-03-s1",
+            "body": "Tennessee has suspended executions for the rest of the year after death-row prisoner Christa Pike survived two doses of pentobarbital. Governor Bill Lee called the failure deeply disturbing and ordered an independent review. Pike was taken to hospital, but authorities had not provided an update on her condition in the reports.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+              "https://www.bbc.com/news/articles/cmn4540d4z87o",
+              "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+            ]
+          },
+          {
+            "id": "world-03-s2",
+            "title": "What witnesses and officials said",
+            "body": "Witnesses described Pike breathing and snoring after the injections. The state corrections department said staff followed the approved protocol, which calls for a second set of syringes if a prisoner is not dead after the first. The protocol does not specify what should happen if the person remains alive after the second dose, the Associated Press reported.",
+            "sourceRefs": [
+              "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
+              "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
+                "body": "Witnesses described Pike breathing and snoring after the injections. The state corrections department said staff followed the approved protocol, which calls for a second set of syringes if a prisoner is not dead after the first. The protocol does not specify what should happen if the person remains alive after the second dose, the Associated Press reported."
+              }
+            ]
+          },
+          {
+            "id": "world-03-s3",
+            "title": "The cause is not established",
+            "body": "Pike’s lawyers alleged difficult vein access and degraded drugs; the department has not specifically addressed the allegation about the drug’s condition. A doctor retained by her legal team told the BBC that she may not have received a sufficient blood level of pentobarbital. That is an expert assessment, not an official finding. The review’s lead investigator has not yet been named.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+              "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+                "body": "Pike’s lawyers alleged difficult vein access and degraded drugs; the department has not specifically addressed the allegation about the drug’s condition. A doctor retained by her legal team told the BBC that she may not have received a sufficient blood level of pentobarbital. That is an expert assessment, not an official finding. The review’s lead investigator has not yet been named."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Measles and malaria linked to child deaths in remote Indian villages",
+        "shortHeadline": "Disease and delayed care\nbehind deaths in India villages",
+        "standfirst": "Officials say at least 32 children have died in Madhya Pradesh’s Balaghat district since May. The cause of every death is not known.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-04-image.png",
+          "caption": "Watch: families describe the outbreak and its toll",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publisher": "BBC News",
+            "originalTitle": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publishedAt": "2026-09-30T23:41:34.953Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+        "segments": [
+          {
+            "id": "world-04-s1",
+            "body": "At least 32 children have died since May in a cluster of remote villages in India’s Balaghat district, officials say. They attribute many deaths to measles and malaria, possibly worsened by malnutrition and delays in treatment; the precise cause of every death is uncertain. Most of the children were from the Baiga tribal community.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ]
+          },
+          {
+            "id": "world-04-s2",
+            "title": "Distance and access to care",
+            "body": "Families described muddy, difficult routes to health facilities, with the nearest state hospital about 70km away. Some families initially relied on local healers or feared medical treatment; officials said that once the outbreak was recognised, health teams began screening villages, treating children and referring patients to hospitals.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+                "body": "Families described muddy, difficult routes to health facilities, with the nearest state hospital about 70km away. Some families initially relied on local healers or feared medical treatment; officials said that once the outbreak was recognised, health teams began screening villages, treating children and referring patients to hospitals."
+              }
+            ]
+          },
+          {
+            "id": "world-04-s3",
+            "title": "A response, and wider concerns",
+            "body": "Tests from affected villages found measles in six of ten samples. Authorities expanded measles-rubella vaccination to children under 15 and reported that about 27,000 of roughly 40,000 children identified in Birsa had been vaccinated. The report also points to persistent malnutrition and a 2024 audit that found serious irregularities in the state’s distribution of food supplements.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "New satellite images show extensive destruction across Gaza",
+        "shortHeadline": "Satellite images reveal\nGaza’s widespread destruction",
+        "standfirst": "Images taken in June show damaged neighbourhoods, tent camps and a badly damaged port. The report says destruction has continued since a fragile ceasefire began.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-05-image.png",
+          "caption": "Satellite images show tent camps along Gaza’s shoreline",
+          "source": {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publisher": "The Guardian",
+            "originalTitle": "New Google Maps images reveal massive scale of devastation in Gaza",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publishedAt": "2026-10-01T04:00:28.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+        "segments": [
+          {
+            "id": "world-05-s1",
+            "body": "Updated Google Maps satellite imagery shows extensive damage across Gaza, including in Rafah and northern towns, as well as large tented camps along the coast. The images were taken in June. The Guardian reports that a UN assessment found the number of destroyed structures had risen by 9% since the ceasefire declared in October 2025.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+                "body": "Updated Google Maps satellite imagery shows extensive damage across Gaza, including in Rafah and northern towns, as well as large tented camps along the coast. The images were taken in June. The Guardian reports that a UN assessment found the number of destroyed structures had risen by 9% since the ceasefire declared in October 2025."
+              }
+            ]
+          },
+          {
+            "id": "world-05-s2",
+            "title": "Displacement and the scale of rubble",
+            "body": "The UN agency for Palestinian refugees estimates that about 82% of structures in Gaza have been damaged and says more than 2.1 million displaced people are living in tents and temporary shelters. A UN Development Programme representative has estimated the rubble at 61 million tonnes and said human remains buried beneath it remain an urgent humanitarian concern.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "French school protests spread as fires and clashes prompt crisis meeting",
+        "shortHeadline": "School protests spread\nacross France amid violence",
+        "standfirst": "Students cite staff shortages, crowded classrooms and poor buildings. The government says some demonstrations have descended into urban violence.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-06-image.png",
+          "caption": "Watch: why students are protesting in France",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+            "publisher": "BBC News",
+            "originalTitle": "Fires break out at French schools as students protest nationwide",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+            "publishedAt": "2026-10-01T16:34:22.789Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+        "segments": [
+          {
+            "id": "world-06-s1",
+            "body": "Students have blockaded schools across France over funding and studying conditions, with university students joining the protests. Fires were reported at schools in Nantes and Rouen, while a headteacher in Auchel was injured by a firework. Prime Minister Sébastien Lecornu held a crisis meeting on Thursday.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6d080d1e3l4o"
+            ]
+          },
+          {
+            "id": "world-06-s2",
+            "title": "Disputed causes and political response",
+            "body": "Students interviewed by AFP described leaking classrooms, too few toilets and a lack of resources. The protests have become politically contested: the government and right-wing politicians blamed the hard left, while left-wing figures argued that the underlying problems still need addressing. Reports cited by the BBC put arrests at more than 600 by Thursday, excluding Paris; figures are attributed to French media.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6d080d1e3l4o"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
+                "body": "Students interviewed by AFP described leaking classrooms, too few toilets and a lack of resources. The protests have become politically contested: the government and right-wing politicians blamed the hard left, while left-wing figures argued that the underlying problems still need addressing. Reports cited by the BBC put arrests at more than 600 by Thursday, excluding Paris; figures are attributed to French media."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Trump says some US munitions are low as Iran war continues",
+        "shortHeadline": "Trump acknowledges some\nUS munitions are running low",
+        "standfirst": "The president gave no details on which stocks are short and said the US would replenish them. He also said strikes on Iran could resume after November’s elections.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-07-image.png",
+          "caption": "Trump says further strikes on Iran are possible",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+            "credit": "Getty Images"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+            "publisher": "BBC News",
+            "originalTitle": "Trump says 'some' munitions are low as Iran war grinds on",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+            "publishedAt": "2026-10-01T16:02:07.350Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+        "segments": [
+          {
+            "id": "world-07-s1",
+            "body": "Donald Trump said in an interview with Time that supplies of some US munitions are “a little bit lower” because of the war with Iran. He did not identify which weapons. He said the US was in “great shape” and promised to replenish stocks, while also saying a renewed bombing campaign after the November midterms was possible.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cm4gjgzjrvp5o"
+            ]
+          },
+          {
+            "id": "world-07-s2",
+            "title": "Stockpiles and election pressures",
+            "body": "A July assessment by the Pentagon inspector general found shortfalls in critical munitions and resupply bottlenecks; Trump dismissed that report at the time. A CSIS estimate cited by the BBC said some interceptor stocks had been depleted by more than half. The interview comes as polling cited in the report shows low approval of Trump’s handling of the economy and cost of living.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cm4gjgzjrvp5o"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
+                "body": "A July assessment by the Pentagon inspector general found shortfalls in critical munitions and resupply bottlenecks; Trump dismissed that report at the time. A CSIS estimate cited by the BBC said some interceptor stocks had been depleted by more than half. The interview comes as polling cited in the report shows low approval of Trump’s handling of the economy and cost of living."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Japan raises permanent-residency fee as immigration rules tighten",
+        "shortHeadline": "Japan raises residency fee\nand adds new requirements",
+        "standfirst": "The fee has risen twentyfold to 200,000 yen. Applicants also face new income and pension tests, with a language requirement due next year.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-08-image.png",
+          "caption": "Japan’s residency rules are becoming more demanding",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+            "credit": "Getty Images"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+            "publisher": "BBC News",
+            "originalTitle": "Japan raises permanent residency fee by 20 times",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+            "publishedAt": "2026-10-01T02:11:48.187Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+        "segments": [
+          {
+            "id": "world-08-s1",
+            "body": "Japan has raised the fee for permanent residency from 10,000 yen to 200,000 yen, a twentyfold increase. Applicants must also meet new income and pension requirements, and basic Japanese-language proficiency is due to become a condition from April next year. Long queues formed at immigration offices before the higher fees took effect.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6y8z8xeg8j1o"
+            ]
+          },
+          {
+            "id": "world-08-s2",
+            "title": "A growing foreign population",
+            "body": "The changes come as Japan’s foreign resident population reached a record 4.12 million at the end of 2025, while the country relies on foreign workers amid labour shortages. Prime Minister Sanae Takaichi’s government says its policies aim to manage population growth and address public concerns. A Tokyo resident quoted in the report said the higher income threshold and fees risk making Japan less attractive to workers.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6y8z8xeg8j1o"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+                "body": "The changes come as Japan’s foreign resident population reached a record 4.12 million at the end of 2025, while the country relies on foreign workers amid labour shortages. Prime Minister Sanae Takaichi’s government says its policies aim to manage population growth and address public concerns. A Tokyo resident quoted in the report said the higher income threshold and fees risk making Japan less attractive to workers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Sixth man arrested in RAF Fairford investigation as police pursue leads",
+        "shortHeadline": "Sixth arrest in RAF\nFairford investigation",
+        "standfirst": "A UK-Iranian dual national was arrested in Westminster. Police say they are considering foreign-state involvement, but have not established a motive.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-01-image.png",
+          "caption": "Police near RAF Fairford after Sunday’s incident",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "credit": "AFP via Getty Images"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "publisher": "BBC News",
+            "originalTitle": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "publishedAt": "2026-10-01T16:43:57.555Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "publisher": "The Guardian",
+            "originalTitle": "UK-Iran national arrested under Terrorism Act over RAF Fairford incident",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "publishedAt": "2026-10-01T17:02:01.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+            "publisher": "The i Paper",
+            "originalTitle": "A ‘dry run’ or fuel thieves? The RAF Fairford plot scenarios, according to experts",
+            "canonicalUrl": "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+            "publishedAt": "2026-09-29T15:28:32.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+            "publisher": "The i Paper",
+            "originalTitle": "All the signs that Iran was behind RAF Fairford ‘terror plot’",
+            "canonicalUrl": "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+            "publishedAt": "2026-10-01T15:19:02.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480",
+            "publisher": "The i Paper",
+            "originalTitle": "How RAF Fairford was left exposed to ‘Iran-linked terror plot’",
+            "canonicalUrl": "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480",
+            "publishedAt": "2026-09-28T17:40:14.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+        "segments": [
+          {
+            "id": "uk-01-s1",
+            "body": "Counter-terrorism police arrested a 27-year-old UK-Iranian dual national in Westminster on suspicion of preparing terrorist acts connected to the incident near RAF Fairford. A 26-year-old UK national has also been questioned under caution, and two properties have been searched. Five men arrested near the base remain on police bail.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmdx5xw36492o",
+              "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford"
+            ]
+          },
+          {
+            "id": "uk-01-s2",
+            "title": "The investigation is still open",
+            "body": "Police say they are examining “all possible angles”, including possible foreign-state involvement. The Iranian embassy has denied any role, describing allegations of Iranian involvement as unfounded. The Guardian reports that searches found no evidence of a viable device; police said petrol, but no explosive devices, was found in vans near the base.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmdx5xw36492o",
+              "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+              "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+                "body": "Police say they are examining “all possible angles”, including possible foreign-state involvement. The Iranian embassy has denied any role, describing allegations of Iranian involvement as unfounded. The Guardian reports that searches found no evidence of a viable device; police said petrol, but no explosive devices, was found in vans near the base."
+              }
+            ]
+          },
+          {
+            "id": "uk-01-s3",
+            "title": "What remains unknown",
+            "body": "The reason the five men were near the base in the early hours is not established. Counter-terrorism experts cited by the i Paper offered competing possibilities, including unwitting proxy activity, hostile reconnaissance or a non-terrorism explanation. A local resident told the paper that residents were evacuated hours after she raised the alarm; the extent of any prior police or intelligence operation remains unclear.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+              "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+              "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+                "body": "The reason the five men were near the base in the early hours is not established. Counter-terrorism experts cited by the i Paper offered competing possibilities, including unwitting proxy activity, hostile reconnaissance or a non-terrorism explanation. A local resident told the paper that residents were evacuated hours after she raised the alarm; the extent of any prior police or intelligence operation remains unclear."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "First wave of early prison releases exposes housing and supervision gaps",
+        "shortHeadline": "Early releases begin amid\nwarnings over housing",
+        "standfirst": "About 700 prisoners were due to be released on Thursday. Some said they had nowhere to live; probation and victim-support groups raised concerns.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-02-image.png",
+          "caption": "Prison leavers may struggle to find accommodation",
+          "source": {
+            "candidateId": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+            "publisher": "The Guardian",
+            "originalTitle": "Prisoners thank Andy Burnham as they leave jail in first wave of early releases",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+            "publishedAt": "2026-10-01T11:55:52.000Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+            "publisher": "BBC News",
+            "originalTitle": "Why are hundreds of prisoners being released early?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+            "publishedAt": "2026-08-04T15:04:59.864Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+            "publisher": "The Guardian",
+            "originalTitle": "Prisoners freed early in England and Wales risk living on the streets, say probation officers",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+            "publishedAt": "2026-10-01T05:00:29.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+        "segments": [
+          {
+            "id": "uk-02-s1",
+            "body": "The first 700 prisoners in England and Wales were released early on Thursday under a scheme intended to ease overcrowding. The government plans to release 4,500 people early by June 2027, with exclusions for some serious offences. The Ministry of Justice says those released will face tough supervision.",
+            "sourceRefs": [
+              "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+              "https://www.bbc.com/news/articles/cp3rxlyz6w3o"
+            ]
+          },
+          {
+            "id": "uk-02-s2",
+            "title": "A place to live is not guaranteed",
+            "body": "Some people leaving prison told the Guardian they were homeless or feared being recalled because they could not meet licence conditions without an address. Probation officers warned that hostel places were already full in some areas, while a watchdog report cited by the Guardian found many electronic tags were not fitted on time.",
+            "sourceRefs": [
+              "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+              "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
+                "body": "Some people leaving prison told the Guardian they were homeless or feared being recalled because they could not meet licence conditions without an address. Probation officers warned that hostel places were already full in some areas, while a watchdog report cited by the Guardian found many electronic tags were not fitted on time."
+              }
+            ]
+          },
+          {
+            "id": "uk-02-s3",
+            "title": "The case for the scheme, and its risks",
+            "body": "The government says early release is needed to prevent prisons running out of space and points to plans for 14,000 new places. The victims’ commissioner said confidence in the scheme was not yet matched by conditions on the ground. Refuge warned that survivors may be left to seek safety from perpetrators released under the plan.",
+            "sourceRefs": [
+              "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+              "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
+                "body": "The government says early release is needed to prevent prisons running out of space and points to plans for 14,000 new places. The victims’ commissioner said confidence in the scheme was not yet matched by conditions on the ground. Refuge warned that survivors may be left to seek safety from perpetrators released under the plan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Burnham’s EU remarks open a new Brexit fault line in Labour",
+        "shortHeadline": "EU debate divides Labour\nafter Burnham’s remarks",
+        "standfirst": "The prime minister has reopened discussion about closer ties and possible EU membership. Cabinet ministers and MPs in Leave-voting seats warn about free movement and business uncertainty.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-03-image.png",
+          "caption": "Burnham has reopened debate over the UK’s EU relationship",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publisher": "The i Paper",
+            "originalTitle": "Brexit U-turn splits Cabinet as Red Wall MPs warn Burnham over freedom of movement",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publishedAt": "2026-09-30T16:42:21.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
+            "publisher": "The Guardian",
+            "originalTitle": "Burnham’s reopening of Brexit debate is ‘biggest boost in my career’, says Farage",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
+            "publishedAt": "2026-10-01T15:47:43.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+        "segments": [
+          {
+            "id": "uk-03-s1",
+            "body": "Andy Burnham said the UK should examine options for moving closer to the EU, including rejoining, arguing Brexit had done “more harm than good”. The remarks have exposed differences within Labour: one senior minister told the i Paper there was “no appetite” for rejoining, while MPs in Leave-voting seats warned that restoring free movement would be difficult to sell.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+              "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage"
+            ]
+          },
+          {
+            "id": "uk-03-s2",
+            "title": "Arguments over the alternatives",
+            "body": "Ministers also questioned the practical value of a customs union or single market, citing concerns about rule-taking, trade deals and business uncertainty. Trade-policy analyst David Henig said the options were fewer than they might appear, but a Swiss-style arrangement could offer a deeper trade relationship in return for free movement of workers.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+                "body": "Ministers also questioned the practical value of a customs union or single market, citing concerns about rule-taking, trade deals and business uncertainty. Trade-policy analyst David Henig said the options were fewer than they might appear, but a Swiss-style arrangement could offer a deeper trade relationship in return for free movement of workers."
+              }
+            ]
+          },
+          {
+            "id": "uk-03-s3",
+            "title": "Farage sees an opening",
+            "body": "Nigel Farage said Burnham had given Reform UK a major political boost by reviving the Brexit debate. At a rally in Doncaster, he argued that the issue could help his party in northern and Midlands seats. The Guardian reports that Reform’s internal inquiry into donations is also due to be published; police are investigating alleged breaches of foreign-funding rules.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
+                "body": "Nigel Farage said Burnham had given Reform UK a major political boost by reviving the Brexit debate. At a rally in Doncaster, he argued that the issue could help his party in northern and Midlands seats. The Guardian reports that Reform’s internal inquiry into donations is also due to be published; police are investigating alleged breaches of foreign-funding rules."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Bond sell-off pushes UK 30-year borrowing costs above 6%",
+        "shortHeadline": "UK long-term borrowing\ncosts top 6%",
+        "standfirst": "Investors are concerned about inflation, oil prices and government debt. The rise adds pressure ahead of the chancellor’s first Budget.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-04-image.png",
+          "caption": "Traders on the New York Stock Exchange",
+          "source": {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publisher": "The Guardian",
+            "originalTitle": "Global bond sell-off intensifies as UK long-term borrowing costs pass 6%",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publishedAt": "2026-10-01T15:55:50.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "publisher": "The Guardian",
+            "originalTitle": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "publishedAt": "2026-10-01T15:52:14.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+        "segments": [
+          {
+            "id": "uk-04-s1",
+            "body": "The yield on UK 30-year government bonds briefly rose above 6% on Thursday, its highest level since 1998, amid a global bond sell-off. US 10-year Treasury yields also reached their highest level since 2002. The FTSE 100 fell nearly 1.7%, its steepest daily drop since May.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+            ]
+          },
+          {
+            "id": "uk-04-s2",
+            "title": "Inflation and oil remain concerns",
+            "body": "Investors are weighing the risk that high oil prices will feed inflation and keep interest rates elevated, alongside government borrowing and debt issuance. The Guardian reports Brent crude rose about 3% to roughly $101 a barrel. Separate analysis found crude exports from the Gulf had recovered, but refined products such as diesel remained constrained and shipping risks persisted.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+              "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+                "body": "Investors are weighing the risk that high oil prices will feed inflation and keep interest rates elevated, alongside government borrowing and debt issuance. The Guardian reports Brent crude rose about 3% to roughly $101 a barrel. Separate analysis found crude exports from the Gulf had recovered, but refined products such as diesel remained constrained and shipping risks persisted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Burnham faces scrutiny over praise for Manchester City’s owners",
+        "shortHeadline": "Burnham under fire over\nMan City owners’ case",
+        "standfirst": "The prime minister praised Abu Dhabi-backed investment in Manchester while an independent commission’s financial-rules ruling against the club is under appeal.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-05-image.png",
+          "caption": "Burnham’s comments have drawn scrutiny during the City case",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+            "publisher": "The i Paper",
+            "originalTitle": "How Man City’s owners wooed Andy Burnham, from property deals to football chats",
+            "canonicalUrl": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+            "publishedAt": "2026-10-01T16:37:39.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+        "segments": [
+          {
+            "id": "uk-05-s1",
+            "body": "Andy Burnham has faced criticism after describing Manchester City’s owners as important partners in the city’s development and saying he would be concerned if they left. An independent commission has found the club guilty of more than 100 alleged financial-rule breaches; City deny wrongdoing and plan to appeal. Burnham later said no one should be above the rules.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+                "body": "Andy Burnham has faced criticism after describing Manchester City’s owners as important partners in the city’s development and saying he would be concerned if they left. An independent commission has found the club guilty of more than 100 alleged financial-rule breaches; City deny wrongdoing and plan to appeal. Burnham later said no one should be above the rules."
+              }
+            ]
+          },
+          {
+            "id": "uk-05-s2",
+            "title": "Investment and political questions",
+            "body": "The i Paper details projects linked to the owners, including housing regeneration, university research investment and the Etihad stadium expansion. Critics say Burnham’s relationship with the owners risks compromising his position on an independent process; supporters of the investment point to jobs and changes in east Manchester. The club’s appeal process is ongoing.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
+                "body": "The i Paper details projects linked to the owners, including housing regeneration, university research investment and the Etihad stadium expansion. Critics say Burnham’s relationship with the owners risks compromising his position on an independent process; supporters of the investment point to jobs and changes in east Manchester. The club’s appeal process is ongoing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "ADHD and autism review delayed amid concerns about its timing",
+        "shortHeadline": "ADHD and autism review\nheld back before publication",
+        "standfirst": "The review was expected last week. Sources say publication timing and the debate around welfare reform contributed to the delay.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-06-image.png",
+          "caption": "The delayed review examines ADHD, autism and mental health",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publisher": "The i Paper",
+            "originalTitle": "ADHD overdiagnosis report delayed due to fears of backlash",
+            "canonicalUrl": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publishedAt": "2026-10-01T15:25:10.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+            "publisher": "The i Paper",
+            "originalTitle": "How people with ADHD could see benefits cut after overdiagnosis review",
+            "canonicalUrl": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+            "publishedAt": "2026-09-17T11:57:04.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+        "segments": [
+          {
+            "id": "uk-06-s1",
+            "body": "A government review of ADHD, autism and mental-health diagnoses was pulled shortly before its expected publication. The i Paper reports that sources were concerned it could dominate debate around welfare reforms at the Labour conference. The government says the final report will be published shortly.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611"
+            ]
+          },
+          {
+            "id": "uk-06-s2",
+            "title": "What the review is expected to say",
+            "body": "The review, led by Professor Peter Fonagy, is understood to find that ADHD and autism are not widely overdiagnosed, while recognising pockets of overdiagnosis and misdiagnosis. It is expected to recommend bringing services closer together so people can access support without first passing through a formal diagnosis pathway. Its recommendations are not yet published.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+              "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+                "body": "The review, led by Professor Peter Fonagy, is understood to find that ADHD and autism are not widely overdiagnosed, while recognising pockets of overdiagnosis and misdiagnosis. It is expected to recommend bringing services closer together so people can access support without first passing through a formal diagnosis pathway. Its recommendations are not yet published."
+              }
+            ]
+          },
+          {
+            "id": "uk-06-s3",
+            "title": "Diagnosis and access to support",
+            "body": "NHS figures cited by the i Paper show sharp increases in assessment waiting lists and in the number of people receiving disability benefits with ADHD as their main condition. Experts say some people are pushed to seek diagnosis because support is difficult to obtain otherwise; the review’s findings and the government’s eventual response will shape how that issue is addressed.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+                "body": "NHS figures cited by the i Paper show sharp increases in assessment waiting lists and in the number of people receiving disability benefits with ADHD as their main condition. Experts say some people are pushed to seek diagnosis because support is difficult to obtain otherwise; the review’s findings and the government’s eventual response will shape how that issue is addressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "West Ham co-owner David Sullivan sues BBC for £150m",
+        "shortHeadline": "Sullivan sues BBC over\nsexual-misconduct claims",
+        "standfirst": "Sullivan denies allegations made in a Panorama investigation and claims libel and malicious falsehood. The BBC has not yet responded in the report.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-07-image.png",
+          "caption": "The BBC programme featured women making allegations against Sullivan",
+          "source": {
+            "candidateId": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+            "publisher": "The Guardian",
+            "originalTitle": "David Sullivan sues BBC for £150m over Panorama’s sexual misconduct claims",
+            "canonicalUrl": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+            "publishedAt": "2026-10-01T15:57:49.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+        "segments": [
+          {
+            "id": "uk-07-s1",
+            "body": "David Sullivan has lodged a High Court claim against the BBC seeking £150m over its Panorama programme, which reported allegations of sexual misconduct by several women. Sullivan denies the allegations and says the claims are false. The allegations have not been established in court.",
+            "sourceRefs": [
+              "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+                "body": "David Sullivan has lodged a High Court claim against the BBC seeking £150m over its Panorama programme, which reported allegations of sexual misconduct by several women. Sullivan denies the allegations and says the claims are false. The allegations have not been established in court."
+              }
+            ]
+          },
+          {
+            "id": "uk-07-s2",
+            "title": "Separate safeguarding questions",
+            "body": "The Guardian reports that Sullivan, who remains West Ham’s largest shareholder, has faced restrictions on contact with the club’s women’s and youth teams since 2023 following a safeguarding investigation. Sullivan says the restrictions formed part of a temporary agreement and denies an alleged incident. The BBC’s programme and Sullivan’s claim are separate from that investigation.",
+            "sourceRefs": [
+              "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+                "body": "The Guardian reports that Sullivan, who remains West Ham’s largest shareholder, has faced restrictions on contact with the club’s women’s and youth teams since 2023 following a safeguarding investigation. Sullivan says the restrictions formed part of a temporary agreement and denies an alleged incident. The BBC’s programme and Sullivan’s claim are separate from that investigation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Jagtar Singh Johal freed on bail after nearly nine years in India",
+        "shortHeadline": "Scottish Sikh activist\nreleased on bail in India",
+        "standfirst": "Johal faces charges in eight other cases and must surrender his passport. He denies the allegations against him.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-08-image.png",
+          "caption": "Jagtar Singh Johal leaves prison on bail",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+            "publisher": "BBC News",
+            "originalTitle": "Jagtar Singh Johal freed on bail after nine years in Indian prison",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+            "publishedAt": "2026-10-01T12:23:40.026Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+        "segments": [
+          {
+            "id": "uk-08-s1",
+            "body": "Scottish Sikh activist Jagtar Singh Johal has been released on bail in India after almost nine years in detention without conviction. Arrested in 2017, he is accused of involvement in targeted killings, allegations he denies. His bail conditions include surrendering his passport and not speaking to the media about the case.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cxr50yln55rgo"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/news/articles/cxr50yln55rgo",
+                "body": "Scottish Sikh activist Jagtar Singh Johal has been released on bail in India after almost nine years in detention without conviction. Arrested in 2017, he is accused of involvement in targeted killings, allegations he denies. His bail conditions include surrendering his passport and not speaking to the media about the case."
+              }
+            ]
+          },
+          {
+            "id": "uk-08-s2",
+            "title": "The cases are not over",
+            "body": "Johal remains charged in eight other cases and could face the death penalty if convicted. His supporters say the charges are baseless and that he was targeted over his writing about alleged human-rights abuses; Indian authorities have maintained that due process is being followed and have denied his torture allegations. A UN panel recognised his detention as arbitrary in 2022.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cxr50yln55rgo"
+            ]
+          },
+          {
+            "id": "uk-08-s3",
+            "title": "A limited release",
+            "body": "The bail order says a trial is “certainly not likely to conclude anytime soon”. Johal’s family called his release a first step, while the UK government said it would continue consular support and raise concerns about his prolonged pre-trial detention and allegations of mistreatment.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cxr50yln55rgo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "North Zealand local rail disruption extended, with normal service years away",
+        "shortHeadline": "North Zealand rail cuts\ncontinue after train crash",
+        "standfirst": "An emergency timetable now runs until December. The operator expects normal fast trains on the Frederiksværk line only after 2029.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-01-image.png",
+          "caption": "Reduced service continues on the Frederiksværk line",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Lokalbanerne kører stadig ikke normalt efter ulykke på Gribskovbanen - det kritiseres af borgmester",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+            "publishedAt": "2026-10-01T17:15:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+        "segments": [
+          {
+            "id": "denmark-01-s1",
+            "body": "Reduced services on four of North Zealand’s five local rail lines will continue after an accident damaged two trains. Lokaltog says the emergency timetable is extended until December, and expects normal fast-train service on the Frederiksværk line no earlier than after 2029.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester"
+            ]
+          },
+          {
+            "id": "denmark-01-s2",
+            "title": "Local leaders demand alternatives",
+            "body": "Halsnæs mayor Steffen Jensen says overcrowding is leaving some passengers unable to get home from work and wants the region to explore buying used trainsets. Regional chair Lars Gaardhøj agrees that two years is a long wait, but says Lokaltog and Movia are responsible for restoring normal service. Movia says it will examine options for the busiest periods.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
+                "body": "Halsnæs mayor Steffen Jensen says overcrowding is leaving some passengers unable to get home from work and wants the region to explore buying used trainsets. Regional chair Lars Gaardhøj agrees that two years is a long wait, but says Lokaltog and Movia are responsible for restoring normal service. Movia says it will examine options for the busiest periods."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Frederiksen backs Ukrainian weapons production on Danish soil",
+        "shortHeadline": "Denmark to host Ukrainian\nmissile-fuel production",
+        "standfirst": "The prime minister says a planned Fire Point facility in Skrydstrup is needed for European defence. Local security concerns remain.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-02-image.png",
+          "caption": "Frederiksen backs the planned factory in Skrydstrup",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Vi bliver nødt til at producere våben på egen jord, siger Mette Frederiksen",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+            "publishedAt": "2026-09-30T19:34:50.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+        "segments": [
+          {
+            "id": "denmark-02-s1",
+            "body": "Mette Frederiksen has backed plans for Ukrainian company Fire Point to produce rocket fuel for ballistic missiles in Skrydstrup, southern Denmark. She said Europe must be able to produce more weapons at home and described Ukraine as the “first line of defence” for Denmark and Europe.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen"
+            ]
+          },
+          {
+            "id": "denmark-02-s2",
+            "title": "Local concerns and the wider threat",
+            "body": "The proposed factory has prompted concern among local residents, including over security. Frederiksen acknowledged those concerns but argued that Denmark and Europe would face greater risks without faster rearmament. A recent Danish threat assessment cited in the report warned of intensified Russian hybrid activity, while specifying that it was not describing a direct military attack on Denmark.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
+                "body": "The proposed factory has prompted concern among local residents, including over security. Frederiksen acknowledged those concerns but argued that Denmark and Europe would face greater risks without faster rearmament. A recent Danish threat assessment cited in the report warned of intensified Russian hybrid activity, while specifying that it was not describing a direct military attack on Denmark."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Municipal tax gaps leave some Danish towns cutting services",
+        "shortHeadline": "High-tax municipalities\nstruggle to protect services",
+        "standfirst": "New calculations show a large gap between municipal tax bills. Lolland says it must close schools and care homes despite having the country’s highest municipal tax rate.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-03-image.png",
+          "caption": "Explore the municipal tax differences across Denmark",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "credit": "Foto: / TV 2"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Store skatteforskelle deler Danmark – se hvor din kommune ligger",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "publishedAt": "2026-10-01T15:22:00.616Z"
+          },
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Lolland sparer skoler og plejecentre væk – \"fuldstændig vanvittigt\", siger borgmester",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester",
+            "publishedAt": "2026-09-30T19:03:19.528Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+        "segments": [
+          {
+            "id": "denmark-03-s1",
+            "body": "New calculations from Denmark’s tax ministry show that municipal income-tax bills vary widely. A family with two children could pay 14,700 kroner more each year in some municipalities than in Copenhagen. On Lolland, where the tax rate is among the highest, the council has agreed closures and cuts to balance its budget.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+              "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester"
+            ]
+          },
+          {
+            "id": "denmark-03-s2",
+            "title": "A local budget under pressure",
+            "body": "Lolland’s 2027 plan includes closing two schools, six care homes and a nursery, as well as withdrawing a ferry service and ending municipal operation of several halls and a museum. The separate report on the budget says the measures are intended to save 138.5 million kroner annually when fully in place in 2030.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester",
+                "body": "Lolland’s 2027 plan includes closing two schools, six care homes and a nursery, as well as withdrawing a ferry service and ending municipal operation of several halls and a museum. The separate report on the budget says the measures are intended to save 138.5 million kroner annually when fully in place in 2030."
+              }
+            ]
+          },
+          {
+            "id": "denmark-03-s3",
+            "title": "Calls for a new settlement",
+            "body": "Lolland’s mayor says residents pay more tax but receive less service. The government’s Social Democrats say they will examine a new equalisation reform; Rudersdal’s acting mayor says his municipality already contributes substantially to redistribution. The reports do not set out a settled proposal or outcome.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+                "body": "Lolland’s mayor says residents pay more tax but receive less service. The government’s Social Democrats say they will examine a new equalisation reform; Rudersdal’s acting mayor says his municipality already contributes substantially to redistribution. The reports do not set out a settled proposal or outcome."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Fourteen of Denmark’s Ethics Council members urge end to anonymous donation",
+        "shortHeadline": "Ethics Council backs\nending anonymous donors",
+        "standfirst": "The council says donor-conceived people should be able to learn their genetic origins. The health minister has called parties to discuss the issue.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Flertal i Etisk Råd anbefaler at fjerne anonym sæd- og ægdonation",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+            "publishedAt": "2026-09-30T16:04:00.244Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+        "segments": [
+          {
+            "id": "denmark-04-s1",
+            "body": "Fourteen members of Denmark’s Ethics Council recommend ending anonymous sperm and egg donation; one member supports keeping it. The council says donor-conceived people should eventually have a right to know their donor’s identity. Health Minister Ida Auken has invited parliamentary parties to discuss fertility policy.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation"
+            ]
+          },
+          {
+            "id": "denmark-04-s2",
+            "title": "Anonymity and practical limits",
+            "body": "Council chair Christine Nellemann says DNA testing and online genetic databases make it difficult to guarantee anonymity in practice. The council also notes that Danish donors’ genetic children can number in the hundreds across borders, as there is currently no international limit on pregnancies per donor.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+                "body": "Council chair Christine Nellemann says DNA testing and online genetic databases make it difficult to guarantee anonymity in practice. The council also notes that Danish donors’ genetic children can number in the hundreds across borders, as there is currently no international limit on pregnancies per donor."
+              }
+            ]
+          },
+          {
+            "id": "denmark-04-s3",
+            "title": "Concerns from the donation industry",
+            "body": "People in the donation industry have raised concerns that ending anonymity could make it harder to recruit donors and increase treatment costs, while others are less worried. The council recommends that open donors should be able to state in advance what kind of relationship they do or do not want with donor-conceived people.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Danish seal cases add to monitoring of bird flu in wild mammals",
+        "shortHeadline": "Bird flu found in four\nDanish seals this year",
+        "standfirst": "Researchers say there is no evidence the virus is spreading to people. They are watching for possible mammal-to-mammal transmission.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-05-image.png",
+          "caption": "A grey seal included in Denmark’s marine-mammal surveillance",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "credit": "Foto: / Patologivagten"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Fugleinfluenza fundet i flere sæler – kan smitte videre ifølge forsker",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publishedAt": "2026-10-01T14:56:19.126Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+        "segments": [
+          {
+            "id": "denmark-05-s1",
+            "body": "Highly pathogenic H5N1 bird flu was detected in four seals found around Denmark’s coasts in 2026: one near Solrød Strand and three around Lillebælt. The virus has circulated among wild birds and poultry in Denmark and Europe since 2020, and has also been found in other mammals.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker"
+            ]
+          },
+          {
+            "id": "denmark-05-s2",
+            "title": "How did the seals catch it?",
+            "body": "Researchers say the source is not clear: few tested wild birds had the virus this year, although birds are the expected route of infection. A University of Copenhagen researcher said mammal-to-mammal spread is a possible scenario, but there is no evidence of transmission to people. The report asks the public to report dead or stranded marine mammals.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+                "body": "Researchers say the source is not clear: few tested wild birds had the virus this year, although birds are the expected route of infection. A University of Copenhagen researcher said mammal-to-mammal spread is a possible scenario, but there is no evidence of transmission to people. The report asks the public to report dead or stranded marine mammals."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Government plans to cut SU for 81,000 students living at home",
+        "shortHeadline": "SU plan would affect\n81,000 students at home",
+        "standfirst": "Students whose parents earn more than 710,000 kroner a year would lose the grant. SF leaders reject claims of a broken promise and call it a coalition compromise.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-06-image.png",
+          "caption": "Government ministers Pia Olsen Dyhr and Martin Lidegaard",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "credit": "Foto: Sebastian Elias Uth / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Igen og igen har Pia Olsen Dyhr forsvaret SU’en – nu vil hun fjerne den for 81.000 unge",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publishedAt": "2026-10-01T12:36:24.164Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Magtens Morgenbrief: Dér blev vi klogere på, hvem der svinger taktstokken i regeringen",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen",
+            "publishedAt": "2026-10-01T03:30:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+        "segments": [
+          {
+            "id": "denmark-06-s1",
+            "body": "The Danish government plans to end SU grants for 81,000 students living with parents whose combined income exceeds 710,000 kroner a year. The proposal has drawn criticism of SF, whose leader Pia Olsen Dyhr previously opposed cuts to student support. SF says the plan is a coalition compromise, not a reversal of its position on a different SU proposal.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+              "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen"
+            ]
+          },
+          {
+            "id": "denmark-06-s2",
+            "title": "Pressure from within the party",
+            "body": "The leader of the SF youth organisation called the proposal a bad idea and said the party had campaigned on a different position. SF leaders argue that their earlier opposition concerned ending the sixth year of university support, and that the current proposal affects home-living students from higher-income families.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+                "body": "The leader of the SF youth organisation called the proposal a bad idea and said the party had campaigned on a different position. SF leaders argue that their earlier opposition concerned ending the sixth year of university support, and that the current proposal affects home-living students from higher-income families."
+              }
+            ]
+          },
+          {
+            "id": "denmark-06-s3",
+            "title": "How the government says it will pay",
+            "body": "A separate account of the first budget proposals says the government is also considering tighter conditions for graduate unemployment benefits and a cap on interest deductions. Political analysts quoted by DR say the first package shows Social Democrats and Moderates setting the pace in government, with SF under pressure to defend its priorities.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen",
+                "body": "A separate account of the first budget proposals says the government is also considering tighter conditions for graduate unemployment benefits and a cap on interest deductions. Political analysts quoted by DR say the first package shows Social Democrats and Moderates setting the pace in government, with SF under pressure to defend its priorities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Survey finds violence in more than half of Danish school classes",
+        "shortHeadline": "Survey finds violence in\n55% of school classes",
+        "standfirst": "A government-commissioned report says the youngest classes are most affected. The government plans a bill clarifying when teachers can intervene physically.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-07-image.png",
+          "caption": "The report says younger classes are most affected",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "credit": "Foto: Mads Claus Rasmussen / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Ny undersøgelse peger på voldsom udvikling i skolerne – de yngste hårdest ramt",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publishedAt": "2026-10-01T08:42:43.337Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+        "segments": [
+          {
+            "id": "denmark-07-s1",
+            "body": "A report commissioned by Denmark’s education ministry says 55% of school classes experienced violence between pupils in 2025, with more than one in three reporting incidents at least monthly. In the youngest classes, three in four had experienced violence or disruptive behaviour.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ]
+          },
+          {
+            "id": "denmark-07-s2",
+            "title": "The figures do not show a trend",
+            "body": "The report is the first to measure violence in Danish schools on this scale, so it cannot establish how the situation has changed over time. Researchers and school leaders told TV 2 that the spread of incidents is concerning, particularly in younger classes and those with pupils needing support.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+                "body": "The report is the first to measure violence in Danish schools on this scale, so it cannot establish how the situation has changed over time. Researchers and school leaders told TV 2 that the spread of incidents is concerning, particularly in younger classes and those with pupils needing support."
+              }
+            ]
+          },
+          {
+            "id": "denmark-07-s3",
+            "title": "What schools and government propose",
+            "body": "School leaders and researchers say teachers need support to build relationships between pupils and clearer guidance on when and how they may intervene. Education Minister Magnus Heunicke says the government will introduce a bill to give teachers better scope to act physically in such situations.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Support parties urge incoming parliament speaker to repay 644,800 kroner",
+        "shortHeadline": "Support parties press\nFrandsen to repay funds",
+        "standfirst": "Henrik Frandsen says he will repay money if authorities find he was not entitled to it. The dispute concerns compensation for land that was later allowed to return to farming.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-08-image.png",
+          "caption": "Frandsen received compensation for land that did not become protected nature",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+            "credit": "Foto: Mathias Svold / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Støttepartier vil have Frandsen til lommerne før forfremmelse",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+            "publishedAt": "2026-10-01T07:28:33.484Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+        "segments": [
+          {
+            "id": "denmark-08-s1",
+            "body": "Two government support parties say Henrik Frandsen should repay 644,800 kroner in compensation he received for land intended to become protected nature. TV 2 reports that his own administration approved the land’s return to agricultural use when he planned to sell the property, increasing its value by about one million kroner; the permission later proved not to have been valid.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+                "body": "Two government support parties say Henrik Frandsen should repay 644,800 kroner in compensation he received for land intended to become protected nature. TV 2 reports that his own administration approved the land’s return to agricultural use when he planned to sell the property, increasing its value by about one million kroner; the permission later proved not to have been valid."
+              }
+            ]
+          },
+          {
+            "id": "denmark-08-s2",
+            "title": "The repayment question is unresolved",
+            "body": "Frandsen has said he should have informed the municipality about the earlier agreement and that he will repay money if relevant authorities determine he was not entitled to it. Tønder Municipality says it did not administer the old support scheme and has declined to say whether it will seek repayment. A law lecturer cited by TV 2 says the agreement required the land to remain protected nature.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse"
+            ]
+          },
+          {
+            "id": "denmark-08-s3",
+            "title": "A parliamentary role in the balance",
+            "body": "Frandsen is expected to become speaker of parliament on 6 October. The support parties differ on whether repayment would affect their position: the Red-Green Alliance says it will still give him a chance to take office, while the Alternative says it has not decided how to vote.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse"
+            ]
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "id": "page-111",
+        "number": "111",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-01",
+          "segmentIds": [
+            "world-01-s1",
+            "world-01-s2",
+            "world-01-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-112",
+        "number": "112",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-02",
+          "segmentIds": [
+            "world-02-s1",
+            "world-02-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-113",
+        "number": "113",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-03",
+          "segmentIds": [
+            "world-03-s1",
+            "world-03-s2",
+            "world-03-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-114",
+        "number": "114",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-04",
+          "segmentIds": [
+            "world-04-s1",
+            "world-04-s2",
+            "world-04-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-115",
+        "number": "115",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-05",
+          "segmentIds": [
+            "world-05-s1",
+            "world-05-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-116",
+        "number": "116",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-06",
+          "segmentIds": [
+            "world-06-s1",
+            "world-06-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-117",
+        "number": "117",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-07",
+          "segmentIds": [
+            "world-07-s1",
+            "world-07-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-118",
+        "number": "118",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-08",
+          "segmentIds": [
+            "world-08-s1",
+            "world-08-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-121",
+        "number": "121",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-01",
+          "segmentIds": [
+            "uk-01-s1",
+            "uk-01-s2",
+            "uk-01-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-122",
+        "number": "122",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-02",
+          "segmentIds": [
+            "uk-02-s1",
+            "uk-02-s2",
+            "uk-02-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-123",
+        "number": "123",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-03",
+          "segmentIds": [
+            "uk-03-s1",
+            "uk-03-s2",
+            "uk-03-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-124",
+        "number": "124",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-04",
+          "segmentIds": [
+            "uk-04-s1",
+            "uk-04-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-125",
+        "number": "125",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-05",
+          "segmentIds": [
+            "uk-05-s1",
+            "uk-05-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-126",
+        "number": "126",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-06",
+          "segmentIds": [
+            "uk-06-s1",
+            "uk-06-s2",
+            "uk-06-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-127",
+        "number": "127",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-07",
+          "segmentIds": [
+            "uk-07-s1",
+            "uk-07-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-128",
+        "number": "128",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-08",
+          "segmentIds": [
+            "uk-08-s1",
+            "uk-08-s2",
+            "uk-08-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-131",
+        "number": "131",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-01",
+          "segmentIds": [
+            "denmark-01-s1",
+            "denmark-01-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-132",
+        "number": "132",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-02",
+          "segmentIds": [
+            "denmark-02-s1",
+            "denmark-02-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-133",
+        "number": "133",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-03",
+          "segmentIds": [
+            "denmark-03-s1",
+            "denmark-03-s2",
+            "denmark-03-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-134",
+        "number": "134",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-04",
+          "segmentIds": [
+            "denmark-04-s1",
+            "denmark-04-s2",
+            "denmark-04-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-135",
+        "number": "135",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-05",
+          "segmentIds": [
+            "denmark-05-s1",
+            "denmark-05-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-136",
+        "number": "136",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-06",
+          "segmentIds": [
+            "denmark-06-s1",
+            "denmark-06-s2",
+            "denmark-06-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-137",
+        "number": "137",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-07",
+          "segmentIds": [
+            "denmark-07-s1",
+            "denmark-07-s2",
+            "denmark-07-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-138",
+        "number": "138",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-08",
+          "segmentIds": [
+            "denmark-08-s1",
+            "denmark-08-s2",
+            "denmark-08-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-100",
+        "number": "100",
+        "sectionId": "home",
+        "template": "home",
+        "payload": {
+          "newsIndexReferenceId": "home-news",
+          "newsReferenceIds": [],
+          "discovery": [],
+          "serviceReferenceIds": []
+        }
+      },
+      {
+        "id": "page-101",
+        "number": "101",
+        "sectionId": "news-headlines",
+        "parent": "100",
+        "template": "news-index",
+        "payload": {
+          "title": "HEADLINES",
+          "storyReferenceIds": [
+            "headline-world-01",
+            "headline-uk-01",
+            "headline-world-02",
+            "headline-world-03",
+            "headline-uk-02",
+            "headline-denmark-05",
+            "headline-uk-04",
+            "headline-denmark-01"
+          ]
+        }
+      },
+      {
+        "id": "page-110",
+        "number": "110",
+        "sectionId": "world",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "WORLD",
+          "storyReferenceIds": [
+            "ref-world-01",
+            "ref-world-02",
+            "ref-world-03",
+            "ref-world-04",
+            "ref-world-05",
+            "ref-world-06",
+            "ref-world-07",
+            "ref-world-08"
+          ]
+        }
+      },
+      {
+        "id": "page-120",
+        "number": "120",
+        "sectionId": "uk",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "UK",
+          "storyReferenceIds": [
+            "ref-uk-01",
+            "ref-uk-02",
+            "ref-uk-03",
+            "ref-uk-04",
+            "ref-uk-05",
+            "ref-uk-06",
+            "ref-uk-07",
+            "ref-uk-08"
+          ]
+        }
+      },
+      {
+        "id": "page-130",
+        "number": "130",
+        "sectionId": "denmark",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "DENMARK",
+          "storyReferenceIds": [
+            "ref-denmark-01",
+            "ref-denmark-02",
+            "ref-denmark-03",
+            "ref-denmark-04",
+            "ref-denmark-05",
+            "ref-denmark-06",
+            "ref-denmark-07",
+            "ref-denmark-08"
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "id": "home-news",
+        "destination": {
+          "page": "101"
+        },
+        "label": "NEWS"
+      },
+      {
+        "id": "nav-101",
+        "destination": {
+          "page": "101"
+        },
+        "label": "HEADLINES"
+      },
+      {
+        "id": "nav-110",
+        "destination": {
+          "page": "110"
+        },
+        "label": "WORLD"
+      },
+      {
+        "id": "nav-120",
+        "destination": {
+          "page": "120"
+        },
+        "label": "UK"
+      },
+      {
+        "id": "nav-130",
+        "destination": {
+          "page": "130"
+        },
+        "label": "DENMARK"
+      },
+      {
+        "id": "ref-world-01",
+        "destination": {
+          "page": "111"
+        },
+        "label": "Passengers stopped attack on\nplunging Flydubai flight",
+        "contentId": "world-01"
+      },
+      {
+        "id": "ref-world-02",
+        "destination": {
+          "page": "112"
+        },
+        "label": "Drones hit a major Kyiv\nbridge and disrupt transport",
+        "contentId": "world-02"
+      },
+      {
+        "id": "ref-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "Tennessee halts executions\nafter Pike survives injections",
+        "contentId": "world-03"
+      },
+      {
+        "id": "ref-world-04",
+        "destination": {
+          "page": "114"
+        },
+        "label": "Disease and delayed care\nbehind deaths in India villages",
+        "contentId": "world-04"
+      },
+      {
+        "id": "ref-world-05",
+        "destination": {
+          "page": "115"
+        },
+        "label": "Satellite images reveal\nGaza’s widespread destruction",
+        "contentId": "world-05"
+      },
+      {
+        "id": "ref-world-06",
+        "destination": {
+          "page": "116"
+        },
+        "label": "School protests spread\nacross France amid violence",
+        "contentId": "world-06"
+      },
+      {
+        "id": "ref-world-07",
+        "destination": {
+          "page": "117"
+        },
+        "label": "Trump acknowledges some\nUS munitions are running low",
+        "contentId": "world-07"
+      },
+      {
+        "id": "ref-world-08",
+        "destination": {
+          "page": "118"
+        },
+        "label": "Japan raises residency fee\nand adds new requirements",
+        "contentId": "world-08"
+      },
+      {
+        "id": "ref-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "Sixth arrest in RAF\nFairford investigation",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "ref-uk-02",
+        "destination": {
+          "page": "122"
+        },
+        "label": "Early releases begin amid\nwarnings over housing",
+        "contentId": "uk-02"
+      },
+      {
+        "id": "ref-uk-03",
+        "destination": {
+          "page": "123"
+        },
+        "label": "EU debate divides Labour\nafter Burnham’s remarks",
+        "contentId": "uk-03"
+      },
+      {
+        "id": "ref-uk-04",
+        "destination": {
+          "page": "124"
+        },
+        "label": "UK long-term borrowing\ncosts top 6%",
+        "contentId": "uk-04"
+      },
+      {
+        "id": "ref-uk-05",
+        "destination": {
+          "page": "125"
+        },
+        "label": "Burnham under fire over\nMan City owners’ case",
+        "contentId": "uk-05"
+      },
+      {
+        "id": "ref-uk-06",
+        "destination": {
+          "page": "126"
+        },
+        "label": "ADHD and autism review\nheld back before publication",
+        "contentId": "uk-06"
+      },
+      {
+        "id": "ref-uk-07",
+        "destination": {
+          "page": "127"
+        },
+        "label": "Sullivan sues BBC over\nsexual-misconduct claims",
+        "contentId": "uk-07"
+      },
+      {
+        "id": "ref-uk-08",
+        "destination": {
+          "page": "128"
+        },
+        "label": "Scottish Sikh activist\nreleased on bail in India",
+        "contentId": "uk-08"
+      },
+      {
+        "id": "ref-denmark-01",
+        "destination": {
+          "page": "131"
+        },
+        "label": "North Zealand rail cuts\ncontinue after train crash",
+        "contentId": "denmark-01"
+      },
+      {
+        "id": "ref-denmark-02",
+        "destination": {
+          "page": "132"
+        },
+        "label": "Denmark to host Ukrainian\nmissile-fuel production",
+        "contentId": "denmark-02"
+      },
+      {
+        "id": "ref-denmark-03",
+        "destination": {
+          "page": "133"
+        },
+        "label": "High-tax municipalities\nstruggle to protect services",
+        "contentId": "denmark-03"
+      },
+      {
+        "id": "ref-denmark-04",
+        "destination": {
+          "page": "134"
+        },
+        "label": "Ethics Council backs\nending anonymous donors",
+        "contentId": "denmark-04"
+      },
+      {
+        "id": "ref-denmark-05",
+        "destination": {
+          "page": "135"
+        },
+        "label": "Bird flu found in four\nDanish seals this year",
+        "contentId": "denmark-05"
+      },
+      {
+        "id": "ref-denmark-06",
+        "destination": {
+          "page": "136"
+        },
+        "label": "SU plan would affect\n81,000 students at home",
+        "contentId": "denmark-06"
+      },
+      {
+        "id": "ref-denmark-07",
+        "destination": {
+          "page": "137"
+        },
+        "label": "Survey finds violence in\n55% of school classes",
+        "contentId": "denmark-07"
+      },
+      {
+        "id": "ref-denmark-08",
+        "destination": {
+          "page": "138"
+        },
+        "label": "Support parties press\nFrandsen to repay funds",
+        "contentId": "denmark-08"
+      },
+      {
+        "id": "headline-world-01",
+        "destination": {
+          "page": "111"
+        },
+        "label": "Passengers stopped attack on\nplunging Flydubai flight",
+        "contentId": "world-01"
+      },
+      {
+        "id": "headline-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "Sixth arrest in RAF\nFairford investigation",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "headline-world-02",
+        "destination": {
+          "page": "112"
+        },
+        "label": "Drones hit a major Kyiv\nbridge and disrupt transport",
+        "contentId": "world-02"
+      },
+      {
+        "id": "headline-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "Tennessee halts executions\nafter Pike survives injections",
+        "contentId": "world-03"
+      },
+      {
+        "id": "headline-uk-02",
+        "destination": {
+          "page": "122"
+        },
+        "label": "Early releases begin amid\nwarnings over housing",
+        "contentId": "uk-02"
+      },
+      {
+        "id": "headline-denmark-05",
+        "destination": {
+          "page": "135"
+        },
+        "label": "Bird flu found in four\nDanish seals this year",
+        "contentId": "denmark-05"
+      },
+      {
+        "id": "headline-uk-04",
+        "destination": {
+          "page": "124"
+        },
+        "label": "UK long-term borrowing\ncosts top 6%",
+        "contentId": "uk-04"
+      },
+      {
+        "id": "headline-denmark-01",
+        "destination": {
+          "page": "131"
+        },
+        "label": "North Zealand rail cuts\ncontinue after train crash",
+        "contentId": "denmark-01"
+      }
+    ]
+  }
+}
