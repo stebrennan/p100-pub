@@ -1,0 +1,2297 @@
+{
+  "schemaVersion": 3,
+  "edition": {
+    "id": "p100-news-20261001T200343223Z",
+    "revision": "local",
+    "publishedAt": "2026-10-01T20:06:18.033Z",
+    "title": "P100 NEWS",
+    "deck": "An execution halted by failure, an alleged threat near a UK airbase and pressure on household finances. Plus Danish defence questions and the local services debate.",
+    "editedOn": "2026-10-01",
+    "estimatedReadingMinutes": 17,
+    "editorialNote": "A cross-section of the day’s major developments, with follow-up screens where the gather offers meaningful context. Allegations, official claims and proposals remain attributed; several investigations and policy decisions are unresolved.",
+    "sourceGather": {
+      "snapshotId": "20261001T200343223Z",
+      "generatedAt": "2026-10-01T20:03:43.223Z"
+    },
+    "sections": [
+      {
+        "id": "home",
+        "title": "HOME",
+        "kind": "service",
+        "contentIds": []
+      },
+      {
+        "id": "news-headlines",
+        "title": "HEADLINES",
+        "kind": "editorial",
+        "contentIds": [],
+        "familyId": "news",
+        "familyNavigationReferenceIds": [
+          "nav-101",
+          "nav-110",
+          "nav-120",
+          "nav-130"
+        ]
+      },
+      {
+        "id": "world",
+        "title": "WORLD",
+        "kind": "editorial",
+        "contentIds": [
+          "world-01",
+          "world-02",
+          "world-03",
+          "world-04",
+          "world-05",
+          "world-06",
+          "world-07",
+          "world-08"
+        ],
+        "familyId": "news"
+      },
+      {
+        "id": "uk",
+        "title": "UK",
+        "kind": "editorial",
+        "contentIds": [
+          "uk-01",
+          "uk-02",
+          "uk-03",
+          "uk-04",
+          "uk-05",
+          "uk-06",
+          "uk-07",
+          "uk-08"
+        ],
+        "familyId": "news"
+      },
+      {
+        "id": "denmark",
+        "title": "DENMARK",
+        "kind": "editorial",
+        "contentIds": [
+          "denmark-01",
+          "denmark-02",
+          "denmark-03",
+          "denmark-04",
+          "denmark-05",
+          "denmark-06",
+          "denmark-07",
+          "denmark-08"
+        ],
+        "familyId": "news"
+      }
+    ],
+    "content": [
+      {
+        "id": "world-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Christa Pike survives two lethal injections; Tennessee halts executions",
+        "shortHeadline": "Pike survives two injections; Tennessee halts executions",
+        "standfirst": "Pike is in critical condition after Tennessee’s failed execution attempt. The governor has ordered an independent review and paused executions for the rest of the year.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-01-image.png",
+          "caption": "What we know after Christa Pike survived two lethal injections",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmn4540d4z87o",
+            "publisher": "BBC News",
+            "originalTitle": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn4540d4z87o",
+            "publishedAt": "2026-10-01T15:43:05.368Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "publisher": "BBC News",
+            "originalTitle": "What happened in the failed execution of Christa Pike - and what next?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+            "publishedAt": "2026-10-01T10:29:49.639Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/hun-overlevede-mislykket-henrettelse-i-usa-nu-meldes-hun-i-kritisk-tilstand",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Hun overlevede mislykket henrettelse i USA - nu meldes hun i kritisk tilstand",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/hun-overlevede-mislykket-henrettelse-i-usa-nu-meldes-hun-i-kritisk-tilstand",
+            "publishedAt": "2026-10-01T19:19:35.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/seneste/henrettelsesforsoeg-af-doedsdoemt-kvinde-i-tennessee-mislykkes",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Henrettelse af dødsdømt kvinde i Tennessee mislykkes",
+            "canonicalUrl": "https://www.dr.dk/nyheder/seneste/henrettelsesforsoeg-af-doedsdoemt-kvinde-i-tennessee-mislykkes",
+            "publishedAt": "2026-10-01T04:27:05.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/mislykket-henrettelse-i-usa-rejser-nye-spoergsmaal-om-omstridt-metode",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Mislykket henrettelse i USA rejser nye spørgsmål om omstridt metode",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/mislykket-henrettelse-i-usa-rejser-nye-spoergsmaal-om-omstridt-metode",
+            "publishedAt": "2026-10-01T13:30:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+        "segments": [
+          {
+            "id": "world-01-s1",
+            "title": "A failed execution, then emergency care",
+            "body": "Christa Pike, 50, is in critical condition and receiving life-saving care after surviving two doses of pentobarbital during an attempted execution in Tennessee. Her lawyers say she remained alive after the injections and was taken to hospital. Governor Bill Lee has halted executions for the rest of the year and ordered an independent review; Pike’s lawyers are seeking to have her sentence commuted.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn4540d4z87o",
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+              "https://www.dr.dk/nyheder/udland/hun-overlevede-mislykket-henrettelse-i-usa-nu-meldes-hun-i-kritisk-tilstand",
+              "https://www.dr.dk/nyheder/seneste/henrettelsesforsoeg-af-doedsdoemt-kvinde-i-tennessee-mislykkes"
+            ]
+          },
+          {
+            "id": "world-01-s2",
+            "title": "What investigators still need to explain",
+            "body": "The state’s correction department says it followed its approved protocol, but has not explained why the doses were not fatal. The protocol is unclear about what should happen if a prisoner remains alive after a second dose. A medical expert retained by Pike’s legal team told the BBC that an IV problem could have prevented the drug reaching her bloodstream effectively; the cause has not been established. Her prognosis is also unknown.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn4540d4z87o",
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
+              "https://www.dr.dk/nyheder/udland/mislykket-henrettelse-i-usa-rejser-nye-spoergsmaal-om-omstridt-metode"
+            ]
+          },
+          {
+            "id": "world-01-s3",
+            "title": "Questions about a possible second attempt",
+            "body": "The review comes after two failed execution attempts in Tennessee this year: staff were unable to find a vein for Tony Carruthers in May. A lawyer quoted by the BBC said past US Supreme Court decisions suggest federal courts may not block a second attempt, though Pike’s lawyers can pursue further legal challenges and seek clemency. Tennessee has not said whether it will try again.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn4540d4z87o",
+              "https://www.bbc.com/news/articles/ckge4eql4q7eo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Flydubai flight lands safely after cockpit stabbing and steep descent",
+        "shortHeadline": "Cockpit stabbing sends Flydubai flight into steep descent",
+        "standfirst": "Passengers and crew helped subdue an attacker on a Dubai-to-Tel Aviv flight that landed in Saudi Arabia. Investigators have not established his motive.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-02-image.png",
+          "caption": "Captain Smit Machchhar, praised for his actions after the attack",
+          "source": {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/crje8edqyej9o",
+            "publisher": "BBC News",
+            "originalTitle": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+            "canonicalUrl": "https://www.bbc.com/news/articles/crje8edqyej9o",
+            "publishedAt": "2026-10-01T15:38:13.660Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+            "publisher": "BBC News",
+            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+            "publishedAt": "2026-10-01T06:01:47.649Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+            "publisher": "The Guardian",
+            "originalTitle": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+            "publishedAt": "2026-10-01T16:04:48.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+            "publisher": "The Guardian",
+            "originalTitle": "‘Hero’ pilot, plumber and dentist among those who saved flydubai flight to Israel",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+            "publishedAt": "2026-10-01T02:56:02.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+            "publisher": "The Guardian",
+            "originalTitle": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+            "publishedAt": "2026-09-30T17:47:25.000Z"
+          },
+          {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jaegerpilot-kalder-fly-episode-for-mirakel",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Tidligere jægerpilot kalder fly-episode for \"mirakel\"",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jaegerpilot-kalder-fly-episode-for-mirakel",
+            "publishedAt": "2026-10-01T18:00:50.690Z"
+          },
+          {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-09-30-vi-befinder-os-i-cockpittet-vi-har-netop-overmandet-terroristerne",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "- Vi befinder os i cockpittet. Vi har netop overmandet terroristerne",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-09-30-vi-befinder-os-i-cockpittet-vi-har-netop-overmandet-terroristerne",
+            "publishedAt": "2026-09-30T19:23:20.478Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+            "publisher": "The Guardian",
+            "originalTitle": "Should cockpits stay locked from the inside? Flydubai stabbing raises flight security questions",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+            "publishedAt": "2026-10-01T12:04:08.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+        "segments": [
+          {
+            "id": "world-02-s1",
+            "title": "Passengers and crew regain control",
+            "body": "A Flydubai flight bound for Tel Aviv landed safely in Tabuk, Saudi Arabia, after one pilot stabbed the captain and the aircraft plunged thousands of feet. The wounded captain, Indian national Smit Machchhar, was able to open the cockpit door, according to accounts reported by the Guardian and BBC. Passengers and crew subdued the attacker; other pilots aboard helped stabilise the aircraft. Machchhar was reported to be recovering in hospital.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/crje8edqyej9o",
+              "https://www.bbc.com/news/articles/cje3r3z7g0zzo",
+              "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+              "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+              "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+              "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jaegerpilot-kalder-fly-episode-for-mirakel",
+              "https://nyheder.tv2.dk/udland/2026-09-30-vi-befinder-os-i-cockpittet-vi-har-netop-overmandet-terroristerne"
+            ]
+          },
+          {
+            "id": "world-02-s2",
+            "title": "Motive remains under investigation",
+            "body": "Israeli Prime Minister Benjamin Netanyahu has said the suspected attacker had undergone Islamist radical indoctrination, but he also cautioned against drawing firm conclusions. UAE authorities say they are investigating whether the incident was linked to terrorism. A regional official told the Associated Press that investigators were considering possibilities ranging from terrorism to mental illness. Flydubai has urged against premature speculation; no motive has been established.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/crje8edqyej9o",
+              "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+              "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073"
+            ]
+          },
+          {
+            "id": "world-02-s3",
+            "title": "The cockpit security dilemma",
+            "body": "The incident has renewed debate about cockpit doors locked from the inside since the 9/11 attacks. Aviation security expert Philip Baum argues that a fortress-like cockpit can hinder a rescue when a pilot inside becomes a threat. Others stress the need to protect the flight deck from hijacking. How the door was opened during this flight is not yet clear, and experts say screening and pilot welfare also warrant scrutiny.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+              "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
+                "body": "The incident has renewed debate about cockpit doors locked from the inside since the 9/11 attacks. Aviation security expert Philip Baum argues that a fortress-like cockpit can hinder a rescue when a pilot inside becomes a threat. Others stress the need to protect the flight deck from hijacking. How the door was opened during this flight is not yet clear, and experts say screening and pilot welfare also warrant scrutiny."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Putin threatens ‘all weapons’ if Kaliningrad is attacked",
+        "shortHeadline": "Putin warns West over Russia’s Kaliningrad exclave",
+        "standfirst": "The Russian president says Moscow would use all available weapons if Kaliningrad came under direct attack. NATO says its activities pose no threat to Russia.",
+        "viewerProvenance": "BBC NEWS",
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cqg7k7v499jjo",
+            "publisher": "BBC News",
+            "originalTitle": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqg7k7v499jjo",
+            "publishedAt": "2026-10-01T18:09:03.215Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cqg7k7v499jjo",
+        "segments": [
+          {
+            "id": "world-03-s1",
+            "title": "A warning over the Baltic exclave",
+            "body": "Vladimir Putin said Russia would put all weapons at its disposal on the agenda if it considered Kaliningrad to be under direct attack. The Russian exclave lies between Lithuania and Poland. Putin also said Moscow was not threatening anyone and was responding to Western statements about the risk of a future war.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqg7k7v499jjo"
+            ]
+          },
+          {
+            "id": "world-03-s2",
+            "title": "Competing claims amid regional tension",
+            "body": "Moscow has accused NATO of preparing to blockade Kaliningrad and warned it could use nuclear weapons if the territory were cut off. NATO Secretary General Mark Rutte said the alliance’s exercises and activities posed no threat. The BBC reports recent incidents blamed on Russia in Poland and the Baltics, as well as German concern about possible hybrid attacks. The gather does not establish that an attack on Kaliningrad is imminent.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqg7k7v499jjo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Satellite images show Gaza’s destruction and crowded tent camps",
+        "shortHeadline": "New satellite images reveal Gaza’s scale of destruction",
+        "standfirst": "Images taken in June show widespread damage and large tented camps. The UN estimates about 82% of Gaza’s structures have been damaged.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-04-image.png",
+          "caption": "Tented camps line the shore at al-Mawasi in Rafah",
+          "source": {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publisher": "The Guardian",
+            "originalTitle": "New Google Maps images reveal massive scale of devastation in Gaza",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+            "publishedAt": "2026-10-01T04:00:28.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+        "segments": [
+          {
+            "id": "world-04-s1",
+            "title": "A landscape reshaped by war",
+            "body": "Updated satellite images of Gaza, taken in June, show destruction across residential areas, businesses, places of worship and infrastructure. The Guardian reports that tented camps line much of the coast, while large areas of Gaza City and Rafah appear devastated. The images offer a view of the physical damage, not a full accounting of the humanitarian needs on the ground.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza"
+            ]
+          },
+          {
+            "id": "world-04-s2",
+            "title": "Displacement and rubble remain pressing issues",
+            "body": "More than 2.1 million displaced people are living in tents and temporary shelters, according to the UN agency for Palestinian refugees, Unrwa. The agency estimates around 82% of structures—about 200,000 buildings—have been damaged, with roughly two-thirds of those destroyed. A recent UN assessment found the number of destroyed structures had risen since the ceasefire declaration in October 2025.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Oil exports through Hormuz recover, but diesel supplies lag",
+        "shortHeadline": "Crude flows recover; diesel remains scarce and costly",
+        "standfirst": "Alternative routes have helped crude exports from the Gulf return to pre-war levels. Refined fuel flows, including diesel, remain far lower.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-05-image.png",
+          "caption": "Oil shipments have adapted, but risks around Hormuz remain",
+          "source": {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "publisher": "The Guardian",
+            "originalTitle": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+            "publishedAt": "2026-10-01T15:52:14.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+        "segments": [
+          {
+            "id": "world-05-s1",
+            "title": "Workarounds restore crude shipments",
+            "body": "At least 16.5 million barrels of crude a day left the region in September, matching the pre-war average excluding Iran, according to trade intelligence firm Kpler. Pipelines and ship-to-ship transfers are among the workarounds exporters have used as disruption in the Strait of Hormuz continues. Kpler estimates about 40% of regional crude now avoids the strait, compared with 17% before the war.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel"
+            ]
+          },
+          {
+            "id": "world-05-s2",
+            "title": "Refined products are still constrained",
+            "body": "The recovery does not extend to refined products such as diesel. Kpler recorded an average of 677,000 barrels a day of refined products crossing Hormuz as of Monday, against 3.6 million before the conflict. The Guardian reports UK diesel prices reached a record 199.18p a litre on Monday. The shipping risk also remains: three tankers were hit by projectiles while transiting the strait on Tuesday.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "At least 32 children die amid disease outbreaks in Indian villages",
+        "shortHeadline": "Disease and delayed care amid 32 child deaths in India",
+        "standfirst": "Officials link deaths in remote villages in Madhya Pradesh to measles and malaria, with malnutrition and delays in treatment also suspected.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-06-image.png",
+          "caption": "A family’s account of the outbreak in Balaghat",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publisher": "BBC News",
+            "originalTitle": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+            "publishedAt": "2026-09-30T23:41:34.953Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
+        "segments": [
+          {
+            "id": "world-06-s1",
+            "title": "Several illnesses, many deaths",
+            "body": "At least 32 children have died since May in a cluster of remote villages in India’s Balaghat district, officials say. They attribute some deaths to measles and others to malaria, with some children affected by more than one infection. The precise cause of every death is uncertain; officials and doctors also point to malnutrition and delayed treatment.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ]
+          },
+          {
+            "id": "world-06-s2",
+            "title": "Distance and beliefs delayed treatment",
+            "body": "For some families, reaching the nearest state hospital means a difficult journey over muddy tracks and a day away from work. Some illnesses are also understood by some Baiga families as the arrival of a disease goddess, leading families to seek rituals rather than medical care. One mother whose child died said the family had no way to reach hospital in heavy rain.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ]
+          },
+          {
+            "id": "world-06-s3",
+            "title": "Vaccination and services under scrutiny",
+            "body": "Health teams have since screened children door to door and offered measles-rubella vaccination to all children under 15 in the affected area. Officials said about 27,000 of roughly 40,000 identified children had been vaccinated. The outbreak has subsided, but the report describes longstanding vulnerabilities, including poor nutrition and gaps in access to health services.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn9wr84v1qno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Canada fast-tracks proposed Pacific oil pipeline",
+        "shortHeadline": "Carney backs Pacific pipeline to diversify oil exports",
+        "standfirst": "The proposed route would carry Alberta crude to the Pacific coast. Its approval process is being fast-tracked, but the project faces major scrutiny and opposition.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-07-image.png",
+          "caption": "Mark Carney is pushing to make Canada a major energy exporter",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+            "credit": "Reuters"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+            "publisher": "BBC News",
+            "originalTitle": "Carney pitches oil pipeline as a response to US-Canada trade war",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+            "publishedAt": "2026-10-01T17:47:38.358Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cm7505q2v2pqo",
+        "segments": [
+          {
+            "id": "world-07-s1",
+            "title": "A route to markets beyond the US",
+            "body": "Mark Carney’s government will fast-track federal reviews of the proposed 1,250km Pacific Link pipeline from Alberta to a deep-water port near Delta, British Columbia. The project is designed to move up to one million barrels of crude a day for export to global markets. Canada sent 90% of its crude exports to the US last year, and Carney argues diversification is a national priority.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cm7505q2v2pqo"
+            ]
+          },
+          {
+            "id": "world-07-s2",
+            "title": "Cost, consultation and environmental questions",
+            "body": "The project is estimated to cost between C$35.2bn and C$43.7bn, with construction planned to start by 2032 if it receives final approval. The proposal is backed by the federal and Alberta governments and one private investor, with an ownership stake to be offered to Indigenous groups. It is likely to face opposition over coastal impacts and the route through Indigenous communities; the government says further consultation is planned.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cm7505q2v2pqo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Undersea cables and pipelines expose a fragile global network",
+        "shortHeadline": "The hidden undersea infrastructure carrying global trade",
+        "standfirst": "Cables carry most global internet traffic, while pipelines and power links underpin energy supplies. Security expert Elisabeth Braw warns that protecting them is difficult.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/world-08-image.png",
+          "caption": "Security expert Elisabeth Braw on undersea infrastructure",
+          "source": {
+            "candidateId": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+            "publisher": "The Guardian",
+            "originalTitle": "Inside the undersea kingdom: the secret, sinister battle to control what lies beneath the waves",
+            "canonicalUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+            "publishedAt": "2026-10-01T11:00:49.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+        "segments": [
+          {
+            "id": "world-08-s1",
+            "title": "A critical network out of sight",
+            "body": "Undersea cables carry 95–99% of global internet traffic, while cables and pipelines also move electricity, oil and gas. Security expert Elisabeth Braw describes a system essential to modern life but difficult to guard. She points to the 2024 Eagle S incident, in which a tanker crossed several Baltic cables; Finnish authorities could not compel it to stop outside their territorial waters.",
+            "sourceRefs": [
+              "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves",
+                "body": "Undersea cables carry 95–99% of global internet traffic, while cables and pipelines also move electricity, oil and gas. Security expert Elisabeth Braw describes a system essential to modern life but difficult to guard. She points to the 2024 Eagle S incident, in which a tanker crossed several Baltic cables; Finnish authorities could not compel it to stop outside their territorial waters."
+              }
+            ]
+          },
+          {
+            "id": "world-08-s2",
+            "title": "Ownership and law complicate protection",
+            "body": "Technology companies are planning their own undersea cables, raising questions about control of infrastructure that has historically served many users. Braw warns that a private owner could potentially restrict access, while maritime authorities have to distinguish accidents from sabotage and decide how to respond. The article also examines deep-sea mining and the risk that unilateral action could weaken international rules.",
+            "sourceRefs": [
+              "https://www.theguardian.com/lifeandstyle/2026/oct/01/inside-the-undersea-kingdom-the-secret-sinister-battle-to-control-what-lies-beneath-the-waves"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Sixth arrest in investigation into suspected RAF Fairford plot",
+        "shortHeadline": "Sixth arrest in RAF Fairford investigation",
+        "standfirst": "A 25-year-old dual UK-Iranian national has been arrested in Westminster. Police say they are considering all possible angles, including foreign-state involvement.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-01-image.png",
+          "caption": "Police roadblock near RAF Fairford after the incident",
+          "source": {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "publisher": "BBC News",
+            "originalTitle": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmdx5xw36492o",
+            "publishedAt": "2026-10-01T16:43:57.555Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "publisher": "The Guardian",
+            "originalTitle": "UK-Iran national arrested under Terrorism Act over RAF Fairford incident",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+            "publishedAt": "2026-10-01T17:02:01.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+            "publisher": "The i Paper",
+            "originalTitle": "All the signs that Iran was behind RAF Fairford ‘terror plot’",
+            "canonicalUrl": "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+            "publishedAt": "2026-10-01T15:19:02.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+            "publisher": "The i Paper",
+            "originalTitle": "A ‘dry run’ or fuel thieves? The RAF Fairford plot scenarios, according to experts",
+            "canonicalUrl": "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+            "publishedAt": "2026-09-29T15:28:32.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480",
+            "publisher": "The i Paper",
+            "originalTitle": "How RAF Fairford was left exposed to ‘Iran-linked terror plot’",
+            "canonicalUrl": "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480",
+            "publishedAt": "2026-09-28T17:40:14.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+        "segments": [
+          {
+            "id": "uk-01-s1",
+            "title": "A new arrest in a complex inquiry",
+            "body": "Counter-terrorism police have arrested a 25-year-old dual UK-Iranian national in Westminster on suspicion of preparing terrorist acts in connection with events near RAF Fairford. Two properties in the area have been searched. Five men arrested near the Gloucestershire base on Sunday remain on police bail.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmdx5xw36492o",
+              "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+              "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710"
+            ]
+          },
+          {
+            "id": "uk-01-s2",
+            "title": "Foreign involvement is not established",
+            "body": "Police say they are investigating multiple lines of inquiry, including possible foreign-state involvement. Prime Minister Andy Burnham has said there are strong indications Iran played a part, but has not provided details; Tehran denies involvement. Petrol was found in vans near the site, but police said no explosive devices were found. The investigation has not established what the men intended to do.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmdx5xw36492o",
+              "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+              "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+              "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895"
+            ]
+          },
+          {
+            "id": "uk-01-s3",
+            "title": "Why the first five were bailed",
+            "body": "The Guardian reports that searches linked to the first five men found no evidence of a viable device, and that they were detained under the Police and Criminal Evidence Act before being bailed. The i Paper reports experts offering competing possibilities, including unwitting proxies, hostile reconnaissance or another explanation. Police have described the release decision as an investigative one; it does not determine guilt or innocence.",
+            "sourceRefs": [
+              "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+              "https://inews.co.uk/news/signs-iran-behind-raf-fairford-terror-plot-4802710",
+              "https://inews.co.uk/news/dry-run-fuel-thieves-raf-fairford-plot-scenarios-4796895",
+              "https://inews.co.uk/news/how-raf-fairford-left-exposed-iran-linked-terror-plot-4794480"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Bond-market turmoil raises pressure before the Chancellor’s Budget",
+        "shortHeadline": "Borrowing costs surge ahead of Healey’s first Budget",
+        "standfirst": "UK long-term borrowing costs briefly reached their highest level since 1998 as oil-driven inflation fears hit bond markets. Labour figures are also questioning the Budget’s direction.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-02-image.png",
+          "caption": "Traders at the New York Stock Exchange",
+          "source": {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publisher": "The Guardian",
+            "originalTitle": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+            "publishedAt": "2026-10-01T17:56:18.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+            "publisher": "The Guardian",
+            "originalTitle": "Labour figures uneasy about Healey’s ‘underpowered’ approach to budget",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+            "publishedAt": "2026-10-01T18:33:40.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+        "segments": [
+          {
+            "id": "uk-02-s1",
+            "title": "UK borrowing costs rise",
+            "body": "The yield on 30-year UK government bonds briefly reached 6% on Thursday, its highest level since 1998, as a global bond sell-off intensified. The Guardian reports the 10-year US yield also rose to its highest level since 2002. Investors are concerned about inflation, high oil prices and government borrowing; UK five- and 10-year yields rose too.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+              "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget"
+            ]
+          },
+          {
+            "id": "uk-02-s2",
+            "title": "A Budget under pressure",
+            "body": "The market moves come as Chancellor John Healey prepares his first Budget later this month. Labour figures quoted by the Guardian worry that his conference speech gave too little detail on growth, investment, tax and spending. Market changes are expected to have eroded at least half of the £24bn fiscal buffer built by his predecessor, Rachel Reeves, though Healey has not set out how he will respond.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+              "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+            ]
+          },
+          {
+            "id": "uk-02-s3",
+            "title": "Energy costs add to uncertainty",
+            "body": "The Guardian links the bond sell-off to fears that the Iran conflict could keep oil prices high and inflation persistent. Brent crude rose about 3% to roughly $101 a barrel on Thursday. The path of UK borrowing costs, the remaining fiscal headroom and the Chancellor’s Budget choices remain uncertain.",
+            "sourceRefs": [
+              "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Ministers weigh changes to disability support for under-25s",
+        "shortHeadline": "Under-25 disability benefits could face major changes",
+        "standfirst": "A proposal under discussion could remove the health element of universal credit for some young claimants and replace it with employment support. Ministers say no final decisions have been made.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-03-image.png",
+          "caption": "The proposals focus on support for young people out of work",
+          "source": {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "publisher": "The Guardian",
+            "originalTitle": "Key disability benefit for young people may be axed under major welfare changes",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "publishedAt": "2026-10-01T18:43:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+        "segments": [
+          {
+            "id": "uk-03-s1",
+            "title": "A possible change, not a settled policy",
+            "body": "Ministers are considering removing the health element of universal credit for claimants under 25, including possibly existing claimants, and increasing help with jobs and mental health support. The plans are still being developed and depend on reviews of youth employment and personal independence payment. A government source said details were yet to be decided and those unable to work would be protected.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk"
+            ]
+          },
+          {
+            "id": "uk-03-s2",
+            "title": "The scale and political stakes",
+            "body": "About 184,000 people aged 16 to 24 receive the universal credit health element, which has already been reduced for most new claimants to £217 a month from next April. The Guardian reports that ministers are also considering a replacement system for PIP. Any major changes would require legislation and could revive Labour MPs’ concerns about the impact on disabled people’s living costs.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk"
+            ]
+          },
+          {
+            "id": "uk-03-s3",
+            "title": "Supporters and critics disagree on the route back to work",
+            "body": "Alan Milburn has argued that too few young people on disability benefits receive help into work and that many become trapped on benefits. Charities warn that cuts or tougher conditions could push vulnerable young people deeper into poverty; Scope estimates about half of households with an under-22 receiving the health element are already in poverty. The government says it will maintain a safety net for people unable to work.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Early releases return as prisons near capacity",
+        "shortHeadline": "Prison capacity pressures drive another early-release scheme",
+        "standfirst": "Around 700 prisoners are due to be released in the first tranche of a scheme intended to ease overcrowding in England and Wales. The government expects 4,500 releases by June 2027.",
+        "viewerProvenance": "BBC NEWS",
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+            "publisher": "BBC News",
+            "originalTitle": "Why are hundreds of prisoners being released early?",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+            "publishedAt": "2026-08-04T15:04:59.864Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cp3rxlyz6w3o",
+        "segments": [
+          {
+            "id": "uk-04-s1",
+            "title": "The scale of the capacity problem",
+            "body": "The prison population in England and Wales stood at 87,499 on 28 September—98% of usable capacity. Around 700 prisoners are due to be released under the first tranche of the latest scheme, which will allow eligible people to leave after serving a third of their sentence. Some serious offences, including rape and manslaughter, are excluded. The government expects 4,500 early releases by June 2027.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cp3rxlyz6w3o"
+            ]
+          },
+          {
+            "id": "uk-04-s2",
+            "title": "Longer sentences and recalls add pressure",
+            "body": "The Ministry of Justice has projected that the prison population could reach about 104,000 by 2032 without the Sentencing Act, compared with capacity of around 99,000. The Institute for Government points to longer sentences; licence recalls also rose 28% in the year to March 2026. The thinktank says most recalls are for breaches such as missed appointments, not new offences or serious risks.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cp3rxlyz6w3o"
+            ]
+          },
+          {
+            "id": "uk-04-s3",
+            "title": "Building places has been slow",
+            "body": "Between 2010 and 2024, about 13,000 prison places were created but around 12,500 old places closed, leaving an estimated net gain of roughly 500. The National Audit Office cited unrealistic timelines and poor coordination as obstacles to building. The government has pledged 14,000 new places by 2031; analysts warn that without substantial building or a rethink of prison use, early release pressures may continue.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cp3rxlyz6w3o"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "UK reopens debate on closer ties with the EU",
+        "shortHeadline": "Brexit debate returns as ministers weigh EU options",
+        "standfirst": "Andy Burnham says the government will consider options ranging from closer trade ties to rejoining the EU. Cabinet and Labour MPs remain divided over what is politically possible.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-05-image.png",
+          "caption": "Burnham has reopened the debate over Britain’s EU relationship",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/how-uk-could-rejoin-eu-4795517",
+            "publisher": "The i Paper",
+            "originalTitle": "How the UK could rejoin the EU, step by step – and how likely experts think it is",
+            "canonicalUrl": "https://inews.co.uk/news/how-uk-could-rejoin-eu-4795517",
+            "publishedAt": "2026-09-30T09:26:57.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publisher": "The i Paper",
+            "originalTitle": "Brexit U-turn splits Cabinet as Red Wall MPs warn Burnham over freedom of movement",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+            "publishedAt": "2026-09-30T16:42:21.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
+        "segments": [
+          {
+            "id": "uk-05-s1",
+            "title": "Options range from a reset to rejoining",
+            "body": "Andy Burnham has said the government will examine options for the UK’s long-term relationship with the EU, including a customs union, the single market or rejoining the bloc. He argues Brexit has done more harm than good. The government’s current manifesto commitments rule out those options, but Burnham has said he is prepared to drop those red lines after the next election.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/how-uk-could-rejoin-eu-4795517",
+              "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569"
+            ]
+          },
+          {
+            "id": "uk-05-s2",
+            "title": "Political obstacles at home and in Europe",
+            "body": "Some Cabinet colleagues oppose rejoining, while Labour MPs in Leave-voting seats warn that restoring free movement could be difficult for their constituents. Ministers also question whether a customs union or single-market arrangement would bring enough benefit. EU experts told the i Paper that rejoining could require a referendum to demonstrate settled public support and could take five to ten years.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/how-uk-could-rejoin-eu-4795517",
+              "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569"
+            ]
+          },
+          {
+            "id": "uk-05-s3",
+            "title": "What any return would involve",
+            "body": "A rejoining application would require the UK to meet EU membership criteria and win approval from member states and the European Parliament. Experts disagree over whether the UK could retain its former opt-outs from the euro and Schengen. Polls cited by the i Paper show a narrow majority favouring rejoining, but experts say a stronger, durable public mandate may be needed.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/how-uk-could-rejoin-eu-4795517"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "UK-France small-boat return deal expected to end",
+        "shortHeadline": "One-in, one-out migration deal set to expire",
+        "standfirst": "The 423-day agreement returned some asylum seekers to France in exchange for legal arrivals to the UK. Its impact was limited, and the reasons for falling crossings remain disputed.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-06-image.png",
+          "caption": "A Border Force vessel returns to port after a Channel crossing",
+          "source": {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+            "publisher": "The Guardian",
+            "originalTitle": "Why is the UK-France ‘one in, one out’ migration deal being scrapped?",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+            "publishedAt": "2026-10-01T14:45:49.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+        "segments": [
+          {
+            "id": "uk-06-s1",
+            "title": "A small scheme with limited reach",
+            "body": "The UK-France “one in, one out” agreement is expected to expire after 423 days. About 1,500 asylum seekers were returned to France and a similar number brought legally to the UK, while more than 40,000 people arrived in small boats during the period. The UK government said it had not been able to scale the scheme up as much as hoped.",
+            "sourceRefs": [
+              "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped"
+            ]
+          },
+          {
+            "id": "uk-06-s2",
+            "title": "Problems with returns and a dispute over responsibility",
+            "body": "Some people returned to France came back to the UK, sought to have their claims processed here or were believed to have disappeared. France reportedly wanted other European countries to share responsibility for accepting returns. The article also records concerns from aid organisations about trauma and force during removals; the Home Secretary disputed the interpretation of some reported injuries.",
+            "sourceRefs": [
+              "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped"
+            ]
+          },
+          {
+            "id": "uk-06-s3",
+            "title": "What drove the fall in crossings is unclear",
+            "body": "Home Secretary Shabana Mahmood said it was difficult to identify why Channel crossings fell by more than 40% so far this year compared with the same period last year. The Guardian reports that lower irregular migration into Europe overall may have contributed. The government says it will continue removals, but cannot forcibly return people to countries considered unsafe. No replacement arrangement has been confirmed.",
+            "sourceRefs": [
+              "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Water reform plan targets bonuses and leaves ownership open",
+        "shortHeadline": "Water bill promises tougher rules, not full public takeover",
+        "standfirst": "The proposed Clean Water Bill would close loopholes used to pay water-company bosses and could allow failing firms to enter public ownership. Thames Water’s future remains unresolved.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-07-image.png",
+          "caption": "The proposed Clean Water Bill aims to reform the water sector",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+            "publisher": "The i Paper",
+            "originalTitle": "Finally, sewage-dumping water bosses to lose their bonuses",
+            "canonicalUrl": "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+            "publishedAt": "2026-09-29T17:10:01.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/burnham-to-signal-plan-public-ownership-thames-water-4796463",
+            "publisher": "The i Paper",
+            "originalTitle": "Burnham set to signal plan for public ownership of Thames Water",
+            "canonicalUrl": "https://inews.co.uk/news/burnham-to-signal-plan-public-ownership-thames-water-4796463",
+            "publishedAt": "2026-09-28T19:00:30.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+        "segments": [
+          {
+            "id": "uk-07-s1",
+            "title": "Clampdown on executive pay",
+            "body": "The government plans to close loopholes that have allowed some water-company executives to receive large payments despite a ban on bonuses for firms that fail standards. The i Paper reports that Anglian Water’s chief executive received £1.9m, including a £500,000 retention payment. A review is expected ahead of measures in the Clean Water Bill.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534"
+            ]
+          },
+          {
+            "id": "uk-07-s2",
+            "title": "Public ownership is one option, not a settled plan",
+            "body": "Burnham has said the bill will be strengthened and that failing companies could be taken into public ownership, but stopped short of promising to nationalise all water firms. He has indicated a possible public-ownership route for Thames Water, which serves 16 million people and faces debt and infrastructure pressures. Creditors say a move towards public ownership could create uncertainty and delay improvements.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+              "https://inews.co.uk/news/burnham-to-signal-plan-public-ownership-thames-water-4796463"
+            ]
+          },
+          {
+            "id": "uk-07-s3",
+            "title": "The company’s financial future remains uncertain",
+            "body": "Thames Water is expected to run out of money by the end of the year unless ministers reach a deal with creditors or place it in a special administration regime. Burnham has not ruled out that option, but says the industry needs wider reform. The bill is expected within the coming year; details of the proposed regulatory arrangements are not yet settled.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/finally-sewage-dumping-water-bosses-to-lose-their-bonuses-4798534",
+              "https://inews.co.uk/news/burnham-to-signal-plan-public-ownership-thames-water-4796463"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "ADHD and autism review delayed amid welfare-policy debate",
+        "shortHeadline": "Delayed review examines ADHD and autism diagnoses",
+        "standfirst": "A report on rising diagnoses was pulled shortly before publication. The review’s findings are not yet public, and the reason for the delay is disputed.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/uk-08-image.png",
+          "caption": "The delayed review covers autism, ADHD and mental health",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publisher": "The i Paper",
+            "originalTitle": "ADHD overdiagnosis report delayed due to fears of backlash",
+            "canonicalUrl": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+            "publishedAt": "2026-10-01T15:25:10.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "publisher": "The Guardian",
+            "originalTitle": "Key disability benefit for young people may be axed under major welfare changes",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+            "publishedAt": "2026-10-01T18:43:00.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+            "publisher": "The i Paper",
+            "originalTitle": "How people with ADHD could see benefits cut after overdiagnosis review",
+            "canonicalUrl": "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754",
+            "publishedAt": "2026-09-17T11:57:04.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+        "segments": [
+          {
+            "id": "uk-08-s1",
+            "title": "A report pulled before publication",
+            "body": "A government-commissioned review led by clinical psychologist Peter Fonagy was expected last week but was delayed. Sources told the i Paper that officials were concerned it could dominate debate about welfare reforms at Labour conference. A government source also cited scheduling, and said the report would be published shortly. Its findings have not been released.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611"
+            ]
+          },
+          {
+            "id": "uk-08-s2",
+            "title": "What the review is expected to examine",
+            "body": "The report is understood to distinguish rising distress from questions about ADHD and autism diagnosis. It is expected to acknowledge pockets of overdiagnosis and misdiagnosis, while concluding that the conditions are not widely overdiagnosed overall. It may recommend bringing services closer together so people can access help without first needing a formal diagnosis; those details remain based on reporting ahead of publication.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611"
+            ]
+          },
+          {
+            "id": "uk-08-s3",
+            "title": "The welfare link is politically sensitive",
+            "body": "The delay comes as ministers consider changes to disability benefits and youth employment. Alan Milburn has argued that rising distress among young people is real, while saying diagnoses have risen faster than underlying prevalence. Advocates warn against treating diagnosis as a route to welfare rather than support. The final report and the government’s response will determine what changes, if any, follow.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+              "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
+              "https://inews.co.uk/news/health/how-people-adhd-benefits-cut-4773754"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Revised Danish army account acknowledges timing error over Borris shots",
+        "shortHeadline": "Army corrects timeline in Borris shooting account",
+        "standfirst": "The army now says soldiers fired between 20:06 and 20:08 as a civilian aircraft passed nearby. It says shots were directed elsewhere and the plane was not at risk.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-01-image.png",
+          "caption": "Army chief Peter Boysen acknowledges incorrect information",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Revurderet droneredegørelse var 'befriende' rig på detaljer",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+            "publishedAt": "2026-10-01T19:44:00.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Forsvaret erkender fejl, men afviser skud mod fly",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly",
+            "publishedAt": "2026-10-01T17:56:38.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly",
+        "segments": [
+          {
+            "id": "denmark-01-s1",
+            "title": "The official timeline changes",
+            "body": "The Danish Defence Command says its earlier account of the 2025 Borris training-ground incident contained incorrect timing information. Army chief Peter Boysen now places the shots between 20:06 and 20:08; an earlier account put them around 20:20. He said a civilian aircraft passed over the area between 20:06 and 20:07.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+              "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly"
+            ]
+          },
+          {
+            "id": "denmark-01-s2",
+            "title": "The army says the aircraft was not targeted",
+            "body": "Boysen said soldiers maintain that they fired at suspected drones, not at the passenger aircraft, and that the shots were directed away from it. A total of 43 shots were fired, according to the report. The army says the plane was too high to be hit. The revised account adds observations of a larger drone and a van pursued for 3.5 kilometres before contact was lost.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+              "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly"
+            ]
+          },
+          {
+            "id": "denmark-01-s3",
+            "title": "Questions remain about the earlier account",
+            "body": "DR’s defence correspondent called the additional detail helpful after months of unanswered questions, but said it took two accounts for the public to receive a fuller chronology. The revised statement does not establish what the observed objects were or who was in the van. The Defence chief and defence minister had not commented in the reporting provided.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+              "https://www.dr.dk/nyheder/indland/forsvaret-erkender-fejl-men-afviser-skud-mod-fly"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/indland/revurderet-droneredegoerelse-var-befriende-rig-paa-detaljer",
+                "body": "DR’s defence correspondent called the additional detail helpful after months of unanswered questions, but said it took two accounts for the public to receive a fuller chronology. The revised statement does not establish what the observed objects were or who was in the van. The Defence chief and defence minister had not commented in the reporting provided."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "High municipal taxes, cuts to local services fuel Danish debate",
+        "shortHeadline": "Danish local taxes diverge as services face cuts",
+        "standfirst": "New calculations show residents in some municipalities pay substantially more tax than in Copenhagen, while Lolland and Langeland face deep service cuts.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-02-image.png",
+          "caption": "Birger Printz fears a care-home closure will separate him from his wife",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/vores-tilvaerelse-bliver-totalt-smadret-birger-frygter-fremtiden-som-gammel-i-en-fattig-kommune",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/vores-tilvaerelse-bliver-totalt-smadret-birger-frygter-fremtiden-som-gammel-i-en-fattig-kommune",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Store skatteforskelle deler Danmark – se hvor din kommune ligger",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+            "publishedAt": "2026-10-01T15:22:00.616Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/vores-tilvaerelse-bliver-totalt-smadret-birger-frygter-fremtiden-som-gammel-i-en-fattig-kommune",
+            "publisher": "DR Nyheder",
+            "originalTitle": "'Vores tilværelse bliver totalt smadret': Birger frygter for fremtiden som gammel i en fattig kommune",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/vores-tilvaerelse-bliver-totalt-smadret-birger-frygter-fremtiden-som-gammel-i-en-fattig-kommune",
+            "publishedAt": "2026-10-01T17:44:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
+        "segments": [
+          {
+            "id": "denmark-02-s1",
+            "title": "Tax bills differ sharply by municipality",
+            "body": "New calculations from Denmark’s Tax Ministry show that residents in some municipalities pay thousands of kroner more in local tax than comparable residents in Copenhagen. Eleven municipalities share the highest rate, 26.3%. Lolland’s mayor says residents pay the most but receive the least service; Rudersdal’s acting mayor points to its stronger tax base and says it contributes to equalisation.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger"
+            ]
+          },
+          {
+            "id": "denmark-02-s2",
+            "title": "Local cuts bring the figures into focus",
+            "body": "Lolland’s 2027 budget plan includes closure of two schools, six care centres and a day institution, as well as cuts to other local services. On Langeland, one of five care homes is due to close, while cleaning for older residents would fall to once a month. Residents interviewed by TV 2 describe worries about access to care and the effect on family visits.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/vores-tilvaerelse-bliver-totalt-smadret-birger-frygter-fremtiden-som-gammel-i-en-fattig-kommune",
+              "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger"
+            ]
+          },
+          {
+            "id": "denmark-02-s3",
+            "title": "The proposed answer is still being debated",
+            "body": "Social Democrats say a new equalisation reform should consider structural differences between municipalities. SF’s political spokesperson argues that municipalities must retain choices about tax and service levels, while also saying the welfare system is not working adequately in some remote areas. The reporting does not set out a final government plan or how any redistribution would be funded.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "New survey finds violence in more than half of Danish school classes",
+        "shortHeadline": "Survey finds student violence in 55% of classes",
+        "standfirst": "A government-commissioned survey says 55% of Danish school classes experienced violence between pupils in 2025, with the youngest classes most affected.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-03-image.png",
+          "caption": "The youngest Danish school classes reported the most violence",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "credit": "Foto: Mads Claus Rasmussen / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Ny undersøgelse peger på voldsom udvikling i skolerne – de yngste hårdest ramt",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+            "publishedAt": "2026-10-01T08:42:43.337Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+        "segments": [
+          {
+            "id": "denmark-03-s1",
+            "title": "Violence reported across many classes",
+            "body": "A survey by Epinion and Als Research for Denmark’s Ministry of Education found that 55% of school classes experienced violence between pupils in 2025. More than a third reported incidents at least monthly. The study says violence and disruptive behaviour were most frequent in the youngest classes and in classes with pupils needing additional support.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ]
+          },
+          {
+            "id": "denmark-03-s2",
+            "title": "A baseline, not a trend line",
+            "body": "Three out of four classes in the early primary years reported violence or disruptive behaviour between pupils, according to the survey. Researchers and school leaders say the figures are concerning, but this is the first measurement of its kind at this scale, so it cannot show how the problem has changed over time. Experts say relationships in the classroom matter and teachers need clarity about when and how to intervene.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ]
+          },
+          {
+            "id": "denmark-03-s3",
+            "title": "Government plans a law change",
+            "body": "Education Minister Magnus Heunicke said the figures were worrying and that the government would introduce a bill to give teachers better opportunities to intervene physically. The survey and expert comments also point to support needs and classroom conditions; the proposed law is not yet in force, and the reporting does not establish what effect it would have.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Government parties agree to end SU for some home-dwelling students",
+        "shortHeadline": "SU support to end for some students living at home",
+        "standfirst": "The proposal would remove student support for 81,000 young people whose parents earn over 710,000 kroner a year, drawing criticism from youth groups and scrutiny of past promises.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-04-image.png",
+          "caption": "Government ministers Pia Olsen Dyhr and Martin Lidegaard",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "credit": "Foto: Sebastian Elias Uth / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Igen og igen har Pia Olsen Dyhr forsvaret SU’en – nu vil hun fjerne den for 81.000 unge",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+            "publishedAt": "2026-10-01T12:36:24.164Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Magtens Morgenbrief: Dér blev vi klogere på, hvem der svinger taktstokken i regeringen",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen",
+            "publishedAt": "2026-10-01T03:30:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+        "segments": [
+          {
+            "id": "denmark-04-s1",
+            "title": "Who would lose support",
+            "body": "The government’s proposed budget deal would remove SU student support for 81,000 young people living at home whose parents earn more than 710,000 kroner a year. SF leader Pia Olsen Dyhr says the change is a compromise and argues it is socially balanced. The policy is part of the government’s budget proposal, not a measure already in force.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+              "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen"
+            ]
+          },
+          {
+            "id": "denmark-04-s2",
+            "title": "A reversal under scrutiny",
+            "body": "SF’s youth-wing leader says the proposal is a bad idea and that the party campaigned on a different position. TV 2 compares the deal with earlier statements by Dyhr opposing cuts to SU. SF’s parliamentary spokesperson says those remarks concerned a separate proposal to remove a sixth year of support and do not amount to a broken promise.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge"
+            ]
+          },
+          {
+            "id": "denmark-04-s3",
+            "title": "Other parties defend the threshold",
+            "body": "Radical Left leader Martin Lidegaard says support should remain for families with fewer means, but considers the threshold fair for higher-income households. The party’s youth organisation supports its position. The proposal is one of several measures the government says will help fund its budget commitments; the reporting does not provide the full budget balance.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+              "https://www.dr.dk/nyheder/politik/magtens-morgenbrief-der-blev-vi-klogere-paa-hvem-der-svinger-taktstokken-i-regeringen"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Justice minister backs ban on religious symbols for prosecutors in court",
+        "shortHeadline": "Danish minister backs courtroom hijab ban for prosecutors",
+        "standfirst": "Justice Minister Nicolai Wammen says prosecutors should face the same restrictions on religious and political symbols as judges. The prosecutors’ association backs the lawyer at the centre of the debate.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-05-image.png",
+          "caption": "Justice Minister Nicolai Wammen",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler",
+            "credit": "Foto: Sebastian Elias Uth / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/maa-anklager-baerer-toerklaede-i-retssalen-det-skal-justitsminister-nu-svare-paa",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Må anklager bære tørklæde i retssalen? Det skal justitsminister nu svare på",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/maa-anklager-baerer-toerklaede-i-retssalen-det-skal-justitsminister-nu-svare-paa",
+            "publishedAt": "2026-10-01T12:51:41.000Z"
+          },
+          {
+            "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Justitsminister vil forbyde anklagere at bære religiøse symboler",
+            "canonicalUrl": "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler",
+            "publishedAt": "2026-10-01T17:27:32.963Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler",
+        "segments": [
+          {
+            "id": "denmark-05-s1",
+            "title": "The minister’s position",
+            "body": "Justice Minister Nicolai Wammen says prosecutors should be barred from wearing visible religious or political symbols during court proceedings, as judges are under existing rules. The debate followed prosecutor Zahra Sediqi’s public statement that she was proud to be Denmark’s first prosecutor wearing a hijab. Wammen says the rule is needed to protect public confidence in courtroom objectivity.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/maa-anklager-baerer-toerklaede-i-retssalen-det-skal-justitsminister-nu-svare-paa",
+              "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler"
+            ]
+          },
+          {
+            "id": "denmark-05-s2",
+            "title": "Existing rules do not ban prosecutors’ hijabs",
+            "body": "The prosecution service says it has no internal rule prohibiting staff from wearing a hijab at work or in court. The Association of Public Prosecutors says Sediqi has complied with current dress rules and should not be singled out. Its chair argues that prosecutors appear as representatives of the prosecution service, which sets their dress rules.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/maa-anklager-baerer-toerklaede-i-retssalen-det-skal-justitsminister-nu-svare-paa",
+              "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler"
+            ]
+          },
+          {
+            "id": "denmark-05-s3",
+            "title": "A question for lawmakers",
+            "body": "The law cited in the reporting has barred judges and lay judges from wearing religious or political symbols since 2009; it does not currently extend the same restriction to prosecutors. Politicians have asked the minister to address that difference. Sediqi was unavailable to comment in the reports, and any change would require a decision on the rules themselves.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/maa-anklager-baerer-toerklaede-i-retssalen-det-skal-justitsminister-nu-svare-paa",
+              "https://nyheder.tv2.dk/politik/2026-10-01-justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Bird flu detected in four Danish seals; transmission route unclear",
+        "shortHeadline": "Bird flu found in four Danish seals this year",
+        "standfirst": "The H5N1 virus was detected in four seals found dead on Danish coasts. A researcher says there is no evidence it is spreading to people.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-06-image.png",
+          "caption": "A grey seal received for wildlife disease monitoring",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "credit": "Foto: / Patologivagten"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Fugleinfluenza fundet i flere sæler – kan smitte videre ifølge forsker",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+            "publishedAt": "2026-10-01T14:56:19.126Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
+        "segments": [
+          {
+            "id": "denmark-06-s1",
+            "title": "Four seal cases reported",
+            "body": "Highly pathogenic avian influenza H5N1 was detected in four seals found on Danish coasts during 2026: one near Solrød Strand in March and three around the Little Belt in August. The virus has circulated among wild birds and poultry since 2020 and has previously been found in Danish mammals, including seals, foxes and ferrets.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker"
+            ]
+          },
+          {
+            "id": "denmark-06-s2",
+            "title": "How the seals became infected is uncertain",
+            "body": "Researchers expected infected wild birds to be the source, but few of the wild birds tested this year carried the virus, making the cases harder to explain. A University of Copenhagen researcher says mammal-to-mammal transmission is one possible scenario. He stressed there is currently no evidence of transmission to humans.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Roskilde Fjord landowners challenge order to remove coastal defences",
+        "shortHeadline": "Homeowners contest removal order for fjord defences",
+        "standfirst": "Eleven landowners say their unauthorised coastal protection is needed to guard homes from flooding. Roskilde Municipality says it blocks public access to the shore.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261001T200343223Z--local/assets/denmark-07-image.png",
+          "caption": "The dispute centres on a coastal barrier near Roskilde Fjord",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Jørgen og hans naboer trodser kommunen: Nægter at fjerne milliondyr kystsikring",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring",
+            "publishedAt": "2026-10-01T14:35:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring",
+        "segments": [
+          {
+            "id": "denmark-07-s1",
+            "title": "A costly structure built without permission",
+            "body": "Eleven landowners near Roskilde Fjord are refusing to remove coastal protection they built without municipal permission. They say erosion and storm damage threaten their homes. The works cost more than two million kroner; the municipality has ordered their removal and reported the landowners to police.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring"
+            ]
+          },
+          {
+            "id": "denmark-07-s2",
+            "title": "The municipality says the shore must remain accessible",
+            "body": "Roskilde Municipality says the structure sits too close to the water and restricts public passage along the coast. The landowners say they believed the project could be approved after construction because of earlier discussions with the municipality. The council committee chair disputes that understanding and says the rules must be applied consistently.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring"
+            ]
+          },
+          {
+            "id": "denmark-07-s3",
+            "title": "An appeal could extend the process",
+            "body": "The landowners plan to appeal and argue the protection should be legalised after the fact. They have a year to remove it, but an appeal could extend the timetable. The gather does not establish whether the works will be allowed to remain or whether the municipality’s removal order will stand.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/joergen-og-hans-naboer-trodser-kommunen-naegter-fjerne-milliondyr-kystsikring"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Buyer says son faces fine after purchasing an illegal e-bike",
+        "shortHeadline": "E-bike buyer says unclear sales claims led to police stop",
+        "standfirst": "A father says he thought his son’s e-bike was road legal. Consumer and road-safety groups have complained about four sellers’ advertising; the bike’s display has since been replaced.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Far troede han købte en lovlig elcykel, men så blev sønnen sigtet af politiet",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet",
+            "publishedAt": "2026-10-01T14:59:45.100Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet",
+        "segments": [
+          {
+            "id": "denmark-08-s1",
+            "title": "A bike that could be unlocked to go faster",
+            "body": "Steven Lauridsen bought an ENGWE EP-2 Pro for his son, believing it could be used legally on public roads. Danish rules allow pedal assistance up to 25km/h; a bike that can be adjusted to go faster is not legal for road use. His son was stopped by police, and the family is awaiting a fine of about 10,000 kroner.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet"
+            ]
+          },
+          {
+            "id": "denmark-08-s2",
+            "title": "Consumer groups complain about advertising",
+            "body": "The Road Safety Council and Consumer Council Tænk say some sellers do not make clear when an e-bike is not legal for public roads. They have complained to the Consumer Ombudsman about four retailers, including the seller of Lauridsen’s bike. The ombudsman says the complaint has been received but not yet considered.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet"
+            ]
+          },
+          {
+            "id": "denmark-08-s3",
+            "title": "Retailer offers a fix",
+            "body": "The seller said its website disclosed that the display could change speed settings and that this model was not recommended as an ordinary road e-bike, while acknowledging its communication could have been clearer. It later removed three models from its range and offered Lauridsen a replacement display permanently locked to 25km/h, which he accepted.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-01-far-troede-han-koebte-en-lovlig-elcykel-men-saa-blev-soennen-sigtet-af-politiet"
+            ]
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "id": "page-111",
+        "number": "111",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-01",
+          "segmentIds": [
+            "world-01-s1",
+            "world-01-s2",
+            "world-01-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-112",
+        "number": "112",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-02",
+          "segmentIds": [
+            "world-02-s1",
+            "world-02-s2",
+            "world-02-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-113",
+        "number": "113",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-03",
+          "segmentIds": [
+            "world-03-s1",
+            "world-03-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-114",
+        "number": "114",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-04",
+          "segmentIds": [
+            "world-04-s1",
+            "world-04-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-115",
+        "number": "115",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-05",
+          "segmentIds": [
+            "world-05-s1",
+            "world-05-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-116",
+        "number": "116",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-06",
+          "segmentIds": [
+            "world-06-s1",
+            "world-06-s2",
+            "world-06-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-117",
+        "number": "117",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-07",
+          "segmentIds": [
+            "world-07-s1",
+            "world-07-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-118",
+        "number": "118",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-08",
+          "segmentIds": [
+            "world-08-s1",
+            "world-08-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-121",
+        "number": "121",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-01",
+          "segmentIds": [
+            "uk-01-s1",
+            "uk-01-s2",
+            "uk-01-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-122",
+        "number": "122",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-02",
+          "segmentIds": [
+            "uk-02-s1",
+            "uk-02-s2",
+            "uk-02-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-123",
+        "number": "123",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-03",
+          "segmentIds": [
+            "uk-03-s1",
+            "uk-03-s2",
+            "uk-03-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-124",
+        "number": "124",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-04",
+          "segmentIds": [
+            "uk-04-s1",
+            "uk-04-s2",
+            "uk-04-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-125",
+        "number": "125",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-05",
+          "segmentIds": [
+            "uk-05-s1",
+            "uk-05-s2",
+            "uk-05-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-126",
+        "number": "126",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-06",
+          "segmentIds": [
+            "uk-06-s1",
+            "uk-06-s2",
+            "uk-06-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-127",
+        "number": "127",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-07",
+          "segmentIds": [
+            "uk-07-s1",
+            "uk-07-s2",
+            "uk-07-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-128",
+        "number": "128",
+        "sectionId": "uk",
+        "parent": "120",
+        "template": "news-story",
+        "payload": {
+          "contentId": "uk-08",
+          "segmentIds": [
+            "uk-08-s1",
+            "uk-08-s2",
+            "uk-08-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-131",
+        "number": "131",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-01",
+          "segmentIds": [
+            "denmark-01-s1",
+            "denmark-01-s2",
+            "denmark-01-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-132",
+        "number": "132",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-02",
+          "segmentIds": [
+            "denmark-02-s1",
+            "denmark-02-s2",
+            "denmark-02-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-133",
+        "number": "133",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-03",
+          "segmentIds": [
+            "denmark-03-s1",
+            "denmark-03-s2",
+            "denmark-03-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-134",
+        "number": "134",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-04",
+          "segmentIds": [
+            "denmark-04-s1",
+            "denmark-04-s2",
+            "denmark-04-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-135",
+        "number": "135",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-05",
+          "segmentIds": [
+            "denmark-05-s1",
+            "denmark-05-s2",
+            "denmark-05-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-136",
+        "number": "136",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-06",
+          "segmentIds": [
+            "denmark-06-s1",
+            "denmark-06-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-137",
+        "number": "137",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-07",
+          "segmentIds": [
+            "denmark-07-s1",
+            "denmark-07-s2",
+            "denmark-07-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-138",
+        "number": "138",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-08",
+          "segmentIds": [
+            "denmark-08-s1",
+            "denmark-08-s2",
+            "denmark-08-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-100",
+        "number": "100",
+        "sectionId": "home",
+        "template": "home",
+        "payload": {
+          "newsIndexReferenceId": "home-news"
+        }
+      },
+      {
+        "id": "page-101",
+        "number": "101",
+        "sectionId": "news-headlines",
+        "parent": "100",
+        "template": "news-index",
+        "payload": {
+          "title": "HEADLINES",
+          "storyReferenceIds": [
+            "headline-world-01",
+            "headline-uk-01",
+            "headline-world-02",
+            "headline-denmark-01",
+            "headline-world-04",
+            "headline-uk-02",
+            "headline-world-05",
+            "headline-denmark-02"
+          ]
+        }
+      },
+      {
+        "id": "page-110",
+        "number": "110",
+        "sectionId": "world",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "WORLD",
+          "storyReferenceIds": [
+            "ref-world-01",
+            "ref-world-02",
+            "ref-world-03",
+            "ref-world-04",
+            "ref-world-05",
+            "ref-world-06",
+            "ref-world-07",
+            "ref-world-08"
+          ]
+        }
+      },
+      {
+        "id": "page-120",
+        "number": "120",
+        "sectionId": "uk",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "UK",
+          "storyReferenceIds": [
+            "ref-uk-01",
+            "ref-uk-02",
+            "ref-uk-03",
+            "ref-uk-04",
+            "ref-uk-05",
+            "ref-uk-06",
+            "ref-uk-07",
+            "ref-uk-08"
+          ]
+        }
+      },
+      {
+        "id": "page-130",
+        "number": "130",
+        "sectionId": "denmark",
+        "parent": "101",
+        "template": "news-index",
+        "payload": {
+          "title": "DENMARK",
+          "storyReferenceIds": [
+            "ref-denmark-01",
+            "ref-denmark-02",
+            "ref-denmark-03",
+            "ref-denmark-04",
+            "ref-denmark-05",
+            "ref-denmark-06",
+            "ref-denmark-07",
+            "ref-denmark-08"
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "id": "home-news",
+        "destination": {
+          "page": "101"
+        },
+        "label": "NEWS"
+      },
+      {
+        "id": "nav-101",
+        "destination": {
+          "page": "101"
+        },
+        "label": "HEADLINES"
+      },
+      {
+        "id": "nav-110",
+        "destination": {
+          "page": "110"
+        },
+        "label": "WORLD"
+      },
+      {
+        "id": "nav-120",
+        "destination": {
+          "page": "120"
+        },
+        "label": "UK"
+      },
+      {
+        "id": "nav-130",
+        "destination": {
+          "page": "130"
+        },
+        "label": "DENMARK"
+      },
+      {
+        "id": "ref-world-01",
+        "destination": {
+          "page": "111"
+        },
+        "label": "Pike survives two injections; Tennessee halts executions",
+        "contentId": "world-01"
+      },
+      {
+        "id": "ref-world-02",
+        "destination": {
+          "page": "112"
+        },
+        "label": "Cockpit stabbing sends Flydubai flight into steep descent",
+        "contentId": "world-02"
+      },
+      {
+        "id": "ref-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "Putin warns West over Russia’s Kaliningrad exclave",
+        "contentId": "world-03"
+      },
+      {
+        "id": "ref-world-04",
+        "destination": {
+          "page": "114"
+        },
+        "label": "New satellite images reveal Gaza’s scale of destruction",
+        "contentId": "world-04"
+      },
+      {
+        "id": "ref-world-05",
+        "destination": {
+          "page": "115"
+        },
+        "label": "Crude flows recover; diesel remains scarce and costly",
+        "contentId": "world-05"
+      },
+      {
+        "id": "ref-world-06",
+        "destination": {
+          "page": "116"
+        },
+        "label": "Disease and delayed care amid 32 child deaths in India",
+        "contentId": "world-06"
+      },
+      {
+        "id": "ref-world-07",
+        "destination": {
+          "page": "117"
+        },
+        "label": "Carney backs Pacific pipeline to diversify oil exports",
+        "contentId": "world-07"
+      },
+      {
+        "id": "ref-world-08",
+        "destination": {
+          "page": "118"
+        },
+        "label": "The hidden undersea infrastructure carrying global trade",
+        "contentId": "world-08"
+      },
+      {
+        "id": "ref-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "Sixth arrest in RAF Fairford investigation",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "ref-uk-02",
+        "destination": {
+          "page": "122"
+        },
+        "label": "Borrowing costs surge ahead of Healey’s first Budget",
+        "contentId": "uk-02"
+      },
+      {
+        "id": "ref-uk-03",
+        "destination": {
+          "page": "123"
+        },
+        "label": "Under-25 disability benefits could face major changes",
+        "contentId": "uk-03"
+      },
+      {
+        "id": "ref-uk-04",
+        "destination": {
+          "page": "124"
+        },
+        "label": "Prison capacity pressures drive another early-release scheme",
+        "contentId": "uk-04"
+      },
+      {
+        "id": "ref-uk-05",
+        "destination": {
+          "page": "125"
+        },
+        "label": "Brexit debate returns as ministers weigh EU options",
+        "contentId": "uk-05"
+      },
+      {
+        "id": "ref-uk-06",
+        "destination": {
+          "page": "126"
+        },
+        "label": "One-in, one-out migration deal set to expire",
+        "contentId": "uk-06"
+      },
+      {
+        "id": "ref-uk-07",
+        "destination": {
+          "page": "127"
+        },
+        "label": "Water bill promises tougher rules, not full public takeover",
+        "contentId": "uk-07"
+      },
+      {
+        "id": "ref-uk-08",
+        "destination": {
+          "page": "128"
+        },
+        "label": "Delayed review examines ADHD and autism diagnoses",
+        "contentId": "uk-08"
+      },
+      {
+        "id": "ref-denmark-01",
+        "destination": {
+          "page": "131"
+        },
+        "label": "Army corrects timeline in Borris shooting account",
+        "contentId": "denmark-01"
+      },
+      {
+        "id": "ref-denmark-02",
+        "destination": {
+          "page": "132"
+        },
+        "label": "Danish local taxes diverge as services face cuts",
+        "contentId": "denmark-02"
+      },
+      {
+        "id": "ref-denmark-03",
+        "destination": {
+          "page": "133"
+        },
+        "label": "Survey finds student violence in 55% of classes",
+        "contentId": "denmark-03"
+      },
+      {
+        "id": "ref-denmark-04",
+        "destination": {
+          "page": "134"
+        },
+        "label": "SU support to end for some students living at home",
+        "contentId": "denmark-04"
+      },
+      {
+        "id": "ref-denmark-05",
+        "destination": {
+          "page": "135"
+        },
+        "label": "Danish minister backs courtroom hijab ban for prosecutors",
+        "contentId": "denmark-05"
+      },
+      {
+        "id": "ref-denmark-06",
+        "destination": {
+          "page": "136"
+        },
+        "label": "Bird flu found in four Danish seals this year",
+        "contentId": "denmark-06"
+      },
+      {
+        "id": "ref-denmark-07",
+        "destination": {
+          "page": "137"
+        },
+        "label": "Homeowners contest removal order for fjord defences",
+        "contentId": "denmark-07"
+      },
+      {
+        "id": "ref-denmark-08",
+        "destination": {
+          "page": "138"
+        },
+        "label": "E-bike buyer says unclear sales claims led to police stop",
+        "contentId": "denmark-08"
+      },
+      {
+        "id": "headline-world-01",
+        "destination": {
+          "page": "111"
+        },
+        "label": "Pike survives two injections; Tennessee halts executions",
+        "contentId": "world-01"
+      },
+      {
+        "id": "headline-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "Sixth arrest in RAF Fairford investigation",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "headline-world-02",
+        "destination": {
+          "page": "112"
+        },
+        "label": "Cockpit stabbing sends Flydubai flight into steep descent",
+        "contentId": "world-02"
+      },
+      {
+        "id": "headline-denmark-01",
+        "destination": {
+          "page": "131"
+        },
+        "label": "Army corrects timeline in Borris shooting account",
+        "contentId": "denmark-01"
+      },
+      {
+        "id": "headline-world-04",
+        "destination": {
+          "page": "114"
+        },
+        "label": "New satellite images reveal Gaza’s scale of destruction",
+        "contentId": "world-04"
+      },
+      {
+        "id": "headline-uk-02",
+        "destination": {
+          "page": "122"
+        },
+        "label": "Borrowing costs surge ahead of Healey’s first Budget",
+        "contentId": "uk-02"
+      },
+      {
+        "id": "headline-world-05",
+        "destination": {
+          "page": "115"
+        },
+        "label": "Crude flows recover; diesel remains scarce and costly",
+        "contentId": "world-05"
+      },
+      {
+        "id": "headline-denmark-02",
+        "destination": {
+          "page": "132"
+        },
+        "label": "Danish local taxes diverge as services face cuts",
+        "contentId": "denmark-02"
+      }
+    ]
+  }
+}
