@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "edition": {
-    "id": "stefax-news-20261001T173922601Z",
+    "id": "p100-news-20261001T173922601Z",
     "revision": "local",
     "publishedAt": "2026-10-01T17:41:30.931Z",
     "title": "STEFAX | The News",
@@ -92,7 +92,7 @@
         "standfirst": "A pilot was stabbed on a Dubai-to-Tel Aviv flight that made an emergency landing in Saudi Arabia. Authorities have yet to establish the alleged attacker’s motive.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-01-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-01-image.png",
           "caption": "Adam Polovincik on the Flydubai flight",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/c6d949ydnw3po",
@@ -200,7 +200,7 @@
         "standfirst": "Two drones struck the Pivdennyi bridge as a metro train crossed. Officials said initial checks found no critical structural damage.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-02-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-02-image.png",
           "caption": "The base of a central stanchion on the Pivdennyi bridge was hit",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cmn8e8344v5qo",
@@ -253,7 +253,7 @@
         "standfirst": "Governor Bill Lee ordered an independent review and halted executions through the end of the year. Pike’s condition remains unclear.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-03-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-03-image.png",
           "caption": "Christa Pike entering a Tennessee court in 2007",
           "source": {
             "candidateId": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
@@ -347,7 +347,7 @@
         "standfirst": "Officials say at least 32 children have died in Madhya Pradesh’s Balaghat district since May. The cause of every death is not known.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-04-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-04-image.png",
           "caption": "Watch: families describe the outbreak and its toll",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cmn9wr84v1qno",
@@ -408,7 +408,7 @@
         "standfirst": "Images taken in June show damaged neighbourhoods, tent camps and a badly damaged port. The report says destruction has continued since a fragile ceasefire began.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-05-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-05-image.png",
           "caption": "Satellite images show tent camps along Gaza’s shoreline",
           "source": {
             "candidateId": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
@@ -461,7 +461,7 @@
         "standfirst": "Students cite staff shortages, crowded classrooms and poor buildings. The government says some demonstrations have descended into urban violence.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-06-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-06-image.png",
           "caption": "Watch: why students are protesting in France",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/c6d080d1e3l4o",
@@ -514,7 +514,7 @@
         "standfirst": "The president gave no details on which stocks are short and said the US would replenish them. He also said strikes on Iran could resume after November’s elections.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-07-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-07-image.png",
           "caption": "Trump says further strikes on Iran are possible",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cm4gjgzjrvp5o",
@@ -567,7 +567,7 @@
         "standfirst": "The fee has risen twentyfold to 200,000 yen. Applicants also face new income and pension tests, with a language requirement due next year.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/world-08-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/world-08-image.png",
           "caption": "Japan’s residency rules are becoming more demanding",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
@@ -620,7 +620,7 @@
         "standfirst": "A UK-Iranian dual national was arrested in Westminster. Police say they are considering foreign-state involvement, but have not established a motive.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-01-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-01-image.png",
           "caption": "Police near RAF Fairford after Sunday’s incident",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cmdx5xw36492o",
@@ -721,7 +721,7 @@
         "standfirst": "About 700 prisoners were due to be released on Thursday. Some said they had nowhere to live; probation and victim-support groups raised concerns.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-02-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-02-image.png",
           "caption": "Prison leavers may struggle to find accommodation",
           "source": {
             "candidateId": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
@@ -806,7 +806,7 @@
         "standfirst": "The prime minister has reopened discussion about closer ties and possible EU membership. Cabinet ministers and MPs in Leave-voting seats warn about free movement and business uncertainty.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-03-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-03-image.png",
           "caption": "Burnham has reopened debate over the UK’s EU relationship",
           "source": {
             "candidateId": "https://inews.co.uk/news/politics/brexit-reverse-splits-cabinet-red-wall-mps-burnham-4799569",
@@ -882,7 +882,7 @@
         "standfirst": "Investors are concerned about inflation, oil prices and government debt. The rise adds pressure ahead of the chancellor’s first Budget.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-04-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-04-image.png",
           "caption": "Traders on the New York Stock Exchange",
           "source": {
             "candidateId": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
@@ -943,7 +943,7 @@
         "standfirst": "The prime minister praised Abu Dhabi-backed investment in Manchester while an independent commission’s financial-rules ruling against the club is under appeal.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-05-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-05-image.png",
           "caption": "Burnham’s comments have drawn scrutiny during the City case",
           "source": {
             "candidateId": "https://inews.co.uk/news/how-man-citys-owners-wooed-andy-burnham-property-football-4802542",
@@ -1003,7 +1003,7 @@
         "standfirst": "The review was expected last week. Sources say publication timing and the debate around welfare reform contributed to the delay.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-06-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-06-image.png",
           "caption": "The delayed review examines ADHD, autism and mental health",
           "source": {
             "candidateId": "https://inews.co.uk/news/adhd-overdiagnosis-report-delayed-fears-benefits-backlash-4794611",
@@ -1079,7 +1079,7 @@
         "standfirst": "Sullivan denies allegations made in a Panorama investigation and claims libel and malicious falsehood. The BBC has not yet responded in the report.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-07-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-07-image.png",
           "caption": "The BBC programme featured women making allegations against Sullivan",
           "source": {
             "candidateId": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
@@ -1139,7 +1139,7 @@
         "standfirst": "Johal faces charges in eight other cases and must surrender his passport. He denies the allegations against him.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/uk-08-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/uk-08-image.png",
           "caption": "Jagtar Singh Johal leaves prison on bail",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cxr50yln55rgo",
@@ -1200,7 +1200,7 @@
         "standfirst": "An emergency timetable now runs until December. The operator expects normal fast trains on the Frederiksværk line only after 2029.",
         "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-01-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-01-image.png",
           "caption": "Reduced service continues on the Frederiksværk line",
           "source": {
             "candidateId": "https://www.dr.dk/nyheder/indland/lokalbanerne-koerer-stadig-ikke-normalt-efter-ulykke-paa-gribskovbanen-det-kritiseres-af-borgmester",
@@ -1253,7 +1253,7 @@
         "standfirst": "The prime minister says a planned Fire Point facility in Skrydstrup is needed for European defence. Local security concerns remain.",
         "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-02-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-02-image.png",
           "caption": "Frederiksen backs the planned factory in Skrydstrup",
           "source": {
             "candidateId": "https://www.dr.dk/nyheder/politik/vi-bliver-noedt-til-producere-vaaben-paa-egen-jord-siger-mette-frederiksen",
@@ -1306,7 +1306,7 @@
         "standfirst": "New calculations show a large gap between municipal tax bills. Lolland says it must close schools and care homes despite having the country’s highest municipal tax rate.",
         "viewerProvenance": "TV 2 NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-03-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-03-image.png",
           "caption": "Explore the municipal tax differences across Denmark",
           "source": {
             "candidateId": "https://nyheder.tv2.dk/politik/2026-10-01-store-skatteforskelle-deler-danmark-se-hvor-din-kommune-ligger",
@@ -1433,7 +1433,7 @@
         "standfirst": "Researchers say there is no evidence the virus is spreading to people. They are watching for possible mammal-to-mammal transmission.",
         "viewerProvenance": "TV 2 NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-05-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-05-image.png",
           "caption": "A grey seal included in Denmark’s marine-mammal surveillance",
           "source": {
             "candidateId": "https://nyheder.tv2.dk/udland/2026-10-01-fugleinfluenza-fundet-i-flere-saeler-kan-smitte-videre-ifoelge-forsker",
@@ -1486,7 +1486,7 @@
         "standfirst": "Students whose parents earn more than 710,000 kroner a year would lose the grant. SF leaders reject claims of a broken promise and call it a coalition compromise.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-06-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-06-image.png",
           "caption": "Government ministers Pia Olsen Dyhr and Martin Lidegaard",
           "source": {
             "candidateId": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
@@ -1562,7 +1562,7 @@
         "standfirst": "A government-commissioned report says the youngest classes are most affected. The government plans a bill clarifying when teachers can intervene physically.",
         "viewerProvenance": "TV 2 NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-07-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-07-image.png",
           "caption": "The report says younger classes are most affected",
           "source": {
             "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
@@ -1623,7 +1623,7 @@
         "standfirst": "Henrik Frandsen says he will repay money if authorities find he was not entitled to it. The dispute concerns compensation for land that was later allowed to return to farming.",
         "viewerProvenance": "TV 2 NYHEDER",
         "image": {
-          "asset": "./editions/stefax-news-20261001T173922601Z--local/assets/denmark-08-image.png",
+          "asset": "./editions/p100-news-20261001T173922601Z--local/assets/denmark-08-image.png",
           "caption": "Frandsen received compensation for land that did not become protected nature",
           "source": {
             "candidateId": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
@@ -2032,10 +2032,7 @@
         "sectionId": "home",
         "template": "home",
         "payload": {
-          "newsIndexReferenceId": "home-news",
-          "newsReferenceIds": [],
-          "discovery": [],
-          "serviceReferenceIds": []
+          "newsIndexReferenceId": "home-news"
         }
       },
       {
