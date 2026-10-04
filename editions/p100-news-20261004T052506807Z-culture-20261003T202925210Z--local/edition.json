@@ -1,17 +1,17 @@
 {
   "schemaVersion": 4,
   "edition": {
-    "id": "p100-news-20261003T202925210Z-culture-20261003T202925210Z",
+    "id": "p100-news-20261004T052506807Z-culture-20261003T202925210Z",
     "revision": "local",
-    "publishedAt": "2026-10-03T20:35:34.164Z",
-    "title": "P100 NEWS + CULTURE + SCIENCE & TECH",
-    "deck": "A failed execution in Tennessee and an attack aboard an Israel-bound flight lead the international agenda. In the UK, parties face sharp choices on spending, welfare and energy costs; Danish reports examine mental health, safety and local disputes.",
-    "editedOn": "2026-10-03",
+    "publishedAt": "2026-10-04T05:26:59.632Z",
+    "title": "P100 NEWS + CULTURE + SCIENCE & TECHNOLOGY",
+    "deck": "Elections, conflict and policy shifts shape the day’s agenda, alongside stories on household costs, public services and life in Denmark.",
+    "editedOn": "2026-10-04",
     "estimatedReadingMinutes": 14,
-    "editorialNote": "Grouped reporting on the Tennessee execution, the Flydubai attack, Conservative conference policy and the G7 fuel agreement. Allegations and projections are kept distinct from established findings; where reports offer conflicting accounts, those differences are preserved.",
+    "editorialNote": "The selection prioritises consequential developments and strong reporting across the three sections. Distinct accounts of shared events are combined where they add evidence or context; opinion and unresolved allegations remain clearly attributed.",
     "sourceGather": {
-      "snapshotId": "20261003T202925210Z",
-      "generatedAt": "2026-10-03T20:29:25.210Z"
+      "snapshotId": "20261004T052506807Z",
+      "generatedAt": "2026-10-04T05:25:06.807Z"
     },
     "cultureGather": {
       "snapshotId": "20261003T202925210Z",
@@ -51,7 +51,9 @@
           "world-03",
           "world-04",
           "world-05",
-          "world-06"
+          "world-06",
+          "world-07",
+          "world-08"
         ],
         "familyId": "news"
       },
@@ -81,7 +83,9 @@
           "denmark-03",
           "denmark-04",
           "denmark-05",
-          "denmark-06"
+          "denmark-06",
+          "denmark-07",
+          "denmark-08"
         ],
         "familyId": "news"
       },
@@ -222,13 +226,81 @@
         "id": "world-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Russian strikes hit Kyiv’s second major bridge, disrupting cross-river links",
-        "shortHeadline": "Russian strikes hit Kyiv’s second major bridge",
-        "standfirst": "A strike damaged the Northern Bridge and injured two people, according to Kyiv’s mayor. Repeated attacks on bridges across the Dnipro are raising fears that the capital’s east and west could be cut off.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "Brazil votes in a close Lula–Bolsonaro contest shadowed by corruption claims",
+        "shortHeadline": "Brazil votes in a close contest overshadowed by corruption claims",
+        "standfirst": "Polls put incumbent Luiz Inácio Lula da Silva and Flávio Bolsonaro near 40% each. A run-off is likely, with a financial scandal and sharp arguments over crime, the economy and democracy shaping the campaign.",
+        "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-01-image.png",
-          "caption": "Technicians repair overhead trolleybus power lines on Kyiv’s Northern Bridge.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-01-image.png",
+          "caption": "The two leading presidential candidates are Luiz Inácio Lula da Silva and Flávio Bolsonaro.",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+            "credit": "AFP"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+            "publisher": "BBC News",
+            "originalTitle": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+            "publishedAt": "2026-10-04T04:53:29.889Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/world/election-trump-watching-blueprint-midterms-4802162",
+            "publisher": "The i Paper",
+            "originalTitle": "The knife-edge election Trump is watching as a blueprint for the midterms",
+            "canonicalUrl": "https://inews.co.uk/news/world/election-trump-watching-blueprint-midterms-4802162",
+            "publishedAt": "2026-10-03T09:00:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+        "segments": [
+          {
+            "id": "world-01-s1",
+            "body": "Brazilians vote on Sunday in a presidential election led by incumbent Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of former president Jair Bolsonaro. Polling puts both near 40%, with Lula slightly ahead; if neither wins more than half of valid votes, the two will face a run-off on 25 October. About 160 million people are eligible to vote.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6wyz0r2n0djo",
+              "https://inews.co.uk/news/world/election-trump-watching-blueprint-midterms-4802162"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://inews.co.uk/news/world/election-trump-watching-blueprint-midterms-4802162",
+                "body": "The i Paper’s commentary frames the election as part of Donald Trump’s effort to influence politics across the Americas. That is the columnist’s interpretation; the report also says the result is expected to go to a run-off."
+              }
+            ]
+          },
+          {
+            "id": "world-01-s2",
+            "title": "A campaign shaped by corruption and competing priorities",
+            "body": "A scandal surrounding jailed banker Daniel Vorcaro has put corruption at the centre of the campaign. Police are investigating Flávio Bolsonaro over alleged corruption and money laundering connected to financing a film about his father. Separate allegations have linked Vorcaro to Lula ally and Supreme Court justice Alexandre de Moraes, who denies wrongdoing. Both controversies have become campaign weapons.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6wyz0r2n0djo"
+            ]
+          },
+          {
+            "id": "world-01-s3",
+            "body": "Lula points to falling Amazon deforestation as evidence of his environmental record, although his support for exploring offshore oil near the Amazon’s mouth has drawn criticism. Bolsonaro has promised looser regulation and tougher crime policies. The BBC’s polling tracker says 9% of voters were undecided or planned to cast a blank or spoiled ballot, leaving the result uncertain.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6wyz0r2n0djo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Russian strikes hit Kyiv’s second major bridge as attacks disrupt city links",
+        "shortHeadline": "Russian strikes hit a second major Kyiv bridge",
+        "standfirst": "An attack on the Northern Bridge injured two people and damaged road and trolleybus infrastructure, after repeated strikes on another crossing. The attacks threaten transport links across the Dnipro and add to pressure on the capital.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-02-image.png",
+          "caption": "Technicians repair trolleybus power lines on Kyiv’s Northern Bridge.",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/c83vqxzdg1yko",
             "publisher": "BBC News",
@@ -243,112 +315,38 @@
             "originalTitle": "Russia hits second major bridge in Ukraine's capital Kyiv",
             "canonicalUrl": "https://www.bbc.com/news/articles/c83vqxzdg1yko",
             "publishedAt": "2026-10-03T06:13:22.955Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+            "publisher": "The Guardian",
+            "originalTitle": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+            "publishedAt": "2026-10-04T04:27:56.000Z"
           }
         ],
         "primarySourceRef": "https://www.bbc.com/news/articles/c83vqxzdg1yko",
         "segments": [
           {
-            "id": "world-01-s1",
-            "body": "A Russian strike hit Kyiv’s Pivnichnyi, or Northern, Bridge on Saturday, damaging the road surface and overhead trolleybus wires and injuring two people, Mayor Vitaliy Klitschko said. Traffic from the left bank to the right bank was blocked, adding to disruption after repeated attacks on the Pivdennyi, or Southern, Bridge.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/c83vqxzdg1yko"
-            ]
-          },
-          {
-            "id": "world-01-s2",
-            "title": "A city under pressure",
-            "body": "The two bridges connect the capital’s western and eastern districts across the Dnipro. Russian officials say the bridges are used to move Ukrainian troops and military cargo; Kyiv says the attacks are battering critical infrastructure. Experts cited in the report say drones may not bring the bridges down, but repeated strikes could force closures and weaken their structures.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/c83vqxzdg1yko"
-            ]
-          },
-          {
-            "id": "world-01-s3",
-            "body": "The attacks have disrupted road, rail and trolleybus routes as authorities restrict other crossings amid the drone threat. Kyiv residents rely heavily on the metro to cross the river. Ukrainian officials have discussed contingencies including ferries and temporary pontoon bridges if crossings are destroyed.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/c83vqxzdg1yko"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "world-02",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Flydubai co-pilot accused of attacking captain with cockpit crash axe",
-        "shortHeadline": "UAE says Flydubai co-pilot attacked captain with an axe",
-        "standfirst": "The UAE prosecutor general says the co-pilot attempted a terrorist attack on an Israel-bound flight. Passengers helped subdue him after the injured captain opened the cockpit door; investigators have not established a motive.",
-        "viewerProvenance": "MULTIPLE SOURCES",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-02-image.png",
-          "caption": "Captain Smit Machchhar was praised for his actions during the attack.",
-          "source": {
-            "candidateId": "https://www.bbc.com/news/articles/c61wv7lgex13o",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c61wv7lgex13o",
-            "credit": "Embassy of India in Israel"
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-            "publisher": "The Guardian",
-            "originalTitle": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-            "publishedAt": "2026-10-03T11:56:46.000Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/news/articles/c61wv7lgex13o",
-            "publisher": "BBC News",
-            "originalTitle": "Flydubai co-pilot attacked captain with axe, UAE official says",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c61wv7lgex13o",
-            "publishedAt": "2026-10-03T07:40:51.696Z"
-          },
-          {
-            "candidateId": "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867",
-            "publisher": "The i Paper",
-            "originalTitle": "Six things to know as Flydubai pilot used ‘axe in attempted terrorist attack’",
-            "canonicalUrl": "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867",
-            "publishedAt": "2026-10-03T11:42:03.000Z"
-          },
-          {
-            "candidateId": "https://www.dr.dk/nyheder/udland/pilot-fortaeller-foerste-gang-om-flyangreb-jeg-ville-ikke-lade-andre-doe",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Pilot fortæller for første gang om flyangreb: 'Jeg ville ikke lade andre dø'",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/pilot-fortaeller-foerste-gang-om-flyangreb-jeg-ville-ikke-lade-andre-doe",
-            "publishedAt": "2026-10-02T10:19:58.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-        "segments": [
-          {
             "id": "world-02-s1",
-            "body": "The UAE prosecutor general says the co-pilot of Flydubai flight FZ1073 used a crash axe to attack the captain and attempted a terrorist attack. The flight, travelling from Dubai to Tel Aviv with 182 people aboard, plunged more than 16,000 feet before passengers and crew intervened. The allegation is under investigation.",
+            "body": "A Russian strike damaged Kyiv’s Pivnichnyi, or Northern, Bridge on Saturday, injuring two people and damaging the road surface and overhead trolleybus wires, Mayor Vitaliy Klitschko said. It follows repeated attacks on the Pivdennyi, or Southern, Bridge. Russia says the bridges are used to transfer Ukrainian troops and military cargo.",
             "sourceRefs": [
-              "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-              "https://www.bbc.com/news/articles/c61wv7lgex13o",
-              "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867"
+              "https://www.bbc.com/news/articles/c83vqxzdg1yko",
+              "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+                "body": "In an interview with Reuters, President Volodymyr Zelenskyy said Ukraine would intensify attacks on Russian oil refineries in response to Moscow’s attacks on energy infrastructure, while saying Ukraine would not target civilian sites."
+              }
             ]
           },
           {
             "id": "world-02-s2",
-            "title": "How passengers intervened",
-            "body": "Captain Smit Machchhar, who was stabbed, said he used his remaining strength to open the cockpit door so others could get in. Passengers restrained the co-pilot, and two reserve pilots aboard the aircraft landed it safely in Saudi Arabia. Machchhar was taken to hospital and was reported to be in a stable condition.",
+            "title": "A risk to the capital’s connections",
+            "body": "The bridges link Kyiv’s western and eastern banks across the Dnipro River. Strikes have disrupted road, rail and trolleybus links, while drone threats have restricted other routes and caused traffic congestion. Experts cited by the BBC say repeated attacks could force closures and weaken the bridges, even if drones are unlikely to destroy them outright.",
             "sourceRefs": [
-              "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-              "https://www.bbc.com/news/articles/c61wv7lgex13o",
-              "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867",
-              "https://www.dr.dk/nyheder/udland/pilot-fortaeller-foerste-gang-om-flyangreb-jeg-ville-ikke-lade-andre-doe"
-            ]
-          },
-          {
-            "id": "world-02-s3",
-            "title": "Questions remain",
-            "body": "The UAE is leading the investigation, with other countries involved. Officials are examining the suspect’s motives and whether he had links to others. Media reports have named him as Hamam al-Hammami, but authorities have not officially confirmed his identity. Reports that he had been removed from flight training or barred from flying also remain unconfirmed by the UAE authorities.",
-            "sourceRefs": [
-              "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-              "https://www.bbc.com/news/articles/c61wv7lgex13o",
-              "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867"
+              "https://www.bbc.com/news/articles/c83vqxzdg1yko"
             ]
           }
         ]
@@ -357,119 +355,13 @@
         "id": "world-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Tennessee prison chief resigns after Christa Pike survives execution attempt",
-        "shortHeadline": "Tennessee prison chief resigns after failed execution",
-        "standfirst": "Christa Pike remains in critical condition after receiving two doses of lethal-injection drug. Tennessee has halted executions for the rest of the year and ordered an independent review, but has not explained what went wrong.",
-        "viewerProvenance": "MULTIPLE SOURCES",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-03-image.png",
-          "caption": "Emergency vehicles arrive at the Nashville prison after the execution attempt was halted.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-            "publisher": "The Guardian",
-            "originalTitle": "Outgoing prison chief in Christa Pike case oversaw five ‘botched’ executions, lawyers say",
-            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-            "publishedAt": "2026-10-03T10:00:56.000Z"
-          },
-          {
-            "candidateId": "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-            "publisher": "The Guardian",
-            "originalTitle": "Tennessee’s top prison official resigning after botched execution of Christa Pike",
-            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-            "publishedAt": "2026-10-03T17:09:05.000Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/news/articles/c8zxl62yzxzxo",
-            "publisher": "BBC News",
-            "originalTitle": "Tennessee prison chief to resign after Christa Pike's failed execution",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c8zxl62yzxzxo",
-            "publishedAt": "2026-10-03T16:18:04.494Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
-            "publisher": "BBC News",
-            "originalTitle": "What happened in the failed execution of Christa Pike - and what next?",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ckge4eql4q7eo",
-            "publishedAt": "2026-10-01T10:29:49.639Z"
-          },
-          {
-            "candidateId": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
-            "publisher": "The Guardian",
-            "originalTitle": "Christa Pike remains on ventilator after failed execution in Tennessee",
-            "canonicalUrl": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
-            "publishedAt": "2026-10-02T20:26:37.000Z"
-          },
-          {
-            "candidateId": "https://www.dr.dk/nyheder/udland/faengselschef-traekker-sig-efter-mislykket-henrettelse",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Fængselschef trækker sig efter mislykket henrettelse",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/faengselschef-traekker-sig-efter-mislykket-henrettelse",
-            "publishedAt": "2026-10-03T16:25:29.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-        "segments": [
-          {
-            "id": "world-03-s1",
-            "body": "Tennessee’s prisons commissioner, Frank Strada, is stepping down after Christa Pike survived an execution attempt on Wednesday. Governor Bill Lee ordered an independent investigation and paused executions in the state until the end of the year. Pike’s lawyers say she was still unconscious and on a ventilator as of Friday; the state has not said whether it will try to execute her again.",
-            "sourceRefs": [
-              "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-              "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-              "https://www.bbc.com/news/articles/c8zxl62yzxzxo",
-              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
-              "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
-              "https://www.dr.dk/nyheder/udland/faengselschef-traekker-sig-efter-mislykket-henrettelse"
-            ]
-          },
-          {
-            "id": "world-03-s2",
-            "title": "Conflicting accounts of the procedure",
-            "body": "Pike’s lawyers say problems placing intravenous lines meant the pentobarbital entered tissue rather than her bloodstream, and allege the execution team proceeded with a second dose despite the first attempt failing. Tennessee’s Department of Correction says the procedure followed its protocol, which it says did not permit further steps. The state has not publicly explained why the doses did not kill her.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/ckge4eql4q7eo",
-              "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-              "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-              "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious"
-            ]
-          },
-          {
-            "id": "world-03-s3",
-            "title": "Questions about oversight",
-            "body": "The Guardian’s reporting says lawyers have described Pike’s as the fifth problematic execution under Strada’s leadership in Arizona and Tennessee since 2022. It also reports criticism of training and protocol changes, and of the secrecy surrounding execution procedures. The state’s review has yet to report findings; those criticisms are allegations, not conclusions of the review.",
-            "sourceRefs": [
-              "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-              "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-              "https://www.bbc.com/news/articles/ckge4eql4q7eo"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions",
-                "body": "The Guardian traces earlier disputed executions under Strada in Arizona and details lawyers’ claims that Tennessee’s later training rules weakened safeguards. The state has not publicly answered questions about those allegations."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "world-04",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Spain sees nationwide protests after parliament rejects housing measures",
-        "shortHeadline": "Protests spread across Spain as housing measures fail",
-        "standfirst": "Demonstrators are demanding lower rents and stronger tenant protections after parliament rejected emergency housing decrees. The dispute comes amid rising housing costs and a shortage the Bank of Spain estimates at 700,000 homes.",
+        "headline": "Tens of thousands protest across Spain over rents and housing shortages",
+        "shortHeadline": "Thousands protest Spain’s housing crisis",
+        "standfirst": "Demonstrations spread across about 50 cities after parliament rejected emergency measures on rents and evictions. The protests reflect a severe housing shortage and rising costs, while the government’s defeat adds pressure to its fragile parliamentary position.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-04-image.png",
-          "caption": "Demonstrators gather during protests over Spain’s housing crisis.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-03-image.png",
+          "caption": "A protest in Spain calls for action on housing costs and tenant protections.",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cm2kej47095no",
             "publisher": "BBC News",
@@ -489,25 +381,98 @@
         "primarySourceRef": "https://www.bbc.com/news/articles/cm2kej47095no",
         "segments": [
           {
-            "id": "world-04-s1",
-            "body": "Protests took place in cities across Spain on Saturday after parliament rejected two government housing decrees. The proposals included suspending evictions for vulnerable tenants, extending some rental leases and restricting purchases by investment funds. The minority coalition government could not secure enough votes after a Catalan pro-independence party opposed the measures.",
+            "id": "world-03-s1",
+            "body": "Tens of thousands of people marched in Spain on Saturday demanding lower rents, stronger tenant protections and an end to evictions. About 50 demonstrations took place, including in Madrid, Barcelona and Valencia. In Madrid, estimates differed sharply: the Tenants’ Union put attendance at 500,000, while city officials estimated 70,000.",
             "sourceRefs": [
               "https://www.bbc.com/news/articles/cm2kej47095no"
+            ]
+          },
+          {
+            "id": "world-03-s2",
+            "title": "Measures rejected as housing pressures mount",
+            "body": "Parliament rejected two government decrees that included suspending evictions for vulnerable tenants, extending some rental leases, taxing tourist apartments and restricting purchases by investment funds. The government lacks a parliamentary majority, and Together for Catalonia’s opposition helped ensure the proposals failed. The Bank of Spain estimates the country has a housing shortfall of 700,000 homes; house prices rose 12.2% in the year to the second quarter of 2026.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cm2kej47095no"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "UAE says Flydubai co-pilot used cockpit crash axe in alleged attack",
+        "shortHeadline": "UAE says Flydubai co-pilot attacked captain with axe",
+        "standfirst": "The Israel-bound flight plunged sharply before passengers entered the cockpit and helped subdue the co-pilot; reserve pilots landed safely in Saudi Arabia. Investigators are still examining the suspect’s motives and background.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-04-image.png",
+          "caption": "Captain Smit Machchhar was praised for his actions during the flight emergency.",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+            "credit": "Embassy of India in Israel"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+            "publisher": "BBC News",
+            "originalTitle": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+            "publishedAt": "2026-10-03T07:40:51.696Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+            "publisher": "The Guardian",
+            "originalTitle": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+            "publishedAt": "2026-10-04T01:26:39.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+            "publisher": "The Guardian",
+            "originalTitle": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+            "publishedAt": "2026-10-03T11:56:46.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867",
+            "publisher": "The i Paper",
+            "originalTitle": "Six things to know as Flydubai pilot used ‘axe in attempted terrorist attack’",
+            "canonicalUrl": "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867",
+            "publishedAt": "2026-10-03T11:42:03.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/c61wv7lgex13o",
+        "segments": [
+          {
+            "id": "world-04-s1",
+            "body": "The UAE prosecutor general says the co-pilot of Flydubai flight FZ1073 used a crash axe to attack the captain and attempt to take control of the aircraft. The plane, carrying more than 170 people, plunged about 17,000 feet before passengers overpowered the co-pilot and two reserve pilots landed it safely in Saudi Arabia.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c61wv7lgex13o",
+              "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+              "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+              "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867"
             ]
           },
           {
             "id": "world-04-s2",
-            "title": "A crisis beyond the vote",
-            "body": "The demonstrations follow public anger over the eviction of an 87-year-old woman after a sharp rent increase. Her landlord later negotiated her return at a lower rent, but protests continued. The Bank of Spain estimates a housing shortfall of 700,000 homes; house prices rose 12.2% in the year to the second quarter of 2026, according to national statistics.",
+            "title": "Identity and motive remain under investigation",
+            "body": "The Indian captain, Smit Machchhar, said he was injured but managed to open the cockpit door so passengers could enter. Several media outlets have named the co-pilot as Hamam, or Hammam, al-Hammami, an Omani national; authorities have not officially confirmed the name. The UAE says investigations into the circumstances, motive and possible connections are continuing.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cm2kej47095no"
-            ]
-          },
-          {
-            "id": "world-04-s3",
-            "body": "Crowd estimates in Madrid differed sharply: the Tenants’ Union said 500,000 people attended, while city officials put the figure at 70,000. In Valencia, clashes between some demonstrators and police left nine officers injured and five people arrested, according to public broadcaster RTVE.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cm2kej47095no"
+              "https://www.bbc.com/news/articles/c61wv7lgex13o",
+              "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+              "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+              "https://inews.co.uk/news/six-things-to-know-flydubai-axe-terrorist-attack-4807867"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+                "body": "The Guardian reports that an official said the co-pilot had been barred from flying in Oman over concerns about extremist views, but it remains unclear how extensively Flydubai vetted him. That claim has not been established as a finding by investigators."
+              }
             ]
           }
         ]
@@ -516,356 +481,13 @@
         "id": "world-05",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Search under way for six people after medical plane vanishes off Massachusetts",
-        "shortHeadline": "Six missing after medical plane disappears off Massachusetts",
-        "standfirst": "A medical aircraft travelling from Bermuda to Boston lost contact with air traffic controllers early Saturday. A search is under way off Nantucket; authorities have not reported what happened to the plane.",
-        "viewerProvenance": "BBC NEWS",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-05-image.png",
-          "caption": "A search is under way off Nantucket, Massachusetts, for the missing aircraft.",
-          "source": {
-            "candidateId": "https://www.bbc.com/news/articles/cme3x85013llo",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cme3x85013llo",
-            "credit": "Getty Images"
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/news/articles/cme3x85013llo",
-            "publisher": "BBC News",
-            "originalTitle": "Medical plane with 6 on board missing off Massachusetts coast",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cme3x85013llo",
-            "publishedAt": "2026-10-03T15:56:14.615Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cme3x85013llo",
-        "segments": [
-          {
-            "id": "world-05-s1",
-            "body": "US authorities are searching off Nantucket, Massachusetts, for six people aboard a medical plane that disappeared early Saturday. The Federal Aviation Administration said it lost contact with the Gulfstream G-100 shortly after 01:00 local time. The aircraft had left Bermuda and was due to land at Boston’s Logan International Airport.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cme3x85013llo"
-            ]
-          },
-          {
-            "id": "world-05-s2",
-            "body": "The plane belonged to Latitude Air Ambulances and was carrying two pilots, two Canadian medical staff, a patient and the patient’s relative, the company’s director of flight operations told CBC News. Flight data showed the aircraft losing altitude before communications stopped. The cause remains unknown.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cme3x85013llo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "world-06",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Latvia exit poll puts governing party well ahead in parliamentary election",
-        "shortHeadline": "Latvia exit poll puts governing party in front",
-        "standfirst": "An exit poll gives Prime Minister Andris Kulbergs’s United List 35.6% of the vote, well ahead of its rivals. The result is not final; the campaign focused heavily on the war in Ukraine and relations with Russia.",
-        "viewerProvenance": "DR NYHEDER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/world-06-image.png",
-          "caption": "Andris Kulbergs after an exit poll indicated his party was leading Latvia’s election.",
-          "source": {
-            "candidateId": "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste",
-            "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Måling: Letlands regeringsparti bliver valgets suverænt største",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste",
-            "publishedAt": "2026-10-03T18:40:22.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste",
-        "segments": [
-          {
-            "id": "world-06-s1",
-            "body": "An exit poll on Latvian television puts Prime Minister Andris Kulbergs’s centrist United List first in Saturday’s parliamentary election, with 35.6% of the vote. The party’s leader said he hoped to remain prime minister. Official counting is needed to confirm the result.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste"
-            ]
-          },
-          {
-            "id": "world-06-s2",
-            "body": "The poll puts the Trump-inspired Latvia First and the Progressive Party on 11.3% each, with the pro-Russian Sovereign Power on 10.8%. Kulbergs ruled out a coalition with Latvia First and said he would not work with pro-Russian parties, according to Reuters.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste"
-            ]
-          },
-          {
-            "id": "world-06-s3",
-            "title": "Security shaped the campaign",
-            "body": "The war in Ukraine and relations with Russia were prominent issues. Baltic governments have warned of possible Russian sabotage and cyberattacks aimed at weakening support for Ukraine; Russia rejects the allegations. The exit poll does not settle whether the governing party can form a coalition.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/udland/maaling-letlands-regeringsparti-bliver-valgets-suveraent-stoerste"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-01",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Two men charged over alleged plot to bomb Manchester Jewish targets",
-        "shortHeadline": "Two charged over alleged plot targeting Manchester’s Jewish community",
-        "standfirst": "Prosecutors allege two men conducted reconnaissance and obtained instructions to make a chlorine bomb. The charges follow arrests on the eve of Yom Kippur, one year after the attack on Heaton Park Synagogue; the allegations have not been proven in court.",
-        "viewerProvenance": "BBC NEWS",
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/news/articles/cr62y3enq62zo",
-            "publisher": "BBC News",
-            "originalTitle": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cr62y3enq62zo",
-            "publishedAt": "2026-10-03T10:18:53.774Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cr62y3enq62zo",
-        "segments": [
-          {
-            "id": "uk-01-s1",
-            "body": "Two men have appeared in court charged with preparing or assisting an act of terrorism, in an alleged plot targeting Manchester’s Jewish community. Prosecutors say Rahman Salehi and Salam Ahmadyan researched possible targets, including Heaton Park Synagogue and the Jewish Museum, and obtained instructions to make a chlorine bomb. Both men deny no charges in the supplied report; the case is before the courts.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cr62y3enq62zo"
-            ]
-          },
-          {
-            "id": "uk-01-s2",
-            "title": "Investigation continues",
-            "body": "The men were arrested in Manchester on the eve of Yom Kippur and remanded in custody until their next court appearance at the Old Bailey on 23 October. Prosecutors allege they were directed by another Iranian individual, likely operating from Iran; this is an allegation presented in court, not an established finding.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cr62y3enq62zo"
-            ]
-          },
-          {
-            "id": "uk-01-s3",
-            "body": "The case comes a year after two people were killed in an attack on Heaton Park Synagogue during Yom Kippur. Home Secretary Shabana Mahmood said the charges would be distressing for the city’s Jewish community. The investigation includes searches in Salford and Liverpool.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cr62y3enq62zo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-02",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Chris Brain convicted of rape and assaults after years of abuse in church group",
-        "shortHeadline": "Former priest Chris Brain convicted of rape and assaults",
-        "standfirst": "The founder of Sheffield’s Nine O’Clock Service was convicted of raping one congregant and indecently assaulting three others. Trial evidence described a movement in which women feared ostracism if they refused his demands.",
-        "viewerProvenance": "BBC NEWS",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-02-image.png",
-          "caption": "Chris Brain led Sheffield’s Nine O’Clock Service from 1984 to 1995.",
-          "source": {
-            "candidateId": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
-            "credit": "BBC/Jon Jones/Nine O'Clock Trust"
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
-            "publisher": "BBC News",
-            "originalTitle": "How rapist priest exploited charisma to abuse his 'cult-like' congregation",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
-            "publishedAt": "2026-10-03T06:01:15.639Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/ck1wv7nlg7rwo",
-        "segments": [
-          {
-            "id": "uk-02-s1",
-            "body": "Chris Brain, 69, was convicted at Inner London Crown Court of raping one woman and committing four indecent assaults against three others. He had already been convicted of 17 indecent assaults in 2025; a retrial was held after jurors could not reach verdicts on five further counts. He is due to be sentenced later this year.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck1wv7nlg7rwo"
-            ]
-          },
-          {
-            "id": "uk-02-s2",
-            "title": "Authority and control",
-            "body": "Brain led the Nine O’Clock Service, a Sheffield congregation that attracted hundreds of young people with a mix of electronic music, dance and Christian worship. Women told the court he summoned them to give him massages and feared being excluded from the community if they refused. Brain denied wrongdoing and said sexual contact was consensual.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck1wv7nlg7rwo"
-            ]
-          },
-          {
-            "id": "uk-02-s3",
-            "title": "Questions for the Church",
-            "body": "Trial evidence also described unpaid domestic work, pressure to give money to the movement and encouragement to cut ties with family and friends. The service ended in 1995 after a former member raised concerns. The Diocese of Sheffield has since announced an independent safeguarding review into what it calls institutional failures.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck1wv7nlg7rwo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-03",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Tories plan cuts beyond £47bn pledge as Badenoch prepares for conference",
-        "shortHeadline": "Tories plan further cuts as Badenoch heads into conference",
-        "standfirst": "Leaked remarks by shadow chancellor Andrew Griffith indicate Conservatives have discussed savings beyond their £47bn pledge. Badenoch is expected to argue for a smaller state, while party insiders remain divided over pensions and how to win back voters.",
+        "headline": "G7 agrees to release 100 million barrels of oil and diesel amid supply fears",
+        "shortHeadline": "G7 agrees fuel reserve release as diesel supply concerns grow",
+        "standfirst": "The four-month release includes a substantial diesel contribution in its first 20 days. The agreement also rules out energy export restrictions among G7 members, after Donald Trump threatened a US diesel ban.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-03-image.png",
-          "caption": "Andrew Griffith, whose leaked remarks point to planned cuts beyond the Conservatives’ £47bn pledge.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-            "publisher": "The Guardian",
-            "originalTitle": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
-            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-            "publishedAt": "2026-10-03T15:00:01.000Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/news/articles/cmn8e887716vo",
-            "publisher": "BBC News",
-            "originalTitle": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmn8e887716vo",
-            "publishedAt": "2026-10-03T10:27:57.755Z"
-          },
-          {
-            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
-            "publisher": "The Guardian",
-            "originalTitle": "Badenoch returns to Conservative conference much stronger than a year ago",
-            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
-            "publishedAt": "2026-10-03T13:00:01.000Z"
-          },
-          {
-            "candidateId": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
-            "publisher": "The i Paper",
-            "originalTitle": "Badenoch wants to save the triple lock. But senior Tories want it gone",
-            "canonicalUrl": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
-            "publishedAt": "2026-10-03T05:00:00.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-        "segments": [
-          {
-            "id": "uk-03-s1",
-            "body": "The Conservatives are planning cuts beyond the £47bn they have already pledged if they win the next election, according to leaked remarks by shadow chancellor Andrew Griffith. He told party members that the shadow cabinet had discussed finding further savings across government. A party spokesperson confirmed the Conservatives wanted to go further.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments"
-            ]
-          },
-          {
-            "id": "uk-03-s2",
-            "title": "Conference positioning",
-            "body": "Kemi Badenoch is expected to make the case for lower taxes and a smaller state at the party’s Birmingham conference, including further reductions to welfare and what she calls wasteful spending. The proposals already announced include civil service job cuts and reductions to international aid and clean-energy spending; the party says some savings would fund additional prison places.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-              "https://www.bbc.com/news/articles/cmn8e887716vo"
-            ]
-          },
-          {
-            "id": "uk-03-s3",
-            "title": "A stronger leader, a weak party brand",
-            "body": "Polling and focus-group research cited by the Guardian suggests Badenoch’s personal standing has improved, but the Conservatives remain vulnerable to distrust and competition from Reform UK and Labour leader Andy Burnham. Some senior Conservatives also question whether the party can keep its commitment to the pension triple lock while promising lower spending and higher defence budgets.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
-              "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
-              "https://www.bbc.com/news/articles/cmn8e887716vo"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
-                "body": "The Guardian’s polling analysis suggests Badenoch is more widely recognised and has improved her personal ratings, while many voters still view the Conservative party itself as untrustworthy. The report also notes her position remains exposed if the party fails to make sustained gains against Reform UK."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-04",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Labour faces possible rebellion over welfare changes and pension plans",
-        "shortHeadline": "Labour MPs warn they may oppose welfare and pension changes",
-        "standfirst": "Ministers are awaiting reviews of disability benefits and youth employment, but MPs are already questioning proposals to curb spending. A voluntary option to receive services instead of some cash benefits has also drawn concern from disabled people.",
-        "viewerProvenance": "THE I PAPER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-04-image.png",
-          "caption": "Imali Chislett says her disability benefit helps cover the extra costs of daily life.",
-          "source": {
-            "candidateId": "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001",
-            "publisher": "The i Paper",
-            "canonicalUrl": "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245",
-            "publisher": "The i Paper",
-            "originalTitle": "The Labour mutiny Burnham faces over triple lock and welfare reforms",
-            "canonicalUrl": "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245",
-            "publishedAt": "2026-10-03T09:00:00.000Z"
-          },
-          {
-            "candidateId": "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001",
-            "publisher": "The i Paper",
-            "originalTitle": "I’m a PIP claimant – here’s how I spend my £780 payment",
-            "canonicalUrl": "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001",
-            "publishedAt": "2026-10-03T07:00:00.000Z"
-          }
-        ],
-        "primarySourceRef": "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245",
-        "segments": [
-          {
-            "id": "uk-04-s1",
-            "body": "Andy Burnham’s government is preparing changes to welfare spending and has proposed replacing the state pension triple lock from 2030 with increases linked to inflation or 2.5%, whichever is higher. Labour MPs who opposed earlier welfare cuts say they are waiting to see the detail; one estimates 30 to 50 colleagues may oppose changing the pension guarantee.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245"
-            ]
-          },
-          {
-            "id": "uk-04-s2",
-            "title": "What could change for disabled claimants",
-            "body": "The Timms review is considering whether some Personal Independence Payment claimants could voluntarily receive services, equipment or other support instead of cash. Disability claimant Imali Chislett says cash gives her independence and helps meet costs including adapted transport, taxis, energy and wheelchair repairs. Ministers say no claimant will be forced to take non-cash support.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245",
-              "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001"
-            ]
-          },
-          {
-            "id": "uk-04-s3",
-            "title": "The argument over savings",
-            "body": "The government says reforms should help people into work and make the system sustainable, while Labour MPs warn support must be in place before benefits are reduced. Disability advocates say cash gives claimants flexibility and caution that reducing it could worsen health and poverty. The reviews are expected to inform legislation later this year.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/labour-mutiny-burnham-faces-triple-lock-welfare-reforms-4799245",
-              "https://inews.co.uk/news/pip-claimant-how-i-spend-my-780-payment-4790001"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-05",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "G7 agrees emergency oil and diesel release as UK fuel costs rise",
-        "shortHeadline": "G7 to release fuel reserves as UK diesel tops £2 a litre",
-        "standfirst": "G7 countries have agreed to release 100 million barrels of oil and diesel over four months, aiming to ease supply pressure and avoid a US export ban. UK haulage groups warn that record diesel prices could feed into food costs.",
-        "viewerProvenance": "MULTIPLE SOURCES",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-05-image.png",
-          "caption": "Diesel prices in the UK have passed £2 a litre, according to RAC figures.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-05-image.png",
+          "caption": "Diesel prices at a petrol station in Bristol have reached a record high.",
           "source": {
             "candidateId": "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
             "publisher": "The i Paper",
@@ -896,41 +518,482 @@
             "publishedAt": "2026-10-02T17:42:56.000Z"
           }
         ],
-        "primarySourceRef": "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
+        "primarySourceRef": "https://www.bbc.com/news/articles/ck87zg8jnwngo",
         "segments": [
           {
-            "id": "uk-05-s1",
-            "body": "G7 leaders agreed to release 100 million barrels of oil and diesel through the International Energy Agency, including a substantial diesel release in the first 20 days. The deal followed Donald Trump’s threat to restrict US diesel exports. The group says it will not impose energy-export restrictions among members, but the release’s exact country-by-country contributions are not yet clear.",
+            "id": "world-05-s1",
+            "body": "G7 leaders agreed to release 100 million barrels of oil and diesel through the International Energy Agency, beginning immediately and continuing over four months. Their statement promises a substantial diesel release within 20 days and says members will not restrict energy exports to one another. It is not yet clear which partner countries will contribute stocks or how quickly.",
             "sourceRefs": [
               "https://www.bbc.com/news/articles/ck87zg8jnwngo",
               "https://inews.co.uk/news/world/trump-will-feel-empowered-by-worlds-latest-surrender-4807338",
               "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193"
-            ]
-          },
-          {
-            "id": "uk-05-s2",
-            "title": "Costs at home",
-            "body": "The average UK diesel price reached 200.01p a litre on Friday, a record, according to RAC figures. The Road Haulage Association says operators are paying about £350 more a week to fill an HGV than in February and warns that transport costs may raise prices on supermarket shelves. It is urging ministers to pause planned fuel-duty increases and offer a rebate to essential users.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
-              "https://www.bbc.com/news/articles/ck87zg8jnwngo"
-            ]
-          },
-          {
-            "id": "uk-05-s3",
-            "title": "A short-term buffer",
-            "body": "The reserve release may ease immediate supply pressure, but a University of Salford expert cited by the i says drawing down stocks reduces protection against future disruption until reserves are replenished. The Guardian’s analysis also notes that oil prices moved in response to renewed regional tensions, illustrating that the announcement alone may not settle markets.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
-              "https://www.bbc.com/news/articles/ck87zg8jnwngo",
-              "https://inews.co.uk/news/world/trump-will-feel-empowered-by-worlds-latest-surrender-4807338"
             ],
             "treatment": "from-sources",
             "perspectives": [
               {
                 "sourceRef": "https://inews.co.uk/news/world/trump-will-feel-empowered-by-worlds-latest-surrender-4807338",
-                "body": "The i’s commentary argues the agreement gives Trump a political win and leaves European countries needing to replenish reserves, potentially at higher prices. That is an editorial assessment, rather than a settled estimate of the deal’s eventual cost."
+                "body": "The i Paper’s opinion column argues that the agreement shows Trump successfully pressuring allies to release their reserves. It also notes that reserves can be used only once unless replenished."
               }
+            ]
+          },
+          {
+            "id": "world-05-s2",
+            "title": "Relief for importers, but not a lasting fix",
+            "body": "The agreement followed Trump’s threat to ban US diesel exports unless European countries released more of their own stocks. He later said an export ban was never really on the table. The UK imports more than half its diesel, including 31% from the US, and pump prices have topped £2 a litre. Industry representatives warn high fuel costs will feed through to haulage and food prices.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ck87zg8jnwngo",
+              "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193"
+            ]
+          },
+          {
+            "id": "world-05-s3",
+            "body": "Energy analyst Matt Smith told the BBC that oil prices rose again amid reports of possible Saudi action in Yemen. A University of Salford expert quoted by The i Paper said drawing down emergency reserves offers short-term protection but leaves less cover for future disruption; it does not resolve constraints in refining capacity or reliance on international supply.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ck87zg8jnwngo",
+              "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Cornell president promises review after student’s rape allegations",
+        "shortHeadline": "Cornell president pledges action after rape allegations",
+        "standfirst": "The university president called allegations by a former student deeply disturbing and promised reviews of the case handling. The student’s civil lawsuit alleges she was drugged and assaulted by fraternity members; no charges were laid after the university police investigation.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-06-image.png",
+          "caption": "Cornell University is reviewing its handling of a student’s allegations involving a fraternity house.",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+            "credit": "Getty Images"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+            "publisher": "BBC News",
+            "originalTitle": "Cornell president says university 'must do better' after frat house rape allegations",
+            "canonicalUrl": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+            "publishedAt": "2026-10-03T23:35:59.039Z"
+          },
+          {
+            "candidateId": "https://nyheder.tv2.dk/udland/2026-10-04-rektor-bryder-tavsheden-i-dybt-foruroligende-sag-om-gruppevoldtaegt",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Rektor bryder tavsheden i \"dybt foruroligende\" sag om gruppevoldtægt",
+            "canonicalUrl": "https://nyheder.tv2.dk/udland/2026-10-04-rektor-bryder-tavsheden-i-dybt-foruroligende-sag-om-gruppevoldtaegt",
+            "publishedAt": "2026-10-04T03:17:25.616Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/kultur/amerikanske-lindsey-elskede-studielivet-i-en-studenterforening-men-der-var-ogsaa-en-moerk-side",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Amerikanske Lindsey elskede studielivet i en studenterforening – men der var også en mørk side",
+            "canonicalUrl": "https://www.dr.dk/nyheder/kultur/amerikanske-lindsey-elskede-studielivet-i-en-studenterforening-men-der-var-ogsaa-en-moerk-side",
+            "publishedAt": "2026-10-03T19:55:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/ckly0leelnz4o",
+        "segments": [
+          {
+            "id": "world-06-s1",
+            "body": "Cornell president Michael Kotlikoff said the university “must do better” after a former student, identified in court papers as Jane Doe, alleged she was drugged and raped by seven men from the Chi Phi fraternity in October 2024. She says she reported the incident to university police, who investigated; no charges were laid. Cornell says it is reviewing how the case was handled.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ckly0leelnz4o",
+              "https://nyheder.tv2.dk/udland/2026-10-04-rektor-bryder-tavsheden-i-dybt-foruroligende-sag-om-gruppevoldtaegt",
+              "https://www.dr.dk/nyheder/kultur/amerikanske-lindsey-elskede-studielivet-i-en-studenterforening-men-der-var-ogsaa-en-moerk-side"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/kultur/amerikanske-lindsey-elskede-studielivet-i-en-studenterforening-men-der-var-ogsaa-en-moerk-side",
+                "body": "DR’s interview with former sorority member Lindsey Jensen adds a broader view of campus Greek life: she says sexual assault is normalised in some settings and that a culture of silence can make it harder to challenge. Her account is not evidence about the specific allegations at Cornell."
+              }
+            ]
+          },
+          {
+            "id": "world-06-s2",
+            "title": "Independent investigations and campus criticism",
+            "body": "The student filed a civil lawsuit against Cornell last month, alleging the university failed to protect her or adequately discipline those involved. New York Governor Kathy Hochul appointed Attorney General Letitia James to lead a criminal investigation and an independent law firm to review Cornell’s handling. Students have criticised the university at public meetings, while Kotlikoff cited legal and privacy limits on what it can disclose.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/ckly0leelnz4o",
+              "https://nyheder.tv2.dk/udland/2026-10-04-rektor-bryder-tavsheden-i-dybt-foruroligende-sag-om-gruppevoldtaegt"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Russian attacks destroy millions of Ukrainian books and threaten publishers",
+        "shortHeadline": "Russian attacks destroy millions of Ukrainian books",
+        "standfirst": "Strikes on warehouses have destroyed millions of books, including school materials and independent publishers’ stock. Ukrainian officials and publishers say the losses threaten a publishing revival that has become closely tied to language and national identity.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-07-image.png",
+          "caption": "Ranok publisher Viktor Kruglov inspects the remains of his burnt-out warehouse.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+            "publisher": "The Guardian",
+            "originalTitle": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+            "canonicalUrl": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+            "publishedAt": "2026-10-04T05:00:20.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+        "segments": [
+          {
+            "id": "world-07-s1",
+            "body": "A Russian strike on a Kharkiv warehouse destroyed eight million books held by publisher Ranok, including most of its stock, chief executive Viktor Kruglov said. The attack came as the publisher prepared to distribute schoolbooks. The Guardian reports that 50 people were working at the site; no one was injured. Ukraine’s government estimates that 13 million books were destroyed by missiles or drones this summer.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books"
+            ]
+          },
+          {
+            "id": "world-07-s2",
+            "title": "A cultural and commercial blow",
+            "body": "Kruglov believes his book warehouse was deliberately targeted. Deputy culture minister Bohdana Laiuk takes a broader view, saying the strikes are part of attacks on warehouses and fulfilment centres that disrupt everyday life. She also describes the destruction of Ukrainian-language books in occupied areas as part of a longer campaign against Ukrainian cultural identity.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books"
+            ]
+          },
+          {
+            "id": "world-07-s3",
+            "body": "Publishers are trying to reprint textbooks and popular titles, but smaller presses are particularly exposed: independent publisher Krapky lost all its stock in a warehouse strike, and another small press has paused operations. Publishers hope reader support and grants will help them continue, while Laiuk is urging international publishers to translate Ukrainian works.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Latvia’s governing party leads election count, rejecting a coalition with Trump-",
+        "shortHeadline": "Latvia’s governing party leads election count",
+        "standfirst": "With most votes counted, Prime Minister Andris Kulbergs’s centrist United List was well ahead of Latvia First, a party inspired by Donald Trump’s movement. Kulbergs has ruled out joining it in government.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/world-08-image.png",
+          "caption": "Latvian Prime Minister Andris Kulbergs’s United List led the election count.",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Letlands regeringsparti vinder valget",
+            "canonicalUrl": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+            "publishedAt": "2026-10-04T05:10:10.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+            "publisher": "The Guardian",
+            "originalTitle": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+            "publishedAt": "2026-10-04T04:27:56.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+        "segments": [
+          {
+            "id": "world-08-s1",
+            "body": "With 88% of ballots counted, Latvia’s governing United List party was on 36.6%, against 13.4% for Latvia First, according to DR. Prime Minister Andris Kulbergs rejected a coalition with Latvia First, which the report describes as inspired by Donald Trump’s movement.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+              "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says"
+            ]
+          },
+          {
+            "id": "world-08-s2",
+            "body": "The Guardian’s earlier election briefing, based on 72% of ballots counted, also showed United List well ahead and said populist parties had made gains during a campaign focused on Russia and the cost of living. Kulbergs said his party would not cooperate with parties it considers pro-Russian.",
+            "sourceRefs": [
+              "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
+              "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-01",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Ministers abandon plan to curb jury trials as court backlog nears 100,000",
+        "shortHeadline": "Ministers drop plan to cut jury trials",
+        "standfirst": "The government has changed course after lawyers and MPs opposed expanding judge-only trials. It says a new approach can be introduced sooner, but critics warn the remaining reforms may not be enough to tackle the record crown court backlog.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-01-image.png",
+          "caption": "Justice Secretary Alex Norris said ministers had changed course on jury trials.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+            "publisher": "The Guardian",
+            "originalTitle": "Ministers drop plans to cut jury trials in England and Wales after outcry",
+            "canonicalUrl": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+            "publishedAt": "2026-10-03T23:01:11.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+        "segments": [
+          {
+            "id": "uk-01-s1",
+            "body": "Ministers have scrapped plans to replace many jury trials in England and Wales with trials heard by a judge alone. Justice Secretary Alex Norris said he had listened to opposition and wanted to start reducing delays sooner. The Ministry of Justice says the change avoids the time needed to set up a new judge-only division of the crown court.",
+            "sourceRefs": [
+              "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts"
+            ]
+          },
+          {
+            "id": "uk-01-s2",
+            "title": "Backlog and remaining reforms",
+            "body": "There are nearly 81,000 cases in the crown courts, a figure projected to reach 100,000 without reform. Judge-only trials will remain possible in a small number of lengthy, technical fraud cases. The government will still remove defendants’ right to choose a crown court jury trial for some “either way” offences, and plans to increase magistrates’ sentencing powers.",
+            "sourceRefs": [
+              "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts"
+            ]
+          },
+          {
+            "id": "uk-01-s3",
+            "body": "The Bar Council welcomed the change on jury trials but called increased magistrates’ sentencing powers and removal of defendants’ choice a dangerous experiment, warning of risks to trust and existing disparities. Victims’ commissioner Claire Waxman questioned whether the remaining plan would be sufficient to deliver swifter justice.",
+            "sourceRefs": [
+              "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Tories signal deeper government cuts as Badenoch prepares conference pitch",
+        "shortHeadline": "Tories signal cuts beyond £47bn pledge",
+        "standfirst": "Leaked comments by shadow chancellor Andrew Griffith point to savings beyond the £47bn already announced. The Conservatives say they want a smaller state, while polling suggests Kemi Badenoch has improved her standing but the party remains behind Labour and Reform.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-02-image.png",
+          "caption": "Shadow chancellor Andrew Griffith’s leaked comments point to further Conservative spending cuts.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+            "publisher": "The Guardian",
+            "originalTitle": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+            "publishedAt": "2026-10-03T15:00:01.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+            "publisher": "The Guardian",
+            "originalTitle": "Badenoch returns to Conservative conference much stronger than a year ago",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+            "publishedAt": "2026-10-03T13:00:01.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+        "segments": [
+          {
+            "id": "uk-02-s1",
+            "body": "The Conservatives are seeking cuts beyond the £47bn already announced, according to leaked remarks by shadow chancellor Andrew Griffith. He told party members that ministers had discussed finding further savings “in every part of government”. A party spokesperson confirmed the Tories wanted additional savings, including from welfare and what they call wasteful spending.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+              "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago"
+            ]
+          },
+          {
+            "id": "uk-02-s2",
+            "title": "A conference test for Badenoch",
+            "body": "The Conservatives have proposed reducing welfare spending, cutting civil service jobs and international aid, and scrapping most of Labour’s clean-energy programme. The Guardian reports that Badenoch’s personal ratings have improved and the party has risen from the mid-teens to the low 20s in some polls, but the party brand remains a problem and Reform continues to compete for right-leaning voters.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+              "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+                "body": "Polling and focus-group analysis cited by The Guardian suggests Badenoch has become better known and more positively regarded by some potential Conservative voters. The report also notes that insiders see her leadership as vulnerable if the party cannot sustain gains against Reform."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Badenoch proposes £700m childcare expansion for higher earners",
+        "shortHeadline": "Tories would extend free childcare to higher earners",
+        "standfirst": "The Conservative plan would remove England’s £100,000 earnings cut-off for free childcare, allowing eligible working parents to claim regardless of income. The party says it would fund the £700m annual cost by cutting jobs at public bodies.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-03-image.png",
+          "caption": "Kemi Badenoch meets parents and toddlers ahead of the Conservative conference.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+            "publisher": "The Guardian",
+            "originalTitle": "Tories would expand free childcare to high earners, Badenoch says",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+            "publishedAt": "2026-10-03T21:00:09.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+        "segments": [
+          {
+            "id": "uk-03-s1",
+            "body": "The Conservatives say they would abolish the £100,000 earnings limit for free childcare in England. Under the proposal, parents working at least 16 hours a week could claim the entitlement even if one parent earns above the current threshold. Kemi Badenoch says the existing cut-off can deter parents from taking a pay rise or promotion.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge"
+            ]
+          },
+          {
+            "id": "uk-03-s2",
+            "body": "The party estimates the change would cost £700m a year and says it would be funded by cutting jobs at organisations including Arts Council England and the Environment Agency. Labour criticised the proposal as a priority for higher earners. The proposal follows the Conservatives’ earlier plan to abolish most stamp duty on primary homes in England and Northern Ireland.",
+            "sourceRefs": [
+              "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-04",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Tories split over whether to keep pension triple lock as Burnham proposes reform",
+        "shortHeadline": "Tories divided over future of pension triple lock",
+        "standfirst": "Kemi Badenoch has reaffirmed the Conservatives’ commitment to the triple lock, despite senior figures arguing it may be unaffordable. Andy Burnham’s proposed change from 2030 has reopened a debate about pension rises, public spending and the cost of a national care service.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-04-image.png",
+          "caption": "Senior Conservatives are debating whether to maintain the pension triple lock.",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
+            "publisher": "The i Paper",
+            "originalTitle": "Badenoch wants to save the triple lock. But senior Tories want it gone",
+            "canonicalUrl": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
+            "publishedAt": "2026-10-03T05:00:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266",
+        "segments": [
+          {
+            "id": "uk-04-s1",
+            "body": "Senior Conservatives have urged Kemi Badenoch to keep options open on the state pension triple lock, but the party has reaffirmed its commitment to the policy. The current system raises pensions by whichever is highest: average wage growth, inflation or 2.5%. Andy Burnham has proposed using inflation or 2.5% from 2030, removing the wages link.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266"
+            ]
+          },
+          {
+            "id": "uk-04-s2",
+            "body": "Some Conservative figures say the triple lock is unaffordable over the long term, while others worry a change would alienate older voters, who were among the party’s strongest groups at the 2024 election. The policy debate also centres on whether pension savings could meaningfully pay for Burnham’s proposed national care service; the article cites estimates suggesting a substantial gap.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/adenoch-triple-lock-tories-4805266"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-05",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "UK households face further energy bill pressure as winter costs loom",
+        "shortHeadline": "Energy suppliers warn UK bills could rise further",
+        "standfirst": "Energy UK says annual bills could reach £2,100 by January, while forecasts point to a 16% rise next year. The group wants targeted rebates and debt relief; ministers say recent measures have already reduced costs.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-05-image.png",
+          "caption": "Energy suppliers are calling for more help with household bills.",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+            "publisher": "The i Paper",
+            "originalTitle": "The three measures Burnham could use to cut energy bills",
+            "canonicalUrl": "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+            "publishedAt": "2026-10-03T11:35:18.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
+            "publisher": "The i Paper",
+            "originalTitle": "Truckers plea for fuel duty bailout as diesel prices hit record high",
+            "canonicalUrl": "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193",
+            "publishedAt": "2026-10-02T17:42:56.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+        "segments": [
+          {
+            "id": "uk-05-s1",
+            "body": "Energy UK has urged the government to offer more help to households as suppliers warn that typical annual bills could rise to £2,100 by January. The current average is £1,723 after a recent increase; forecasts cited by The i Paper predict a further 16% rise, or £276, next year. The supplier group says customer debt could reach £7bn by year-end.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869",
+              "https://inews.co.uk/news/politics/truckers-plea-fuel-duty-bailout-diesel-prices-high-4805193"
+            ]
+          },
+          {
+            "id": "uk-05-s2",
+            "title": "Calls for targeted help",
+            "body": "Energy UK wants targeted rebates beyond the Warm Home Discount and a debt-relief scheme for the most affected households. It has previously called for £450 a year in rebates for households in need. The government says its VAT cut will reduce the annual price cap by £45 and points to £150 of costs removed from bills earlier this year.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869"
+            ]
+          },
+          {
+            "id": "uk-05-s3",
+            "body": "The reports link higher energy costs to disrupted supplies during the US-led war with Iran. Energy UK warns that storage will take time to replenish and bills could remain high into spring. The government says it is considering further steps while pursuing longer-term reductions through clean power.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/three-measures-burnham-cut-energy-bills-4807869"
             ]
           }
         ]
@@ -939,13 +1002,13 @@
         "id": "uk-06",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Avanti rail service to enter public ownership, but experts warn delays may last",
-        "shortHeadline": "Avanti nationalisation will not quickly fix delays, experts warn",
-        "standfirst": "The operator has the UK’s worst on-time record, but rail experts say congestion and infrastructure faults on the West Coast Main Line are major causes. Public ownership alone is unlikely to cut fares or quickly improve services.",
+        "headline": "Avanti nationalisation will not quickly fix delays or cut fares, experts warn",
+        "shortHeadline": "Avanti nationalisation is no quick fix for rail passengers",
+        "standfirst": "The operator has the UK’s worst on-time record, but experts say infrastructure constraints on the West Coast Main Line are a major cause of delays. Public ownership may improve coordination, but fare reductions and service improvements are not guaranteed.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-06-image.png",
-          "caption": "Avanti West Coast had the lowest share of on-time trains among UK operators last year.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-06-image.png",
+          "caption": "Avanti West Coast had the worst on-time performance among operators last year.",
           "source": {
             "candidateId": "https://inews.co.uk/news/avanti-delays-prices-nationalisation-4798644",
             "publisher": "The i Paper",
@@ -966,22 +1029,22 @@
         "segments": [
           {
             "id": "uk-06-s1",
-            "body": "Avanti West Coast is due to return to public ownership in March after poor performance. Just 37.9% of its trains were on time in 2025–26, the lowest share of any operator, and 5.6% were cancelled, according to the Office of Rail and Road. The government says a state-run service should work better for passengers.",
+            "body": "Avanti West Coast is due to return to public ownership in March after a poor performance record. Only 37.9% of its trains were on time in 2025–26, the worst result of any operator, and 5.6% were cancelled. The government says a state-run service will work better for passengers, but rail experts caution that nationalisation alone will not fix the main causes of disruption.",
             "sourceRefs": [
               "https://inews.co.uk/news/avanti-delays-prices-nationalisation-4798644"
             ]
           },
           {
             "id": "uk-06-s2",
-            "title": "The infrastructure problem",
-            "body": "Network Rail issues accounted for 66% of Avanti’s delayed minutes, according to the regulator. Experts say congestion, bottlenecks and limited track capacity on the West Coast Main Line are central problems that nationalisation cannot solve by itself. A £400m programme of maintenance and upgrades is under way, but experts disagree on how much it will improve capacity.",
+            "title": "Infrastructure is the constraint",
+            "body": "Network Rail problems accounted for 66% of Avanti’s delayed minutes, according to the regulator. Experts point to congestion, signalling failures and limited capacity on the West Coast Main Line. A £400m programme of renewals and upgrades is due to finish by March 2029, but one rail analyst says the work is mainly maintenance rather than a major expansion in capacity.",
             "sourceRefs": [
               "https://inews.co.uk/news/avanti-delays-prices-nationalisation-4798644"
             ]
           },
           {
             "id": "uk-06-s3",
-            "body": "Experts say public ownership could improve coordination between the train operator and Network Rail, and make timetables more resilient. But they do not expect it to bring down fares; that would require more public funding. The government has not promised cheaper tickets, and says the railway must remain financially sustainable.",
+            "body": "Bringing track and train under Great British Railways could improve coordination and help services recover from incidents, the experts say. But they do not expect public ownership to lower fares; they say that would require more public funding. The northern leg of HS2, which experts said could have eased pressure on the route, was scrapped by the previous Conservative government.",
             "sourceRefs": [
               "https://inews.co.uk/news/avanti-delays-prices-nationalisation-4798644"
             ]
@@ -992,59 +1055,13 @@
         "id": "uk-07",
         "kind": "story",
         "editorialType": "news",
-        "headline": "London council warns bills may rise 150% under funding scenarios",
-        "shortHeadline": "Hammersmith and Fulham warns of possible 150% council tax rise",
-        "standfirst": "Hammersmith and Fulham says a 150% rise in its council-tax element could balance its budget in 2027–28 after government funding is cut. The council says the proposed scenarios are a response to a severe financial squeeze, not a final decision.",
-        "viewerProvenance": "THE GUARDIAN",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-07-image.png",
-          "caption": "The new funding rules are at the centre of the council’s warning about possible tax rises.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-            "publisher": "The Guardian",
-            "originalTitle": "London Labour council warns it may raise council tax by 150%",
-            "canonicalUrl": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-            "publishedAt": "2026-10-03T06:00:53.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-        "segments": [
-          {
-            "id": "uk-07-s1",
-            "body": "Hammersmith and Fulham council says a 150% increase in its council-tax element could be needed to balance its budget in 2027–28. For a Band D household, the council estimates that would mean an extra £29.11 a week. The figure is one of several scenarios in a report, not an announced final tax decision.",
-            "sourceRefs": [
-              "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham"
-            ]
-          },
-          {
-            "id": "uk-07-s2",
-            "title": "Funding dispute",
-            "body": "The council says its government funding is set to fall from £150.5m in 2025–26 to £72.4m over four years under the new funding formula. Ministers say the formula redirects money towards areas with greater need, and that councils decide their own tax levels. Hammersmith and Fulham argues that the formula does not properly reflect deprivation within its borough.",
-            "sourceRefs": [
-              "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-08",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Pharmacy closures leave millions without a nearby branch, analysis finds",
-        "shortHeadline": "Pharmacy closures leave more patients farther from care",
-        "standfirst": "Analysis of NHS figures says 51 pharmacies in England closed between January and August, including branches funded to maintain access in underserved areas. Patient groups warn that longer journeys can make it harder to collect medicines and get advice.",
+        "headline": "Pharmacy closures leave some patients facing long journeys for medicines",
+        "shortHeadline": "Pharmacy closures force patients to travel farther",
+        "standfirst": "Fifty-one pharmacies in England closed between January and August, including 31 in areas supported by a scheme intended to protect access. In some communities, patients now face lengthy journeys for prescriptions and advice.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/uk-08-image.png",
-          "caption": "More than 50 pharmacies in England closed between January and August, the report says.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-07-image.png",
+          "caption": "More than 50 pharmacies in England have closed so far this year.",
           "source": {
             "candidateId": "https://inews.co.uk/news/worst-places-live-ill-chemists-4785799",
             "publisher": "The i Paper",
@@ -1064,18 +1081,63 @@
         "primarySourceRef": "https://inews.co.uk/news/worst-places-live-ill-chemists-4785799",
         "segments": [
           {
-            "id": "uk-08-s1",
-            "body": "Fifty-one high-street pharmacies in England closed between January and August, according to analysis by the National Pharmacy Association. Thirty-one had received funding intended to protect access in areas with few alternatives. The report estimates 9.9 million people have seen their local pharmacy close since 2016.",
+            "id": "uk-07-s1",
+            "body": "Analysis of NHS figures by the National Pharmacy Association found that 51 high-street pharmacies in England closed between January and August, about two a week. Thirty-one were in areas covered by the Pharmacy Access Scheme, which provides extra funding where there is no nearby alternative. The association says nearly 10 million people have lost a local pharmacy since 2016.",
             "sourceRefs": [
               "https://inews.co.uk/news/worst-places-live-ill-chemists-4785799"
             ]
           },
           {
-            "id": "uk-08-s2",
-            "title": "Access and funding",
-            "body": "In Long Rock, Cornwall, the nearest alternative after a closure can mean a 17-mile round trip and up to 80 minutes by public transport, the report says. Pharmacy representatives say real-terms funding has fallen and many branches are struggling to remain viable. The government announced a £340m funding boost in May, but sector analysis estimates a substantial remaining gap.",
+            "id": "uk-07-s2",
+            "title": "Access and funding pressures",
+            "body": "A closure in Long Rock, Cornwall, has left patients facing a 17-mile round trip and up to 80 minutes on public transport to reach another pharmacy, according to the report. Community Pharmacy England says closures can make it harder to collect medicines and advice, and intensify health inequalities. It says pharmacies still face a funding gap despite a recent government increase.",
             "sourceRefs": [
               "https://inews.co.uk/news/worst-places-live-ill-chemists-4785799"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "UK and EU discuss transition periods in food and drink trade talks",
+        "shortHeadline": "UK and EU discuss transition periods for food trade",
+        "standfirst": "The EU has dropped its opposition to transition periods as both sides negotiate closer alignment on animal, plant and health rules. The aim is to avoid a costly abrupt change for British businesses, though negotiations on youth mobility remain difficult.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/uk-08-image.png",
+          "caption": "The UK and EU are negotiating agreements on food trade, youth mobility and carbon markets.",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202",
+            "publisher": "The i Paper",
+            "originalTitle": "Brexit deal inches closer as EU gives ground to UK on food and drink",
+            "canonicalUrl": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202",
+            "publishedAt": "2026-10-02T16:41:58.000Z"
+          }
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202",
+        "segments": [
+          {
+            "id": "uk-08-s1",
+            "body": "The UK and EU are negotiating an agreement to align British rules on animal, plant and health standards with EU law, with the aim of easing food and drink trade. EU opposition to transition periods has now been dropped, according to two sources quoted by The i Paper, allowing businesses time to adapt rather than face an abrupt switch.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202"
+            ]
+          },
+          {
+            "id": "uk-08-s2",
+            "body": "Industry representatives have warned that immediate alignment could cost businesses between £500m and £810m a year. Transition periods are being discussed for areas including pesticides and long-shelf-life products. The two sides are aiming to agree packages on food trade, youth mobility and carbon markets, but remain apart on student tuition fees and visa numbers.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/politics/brexit-deal-inches-closer-as-eu-gives-ground-4805202"
             ]
           }
         ]
@@ -1084,13 +1146,100 @@
         "id": "denmark-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Psychologist says children’s distress needs family support as well as psychiatry",
-        "shortHeadline": "Psychologist urges more family support for children in distress",
-        "standfirst": "A family therapist argues that a proposed one-billion-kroner mental-health plan focuses too heavily on psychiatric treatment. The health minister says it also includes local support and is needed to reduce long waits for children and young people.",
+        "headline": "High electricity prices spur renewed interest in rooftop solar in Denmark",
+        "shortHeadline": "High power prices boost demand for rooftop solar",
+        "standfirst": "Solar installers say more households are moving from enquiries to installations as electricity prices rise. Cheaper batteries are improving the economics, while locally used rooftop power could also ease pressure on the electricity grid.",
         "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/denmark-01-image.png",
-          "caption": "Family therapist Allan Holmgren argues for more support for parents and children.",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/denmark-01-image.png",
+          "caption": "Solplus director Kasper Bruhn says interest in home solar panels is rising.",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Solceller er populære: Vi gør det for pengepungens skyld",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld",
+            "publishedAt": "2026-10-04T05:23:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld",
+        "segments": [
+          {
+            "id": "denmark-01-s1",
+            "body": "Danish solar companies report a rise in household interest as electricity prices reach their highest peak-period levels in two years. Solplus director Kasper Bruhn says more customers are proceeding with installations, not just asking about them. The Danish Solar Association also says consumers are again looking for ways to reduce their electricity costs.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld"
+            ]
+          },
+          {
+            "id": "denmark-01-s2",
+            "body": "Falling battery prices have helped make solar panels more attractive to households by allowing them to store midday electricity for use during morning and evening peaks. One new customer told DR that saving money was the main reason for installing panels, although he also welcomed the contribution to the green transition.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld"
+            ]
+          },
+          {
+            "id": "denmark-01-s3",
+            "body": "A lecturer at DTU Elektro says electricity used in the building where it is generated does not need to be transported through a grid that is already constrained. He estimates that suitable private rooftops could produce around 10–15% of the electricity expected to be used in Denmark in 2030.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/solceller-er-populaere-vi-goer-det-pengepungens-skyld"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Denmark urges 800,000 commuters to claim higher travel tax deduction",
+        "shortHeadline": "800,000 Danish commuters urged to update tax estimates",
+        "standfirst": "Commuters who update their preliminary tax assessments can receive a temporarily increased travel deduction through their monthly pay. The government says the measure is aimed at people most affected by rising fuel costs.",
+        "viewerProvenance": "DR NYHEDER",
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/800-000-pendlere-har-penge-til-gode-og-skatteministeren-vil-meget-gerne-af-med-dem",
+            "publisher": "DR Nyheder",
+            "originalTitle": "800.000 pendlere har penge til gode, og skatteministeren vil 'meget gerne af med dem'",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/800-000-pendlere-har-penge-til-gode-og-skatteministeren-vil-meget-gerne-af-med-dem",
+            "publishedAt": "2026-10-04T04:00:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/800-000-pendlere-har-penge-til-gode-og-skatteministeren-vil-meget-gerne-af-med-dem",
+        "segments": [
+          {
+            "id": "denmark-02-s1",
+            "body": "About 800,000 Danish commuters have not updated their preliminary tax assessments to receive a temporarily higher commuting deduction, Tax Minister Jakob Engel-Schmidt says. Around 200,000 people have already made the change. A typical commuter could be entitled to between 2,500 and 3,000 kroner, according to the minister.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/800-000-pendlere-har-penge-til-gode-og-skatteministeren-vil-meget-gerne-af-med-dem"
+            ]
+          },
+          {
+            "id": "denmark-02-s2",
+            "body": "The higher deduction applies in 2026 and was adopted by the government to help commuters facing higher petrol and diesel prices. Those who update their assessment can see the effect in their pay; others will receive the money through their tax return next year. The minister defended targeting people who travel farther rather than cutting fuel tax for everyone.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/800-000-pendlere-har-penge-til-gode-og-skatteministeren-vil-meget-gerne-af-med-dem"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Danish psychologist challenges plan to spend one billion kroner on child mental-",
+        "shortHeadline": "Psychologist says child mental health plan should do more",
+        "standfirst": "A family therapist argues that children’s distress cannot be addressed by psychiatric services alone and calls for greater support for parents, schools and local services. The health minister says the emergency plan includes both treatment and community-based help.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/denmark-03-image.png",
+          "caption": "Family therapist Allan Holmgren argues for broader support for parents and children.",
           "source": {
             "candidateId": "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien",
             "publisher": "DR Nyheder",
@@ -1110,116 +1259,18 @@
         "primarySourceRef": "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien",
         "segments": [
           {
-            "id": "denmark-01-s1",
-            "body": "Psychologist Allan Holmgren says children’s distress should not be treated solely as a psychiatric problem, arguing that family life, schools and childcare conditions also need attention. He says parents need more support and that prevention should receive a larger share of funding.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien"
-            ]
-          },
-          {
-            "id": "denmark-01-s2",
-            "title": "The plan and the disagreement",
-            "body": "Health Minister Ida Auken says the one-billion-kroner emergency plan is intended to help children through psychiatric services and accessible local offers with a family focus. She says action is needed while some children wait around 170 days for assessment. Holmgren agrees some children need diagnosis and treatment, but argues the response should address wider conditions in their daily lives.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "denmark-02",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Vejle garden-house owners face enforcement while legality is appealed",
-        "shortHeadline": "Vejle garden-house owners challenge building rules in court",
-        "standfirst": "About 100 owners are contesting local rules that limit the size of garden houses while the case awaits appeal. The council says its notices follow a district-court ruling; the owners’ lawyer says enforcement should wait for the appeal.",
-        "viewerProvenance": "DR NYHEDER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/denmark-02-image.png",
-          "caption": "A garden house in Vejle is among those affected by the disputed local rules.",
-          "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk",
-            "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Advokat raser over kommune i betændt kolonihavesag: 'Deprimerende, aggressivt og usympatisk'",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk",
-            "publishedAt": "2026-10-03T18:12:00.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk",
-        "segments": [
-          {
-            "id": "denmark-02-s1",
-            "body": "Around 100 garden-house owners in Vejle are challenging local plans that limit a garden house to 50 square metres, with no more than 30 square metres for sheds and other buildings. Their lawyer says the High Court will not hear the appeal for 13 months, while the municipality continues issuing compliance orders and police reports.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk"
-            ]
-          },
-          {
-            "id": "denmark-02-s2",
-            "title": "Council’s position",
-            "body": "The municipality says the district court’s ruling supports its enforcement and that its current cases involve orders residents could challenge through the planning appeals board. It also argues the new local plans allow more construction than earlier rules and gave residents time to bring buildings into line.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk"
-            ]
-          },
-          {
-            "id": "denmark-02-s3",
-            "body": "The owners’ lawyer says some people have lived in the properties for years and argues the delay leaves families in uncertainty. The municipality says it will help residents it considers vulnerable who need assistance finding another home, but says no one has contacted it for that help so far.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/advokat-raser-over-kommune-i-betaendt-kolonihavesag-deprimerende-aggressivt-og-usympatisk"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "denmark-03",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Young people in Denmark join local effort to tackle loneliness",
-        "shortHeadline": "Randers teenager invites strangers to meet over pizza",
-        "standfirst": "After struggling with loneliness herself, 19-year-old Cecilia Boje Holmstrøm-Hansen invited people she did not know to a pizza evening in Randers. She hopes opening up a social circle can help others who find it hard to make friends.",
-        "viewerProvenance": "DR NYHEDER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/denmark-03-image.png",
-          "caption": "Cecilia Boje Holmstrøm-Hansen invited people in Randers to meet and get to know one another.",
-          "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
-            "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Cecilia bekæmper ensomhed ved at invitere fremmede til pizza og bartur: 'Det kan være rigtigt svært at finde venner i dag'",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
-            "publishedAt": "2026-10-03T12:01:00.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
-        "segments": [
-          {
             "id": "denmark-03-s1",
-            "body": "Cecilia Boje Holmstrøm-Hansen says loneliness once made her avoid school and spend weekends at home watching other people’s social lives online. After a group of young women invited her out, she decided to open her own circle and invited strangers in Randers to meet for pizza, games and a night out.",
+            "body": "Psychologist Allan Holmgren says a one-billion-kroner emergency plan for child and adolescent mental health risks treating distress too narrowly as a psychiatric problem. He argues that children’s wellbeing is also shaped by family life, schools and childcare settings, and that prevention and support for parents should receive greater attention.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert"
+              "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien"
             ]
           },
           {
             "id": "denmark-03-s2",
-            "body": "The 19-year-old says she believes many young people stay at home behind screens and struggle to make friends. Her open invitation drew a range of responses, and she hopes the gathering can help people feel welcome and reduce isolation.",
+            "title": "Government defends the plan",
+            "body": "Health Minister Ida Auken says the plan is intended both to reduce long waits for psychiatric assessment and to provide accessible community services with a family focus. Holmgren acknowledges that some children need diagnosis and psychiatric treatment, but says the response should also address the conditions of their everyday lives.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert"
+              "https://www.dr.dk/nyheder/politik/psykolog-hjaelp-foraeldrene-i-stedet-bruge-en-milliard-paa-psykiatrien"
             ]
           }
         ]
@@ -1228,51 +1279,34 @@
         "id": "denmark-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Women use a Danish app to share reports of harassment, but experts warn of fear",
-        "shortHeadline": "Safety app maps women’s reports, raising questions about risk",
-        "standfirst": "Beloud.now lets users mark locations where they say they experienced harassment or violence. A Danish crime-prevention expert warns the map may exaggerate perceived danger, while the app’s founder says it is intended to make underreported experiences visible.",
-        "viewerProvenance": "DR NYHEDER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/denmark-04-image.png",
-          "caption": "Lærke Schou uses the app to share an account of an unpleasant experience.",
-          "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den",
-            "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den",
-            "credit": null
-          }
-        },
+        "headline": "Danish couple buys coastal plot despite long-term flood projections",
+        "shortHeadline": "Danish couple buys coastal plot despite flood risk",
+        "standfirst": "The buyers plan to build a raised summer house despite projections of higher sea levels and flood risk near Kerteminde. A housing economist says prices in exposed areas should reflect future climate costs, but the research is not yet complete.",
+        "viewerProvenance": "TV 2 NYHEDER",
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Kvinder advarer hinanden om overgreb og chikane i ny app: Men ekspert advarer imod den",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den",
-            "publishedAt": "2026-10-03T07:29:14.000Z"
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-03-har-koebt-sommerhusgrund-i-foerste-raekke-i-fremtiden-risikerer-den-ikke-laengere-at-findes",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Har købt sommerhusgrund i første række – i fremtiden risikerer den ikke længere at findes",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-03-har-koebt-sommerhusgrund-i-foerste-raekke-i-fremtiden-risikerer-den-ikke-laengere-at-findes",
+            "publishedAt": "2026-10-04T04:51:59.638Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den",
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-03-har-koebt-sommerhusgrund-i-foerste-raekke-i-fremtiden-risikerer-den-ikke-laengere-at-findes",
         "segments": [
           {
             "id": "denmark-04-s1",
-            "body": "Beloud.now, a recently launched app now being used in Denmark, allows women and minority groups to mark places where they say they experienced harassment, stalking, assault or drugging. Fyn resident Lærke Schou says she uses the reports to decide whether to avoid particular streets after dark.",
+            "body": "Niels Bækholm and his wife bought a plot on Langø, near Kerteminde, close to the water, and plan to build a summer house on a raised foundation. Bækholm says he understands there is a risk but bought the property for family enjoyment, not as an investment. The article cites a study warning that Kerteminde could lose homes to flooding by 2100.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den"
+              "https://nyheder.tv2.dk/samfund/2026-10-03-har-koebt-sommerhusgrund-i-foerste-raekke-i-fremtiden-risikerer-den-ikke-laengere-at-findes"
             ]
           },
           {
             "id": "denmark-04-s2",
-            "title": "Visibility and reliability",
-            "body": "The app’s founder, Lydia Ickler, says it is intended to bring attention to incidents that may never be reported to police. But the Danish Council for Crime Prevention warns that a map filled with reports may give users an inflated impression of the risk they face. Users can post anonymously, prompting criticism that reports may be false or misleading.",
+            "title": "How climate risk affects value",
+            "body": "A local estate agent says demand for waterfront holiday homes remains strong, and the plot and the couple’s former summer house both sold above asking price. Housing Economics Knowledge Centre director Curt Liliegreen argues that prices in climate-exposed areas should fall over time so future losses are smaller. He says early analysis points to a price effect, but it may not be dramatic and the research is unfinished.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den"
-            ]
-          },
-          {
-            "id": "denmark-04-s3",
-            "body": "Copenhagen police urge people who experience an offence to report it, saying formal reports help them build a more accurate picture of crime. Schou says some people may hesitate because they fear they will not be believed. The report does not establish how representative the app’s pins are of actual incidents.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/kvinder-advarer-hinanden-om-overgreb-og-chikane-i-ny-app-men-ekspert-advarer-imod-den"
+              "https://nyheder.tv2.dk/samfund/2026-10-03-har-koebt-sommerhusgrund-i-foerste-raekke-i-fremtiden-risikerer-den-ikke-laengere-at-findes"
             ]
           }
         ]
@@ -1281,34 +1315,51 @@
         "id": "denmark-05",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Aarhus residents plan group walks after attacks on women runners",
-        "shortHeadline": "Aarhus residents organise evening walks after attacks",
-        "standfirst": "Neighbours plan to walk in pairs and small groups near Riis Skov after two attacks on women runners in three months. Police acknowledge residents’ concern but warn against setting up anything resembling a private patrol.",
-        "viewerProvenance": "DR NYHEDER",
+        "headline": "Experts warn illegal IPTV services could expose Danish users to cyber risks",
+        "shortHeadline": "Illegal IPTV may expose Danish users to cyber risks",
+        "standfirst": "A report commissioned by a content-protection group warns that illegal streaming services can expose users’ data and potentially be used to carry cyberattacks or manipulate content. Researchers say no concrete example of manipulated TV signals has yet been identified.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/denmark-05-image.png",
+          "caption": "Illegal IPTV services offer access to large numbers of television channels.",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
+            "credit": "Foto: Skærmbillede / Nordic Content Protection"
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/overfald-paa-kvindelige-loebere-faar-jacob-til-samle-bekymrede-naboer-til-aftenture-i-skoven",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Overfald på kvindelige løbere får Jacob til at samle bekymrede naboer til aftenture i skoven",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/overfald-paa-kvindelige-loebere-faar-jacob-til-samle-bekymrede-naboer-til-aftenture-i-skoven",
-            "publishedAt": "2026-10-02T19:12:00.000Z"
+            "candidateId": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Tusindvis bruger tjenesten – nu advarer eksperter om overhængende risiko",
+            "canonicalUrl": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
+            "publishedAt": "2026-10-03T12:27:51.023Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/overfald-paa-kvindelige-loebere-faar-jacob-til-samle-bekymrede-naboer-til-aftenture-i-skoven",
+        "primarySourceRef": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
         "segments": [
           {
             "id": "denmark-05-s1",
-            "body": "Residents in Aarhus are organising evening walks near Riis Skov after two attacks on women running in the area over three months. Local resident Jacob Hou says the group, which he calls Fathers for Safety, intends to be present in the neighbourhood rather than act as a private security force.",
+            "body": "Nearly 300,000 Danish households are estimated to pay for illegal IPTV, according to figures cited by TV 2. A report commissioned by Nordic Content Protection warns that providers may collect user data or use customers’ internet connections for cyberattacks. The report’s authors also say the services could be used to alter content before it reaches viewers.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/overfald-paa-kvindelige-loebere-faar-jacob-til-samle-bekymrede-naboer-til-aftenture-i-skoven"
+              "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko"
             ]
           },
           {
             "id": "denmark-05-s2",
-            "title": "Police urge caution",
-            "body": "Hou says walkers would intervene if they witnessed an attack and hold a suspect until police arrived. East Jutland Police say they understand the sense of insecurity but strongly advise residents not to create anything resembling a private patrol. Police are still seeking witnesses to the two attacks.",
+            "title": "Warnings and questions about incentives",
+            "body": "The report’s researchers say artificial-intelligence tools could make real-time manipulation of streamed content more feasible, but TV 2 says no concrete example of manipulated signals on illegal services has been found. A technology commentator argues that the industry’s fragmented and increasingly expensive subscriptions push some consumers towards piracy; Nordic Content Protection rejects that as a justification for using criminal services.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/overfald-paa-kvindelige-loebere-faar-jacob-til-samle-bekymrede-naboer-til-aftenture-i-skoven"
+              "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://nyheder.tv2.dk/tech/2026-10-02-tusindvis-bruger-tjenesten-nu-advarer-eksperter-om-overhaengende-risiko",
+                "body": "The report was commissioned by Nordic Content Protection, an organisation that works against illegal distribution. The article includes a media analyst’s criticism that the legal industry’s prices and fragmented sports packages contribute to piracy, and records the organisation’s disagreement."
+              }
             ]
           }
         ]
@@ -1317,51 +1368,124 @@
         "id": "denmark-06",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Højen church plans a lapidarium to preserve historic gravestones",
-        "shortHeadline": "Højen church plans display for old gravestones",
-        "standfirst": "More than 150 gravestones stand beside Højen Church near Vejle, and the parish council wants to preserve some in a lapidarium. Supporters see a local memorial space; others worry that moving stones changes their original purpose.",
-        "viewerProvenance": "DR NYHEDER",
-        "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/denmark-06-image.png",
-          "caption": "Old gravestones stand beside Højen Church, where the parish council is considering a lapidarium.",
-          "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien",
-            "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien",
-            "credit": null
-          }
-        },
+        "headline": "Women in Aarhus area change running routines after reported assaults",
+        "shortHeadline": "Reported assaults unsettle women running in Aarhus",
+        "standfirst": "Women in Trøjborg say they are avoiding evening runs or changing routes after two reported incidents near Riis Skov. Police are investigating the cases together but have not confirmed whether they are connected.",
+        "viewerProvenance": "TV 2 NYHEDER",
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Menighedsråd vil bevare gamle gravsten, fordi ellers ville det 'være ligesom at slette historien'",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien",
-            "publishedAt": "2026-10-03T15:48:00.000Z"
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-03-kvinder-frygter-loebetur-efter-flere-episoder-det-er-virkelig-uhyggeligt",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Kvinder frygter løbetur efter flere episoder: - Det er virkelig uhyggeligt",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-03-kvinder-frygter-loebetur-efter-flere-episoder-det-er-virkelig-uhyggeligt",
+            "publishedAt": "2026-10-03T10:23:01.779Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien",
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-03-kvinder-frygter-loebetur-efter-flere-episoder-det-er-virkelig-uhyggeligt",
         "segments": [
           {
             "id": "denmark-06-s1",
-            "body": "The parish council at Højen Church near Vejle is considering a lapidarium for selected stones from disused graves. More than 150 gravestones are currently lined along the churchyard wall, and the council says it can no longer keep adding them. Its chair says discarding them would be like erasing history.",
+            "body": "Women in the Aarhus neighbourhood of Trøjborg say they feel unsafe running after two reported assaults near Riis Skov. One incident in July involved a 22-year-old woman who police say was knocked down, restrained and groped; a similar incident involving a 24-year-old runner was reported on 27 September.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien"
+              "https://nyheder.tv2.dk/samfund/2026-10-03-kvinder-frygter-loebetur-efter-flere-episoder-det-er-virkelig-uhyggeligt"
             ]
           },
           {
             "id": "denmark-06-s2",
-            "title": "A place of memory",
-            "body": "A lapidarium displays stones from former graves. A bishop and a National Museum archaeologist say such displays can preserve local history and help a churchyard remain a place of remembrance. The Højen proposal initially envisages displaying 25 to 30 stones, with room to add more.",
+            "body": "Some local women say they are choosing daylight hours or changing their routes. East Jutland Police are investigating the cases together and plan to increase patrols in the area. Police have not confirmed whether the incidents are connected and ask people to report suspicious activity.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien"
+              "https://nyheder.tv2.dk/samfund/2026-10-03-kvinder-frygter-loebetur-efter-flere-episoder-det-er-virkelig-uhyggeligt"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-07",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "University study challenges official estimate of Danish border-shopping tax",
+        "shortHeadline": "Study finds border shopping costs Denmark less tax revenue",
+        "standfirst": "Researchers estimate that border shopping on sweets, soft drinks and beer cost the Danish state far less in 2019 than the tax ministry calculated. The study uses pandemic-era shopping patterns, when cross-border purchases were unavailable.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/denmark-07-image.png",
+          "caption": "Researchers and tax authorities differ over the effect of cross-border shopping on tax revenue.",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel",
+            "credit": "Foto: Claus Fisker / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Studie af danskeres indkøbsvaner tegner nyt billede af grænsehandel",
+            "canonicalUrl": "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel",
+            "publishedAt": "2026-10-03T08:50:50.908Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel",
+        "segments": [
+          {
+            "id": "denmark-07-s1",
+            "body": "A University of Copenhagen study estimates that Denmark lost 415 million kroner in 2019 tax revenue to cross-border shopping on goods including sweets, soft drinks and beer, compared with the Tax Ministry’s estimate of 1.16 billion kroner. The researchers say their measure examines how much spending moved to Danish shops when border shopping was not possible.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel"
             ]
           },
           {
-            "id": "denmark-06-s3",
-            "body": "There is disagreement within the cemetery-culture association about whether removing stones from their original graves changes their meaning too much. The church does not own the stones or have a duty to store them; relatives may take them, and some are reused or crushed when no one claims them.",
+            "id": "denmark-07-s2",
+            "body": "The study found the effect was concentrated among households living within 30 kilometres of the German border; it measured no change for households 120 kilometres or more away. The researchers say border shopping should therefore play a smaller role in decisions about taxes on these goods, while stressing that their findings do not prescribe a particular tax rate.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/menighedsraad-vil-bevare-gamle-gravsten-fordi-ellers-ville-det-vaere-ligesom-slette-historien"
+              "https://nyheder.tv2.dk/samfund/2026-10-03-studie-af-danskeres-indkoebsvaner-tegner-nyt-billede-af-graensehandel"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Three teenagers charged over alleged shootings at family home in Kastrup",
+        "shortHeadline": "Three teenagers charged over Kastrup family shooting",
+        "standfirst": "Prosecutors allege three teenagers took part in an attempted killing for hire after 15 shots were fired into a home where a couple and their three children were sleeping. All three deny guilt; no motive is stated in the indictment.",
+        "viewerProvenance": "TV 2 NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/denmark-08-image.png",
+          "caption": "The Kastrup apartment building was hit by gunfire in March.",
+          "source": {
+            "candidateId": "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage",
+            "publisher": "TV 2 Nyheder",
+            "canonicalUrl": "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage",
+            "credit": "Foto: Steven Knap / Ritzau Scanpix"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage",
+            "publisher": "TV 2 Nyheder",
+            "originalTitle": "Teenagere forsøgte at slå familie med tre børn ihjel i Kastrup, lyder anklage",
+            "canonicalUrl": "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage",
+            "publishedAt": "2026-10-03T08:16:46.409Z"
+          }
+        ],
+        "primarySourceRef": "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage",
+        "segments": [
+          {
+            "id": "denmark-08-s1",
+            "body": "Three young men have been charged with attempted murder over a shooting at a family home in Kastrup on 31 March. Prosecutors allege that 15 rounds from an AK-47 went through the windows of the apartment while a couple and their three children were inside. No one was hit. The indictment says the attack was commissioned for payment, but gives no reason for the targeting.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage"
+            ]
+          },
+          {
+            "id": "denmark-08-s2",
+            "title": "Other alleged attacks and court proceedings",
+            "body": "Two of the defendants are also accused of involvement in other attempted killings in the Copenhagen area and a fire in Roskilde in the days before the Kastrup shooting. The indictment describes each defendant’s alleged role; all three deny the charges. Copenhagen City Court is scheduled to begin the trial on 25 January.",
+            "sourceRefs": [
+              "https://nyheder.tv2.dk/krimi/2026-10-03-teenagere-forsoegte-at-slaa-familie-med-tre-boern-ihjel-i-kastrup-lyder-anklage"
             ]
           }
         ]
@@ -1375,7 +1499,7 @@
         "standfirst": "Conrad “Cronos” Lant, who has died aged 63, gave Venom its confrontational sound and theatrical menace. His influence reached far beyond the band, though he rejected the violence later associated with some of its admirers.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-music-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-music-01-image.png",
           "caption": "Venom frontman Cronos pictured in 1985.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/oct/02/cronos-venom-heavy-metal-conrad-lant",
@@ -1430,7 +1554,7 @@
         "standfirst": "As Erasure return with their 20th album, Andy Bell and Vince Clarke reflect on the bond that carried them through bereavement. Clarke will direct the coming tour remotely after deciding not to travel.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-music-02-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-music-02-image.png",
           "caption": "Erasure’s Vince Clarke and Andy Bell.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/oct/02/erasure-vince-clarke-andy-bell-interview",
@@ -1476,7 +1600,7 @@
         "standfirst": "A viral Grouper track brought new listeners — and a scammer who tried to claim its royalties. Reuniting with her dream-pop trio Helen has offered Liz Harris a different lesson: collaboration can be restorative.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-music-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-music-03-image.png",
           "caption": "Liz Harris of Helen and Grouper.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/oct/02/grouper-liz-harris-tour-helen-band-lindas-head-interview",
@@ -1522,7 +1646,7 @@
         "standfirst": "Marc Almond and Dave Ball had finished Danceteria together just two days before Ball died. Almond says he would not make another Soft Cell album without his bandmate; this one revisits the New York scene that shaped them.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-music-04-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-music-04-image.png",
           "caption": "Soft Cell’s Marc Almond and Dave Ball.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/marc-almond-finished-album-dave-passed-away-4785666",
@@ -1568,7 +1692,7 @@
         "standfirst": "After decades of being steered towards material she did not choose, the singer is setting the direction of a new album with her songwriter brother. She also reflects on addiction, recovery and the relief of speaking openly.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-music-05-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-music-05-image.png",
           "caption": "Lulu, who began her career as a teenager in London.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/lulu-not-proud-being-alcoholic-but-not-ashamed-4735111",
@@ -1722,7 +1846,7 @@
         "standfirst": "The writer-director says the 1996 film’s appeal lies in its universal story of people being downtrodden. As it returns to the Royal Albert Hall with live music, he worries that mid-budget British films like it would struggle to get made now.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-01-image.png",
           "caption": "Pete Postlethwaite in Brassed Off.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
@@ -1768,7 +1892,7 @@
         "standfirst": "Tony Gilroy’s return to feature directing pairs a cello maestro with grief, desire and family drama. The review finds its fractured structure and shifting tone leave the film feeling aimless.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-02-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-02-image.png",
           "caption": "Pedro Pascal in Behemoth!.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review",
@@ -1814,7 +1938,7 @@
         "standfirst": "Shot on 35mm, the 75-minute film preserves the Geese frontman’s solo performance with little added commentary or spectacle. The review finds its attentive quiet and striking images make it an unusually affecting concert document.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-03-image.png",
           "caption": "A still from Cameron Winter at Carnegie Hall.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
@@ -1860,7 +1984,7 @@
         "standfirst": "Mahershala Ali plays a devout Muslim father who works as a contract killer in Tariq’s new Houston-set thriller. The director says the abandoned Marvel project helped shape its action — and that the smaller film proved a better fit.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-04-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-04-image.png",
           "caption": "Bassam Tariq at the Toronto film festival in September 2026.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
@@ -1906,7 +2030,7 @@
         "standfirst": "Alejandro G Iñárritu’s climate satire gives Cruise a paunchy oil baron and a world-threatening crisis. One review calls it laborious and shallow; another embraces its eccentric scale and blunt political force.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-05-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-05-image.png",
           "caption": "Tom Cruise as oil tycoon Digger Rockwell.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
@@ -1975,7 +2099,7 @@
         "standfirst": "Obsession is being submitted as a musical or comedy despite its violent story of forced love and murder. The Globes’ categories, this argument says, leave horror films choosing between a poor fit and a tougher path to recognition.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-06-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-06-image.png",
           "caption": "A still from the horror film Obsession.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season",
@@ -2021,7 +2145,7 @@
         "standfirst": "A look back at Dean’s brief career finds a searching performer shaped by Elia Kazan’s direction and caught off guard by fame. His most affecting moments, this account argues, reveal a vulnerable young man rather than a polished symbol.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-07-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-07-image.png",
           "caption": "James Dean on the set of Giant in 1955.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/truth-about-james-dean-4787029",
@@ -2067,7 +2191,7 @@
         "standfirst": "Georgia Oakley’s new adaptation is darker and less assured than the celebrated 1995 film, but its story of two sisters balancing feeling and restraint still resonates. The review finds Austen’s dilemmas strikingly familiar to modern readers.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-film-08-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-film-08-image.png",
           "caption": "Daisy Edgar-Jones as Elinor Dashwood in Sense and Sensibility.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/every-millennial-should-read-sense-and-sensibility-4786997",
@@ -2113,7 +2237,7 @@
         "standfirst": "Peter Berg’s series turned a book about football and community pressure into an unusually naturalistic drama. Its improvisation, strong ensemble and unvarnished sense of place helped launch careers and outlast a troubled run.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-01-image.png",
           "caption": "Kyle Chandler and Connie Britton in Friday Night Lights.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
@@ -2159,7 +2283,7 @@
         "standfirst": "Sienna Miller and Dominic West lead a drama of expensive lawyers, public feuds and ever-shifting legal tactics. The review calls it high-quality balderdash: a fast, entertaining escape that knows exactly how melodramatic it is.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-02-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-02-image.png",
           "caption": "Sienna Miller, James McArdle and Phoebe Fox in War.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/oct/02/war-review-george-kay-sienna-miller-dominic-west",
@@ -2205,7 +2329,7 @@
         "standfirst": "Grant accidentally tells Joe Lycett he is a Traitor almost immediately after his selection. The review argues that the mistake gives the celebrity edition a gripping early problem — and shows why the format still thrives on unpredictable behaviour.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-03-image.png",
           "caption": "Richard E Grant in The Celebrity Traitors.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/richard-e-grant-already-ruined-celebrity-traitors-brilliant-4797442",
@@ -2251,7 +2375,7 @@
         "standfirst": "The new judge rejects the idea that a sweet treat needs to be labelled “naughty”. This argument sees Lawson’s unapologetic enjoyment as a refreshing counterpoint to a culture that increasingly tells women to restrict what they eat.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-04-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-04-image.png",
           "caption": "Nigella Lawson brings her love of food to Bake Off.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/nigella-dismantling-skinny-culture-naughty-cookie-4800273",
@@ -2297,7 +2421,7 @@
         "standfirst": "Horgan’s middle-aged literary agent faces family pressures and an unruly body, but the critic argues that her casting highlights television’s beauty standards. The piece credits the series’ ambition while questioning why relatable women must still look exceptional.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-05-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-05-image.png",
           "caption": "Sharon Horgan in Youth.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/sharon-horgan-youth-one-big-problem-4786931",
@@ -2343,7 +2467,7 @@
         "standfirst": "The BBC has ended its Disney+ partnership, cancelled a planned Christmas special and is seeking outside production funding. Fans and former contributors differ on why the revival faltered, but the show’s next chapter remains an open question.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-06-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-06-image.png",
           "caption": "Several actors who have played Doctor Who, including Ncuti Gatwa and Jodie Whittaker.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/sad-slow-death-doctor-who-4741602",
@@ -2389,7 +2513,7 @@
         "standfirst": "Ritu Arya and Sanjeev Bhaskar lead the Manchester-set spin-off, which keeps the original’s high-stakes family-law formula. Its creators say the new series aims to show British Asian characters living recognisable everyday lives, not just exceptional circumstances.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-07-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-07-image.png",
           "caption": "Ritu Arya leads the cast of The Split Up.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/the-split-back-with-twist-4764419",
@@ -2435,7 +2559,7 @@
         "standfirst": "Mike Flanagan’s series has drawn criticism from readers who say Stephen King’s angry, physically “plain” heroine is repeatedly softened on screen. A horror scholar argues that the new version updates the story’s bullying for the social-media era.",
         "viewerProvenance": "BBC CULTURE",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-tv-08-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-tv-08-image.png",
           "caption": "A still from the new Prime Video adaptation of Carrie.",
           "source": {
             "candidateId": "https://www.bbc.com/culture/article/20261001-why-a-new-tv-version-of-horror-classic-carrie-is-already-annoying-people",
@@ -2481,7 +2605,7 @@
         "standfirst": "The prequel delivers weighty guns, fluid movement and destructible environments, but its campaign repeatedly revisits the same streets. The review finds the series’ strongest combat surrounded by a safe and overlong experience.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-01-image.png",
           "caption": "Marcus Fenix in Gears of War: E-Day.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
@@ -2527,7 +2651,7 @@
         "standfirst": "The aerial combat is fast, spectacular and accessible to newcomers, while a more cinematic story gives pilots and their relationships room to register. The review calls it a triumph, despite some confusion in battle and an untested online mode.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-02-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-02-image.png",
           "caption": "A fighter jet in Ace Combat 8: Wings of Theve.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
@@ -2573,7 +2697,7 @@
         "standfirst": "Fraudsters promise free Robux through links on social platforms, then direct children to lookalike login pages. Security experts advise using the official app and treating authentication codes like passwords.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-03-image.png",
           "caption": "Roblox advises users not to follow links from unknown senders or websites.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children",
@@ -2619,7 +2743,7 @@
         "standfirst": "Seventeen years after first tackling Modern Warfare 2 together, a father and his 22-year-old son return to the same co-op missions. The essay finds joy in the teamwork, the memories and the time they have left before living far apart.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-04-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-04-image.png",
           "caption": "Call of Duty: Modern Warfare 2, the game father and son played together.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
@@ -2665,7 +2789,7 @@
         "standfirst": "At the world championships, volunteer professors teach players, judge disputes and help keep events safe. Their work requires game knowledge and patience — and the company did not provide details about how different groups are compensated.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-05-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-05-image.png",
           "caption": "Players and visitors at the 2026 Pokémon world championships in San Francisco.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling",
@@ -2711,7 +2835,7 @@
         "standfirst": "Viral clips of Marvel’s Wolverine mock its constant prompts and automated sequences. The argument here is that major games risk removing the agency, friction and satisfaction that make playing feel different from watching.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-06-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-06-image.png",
           "caption": "Marvel’s Wolverine, criticised for its frequent prompts and guidance.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game",
@@ -2757,7 +2881,7 @@
         "standfirst": "Social-media users argue that maintaining a relationship between the game’s protagonists crosses a line. The article calls the claim itself debatable, but says the reaction reflects broader concerns about loneliness and feeling neglected.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/culture-games-07-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/culture-games-07-image.png",
           "caption": "Lucia and Jason, the couple at the centre of Grand Theft Auto VI.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/sep/09/grand-theft-auto-vi-can-playing-a-video-game-count-as-cheating-on-your-partner",
@@ -2803,7 +2927,7 @@
         "standfirst": "Community-led work on the Scottish island has uncovered early buildings, extensive burials and evidence of gold and silver craftworking. Archaeologists say the finds recast the monastery’s role in the spread of Christianity.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-science-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-science-01-image.png",
           "caption": "Islanders and volunteers excavate the early medieval cemetery on Lismore.",
           "source": {
             "candidateId": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
@@ -2849,7 +2973,7 @@
         "standfirst": "A study suggests that shifting stripes and spots can scramble predators’ perception of a butterfly’s speed and direction. Researchers tested the idea with flight footage and a computer model of bird vision, as well as volunteers chasing virtual butterflies.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-science-02-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-science-02-image.png",
           "caption": "A European swallowtail butterfly with a visualisation of its motion trail.",
           "source": {
             "candidateId": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
@@ -2967,7 +3091,7 @@
         "standfirst": "Researchers are testing crops such as lupins, chickpeas and lablab as heat and drought challenge familiar harvests. Their future role is uncertain: yields, suitable growing regions, pests and late frosts all need further investigation.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-science-05-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-science-05-image.png",
           "caption": "A lupin bhaji made with flour from an alternative crop being tested for UK growing conditions.",
           "source": {
             "candidateId": "https://inews.co.uk/?p=4795714&preview=true&preview_id=4795714",
@@ -3085,7 +3209,7 @@
         "standfirst": "The AIVD says vehicle microphones, cameras, GPS and connected devices could provide data to state actors or other malicious parties. It advises against confidential conversations in or around cars, while not naming a country.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-tech-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-tech-03-image.png",
           "caption": "A modern car with connected digital systems that can collect data about occupants and their surroundings.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
@@ -3203,7 +3327,7 @@
         "standfirst": "David Robinson, who worked on safety reports for major product launches, says rapid development and trial-and-error safeguards leave firms unprepared for failures. OpenAI says it is strengthening testing, security and monitoring.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-ai-01-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-ai-01-image.png",
           "caption": "OpenAI safety-report writer David Robinson, who resigned and criticised the company’s culture.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
@@ -3317,7 +3441,7 @@
         "standfirst": "The Guardian tested four chatbots and found that some would remove a hijab from an AI-generated image, despite restrictions they described on altering real people’s appearance. The tests expose gaps in how platforms treat identity and consent.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-ai-03-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-ai-03-image.png",
           "caption": "Illustration accompanying reporting on chatbot image-editing tests and religious head coverings.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
@@ -3363,7 +3487,7 @@
         "standfirst": "Anthropic says an operation targeting Malaysian voters used Claude to help create fake accounts, a news site and fabricated documents. Researchers say AI can make disinformation cheaper and more tailored, though it still needs channels to reach people.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-ai-04-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-ai-04-image.png",
           "caption": "A composite of AI-generated images and posts discussed in reporting on political influence operations.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
@@ -3461,7 +3585,7 @@
         "standfirst": "Andrew Bailey says the scale of investment and high expectations around AI could lead to a correction in company valuations. He sees potential economic benefits too, but says markets and financial systems must be prepared for losses.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261003T202925210Z-culture-20261003T202925210Z--local/assets/science-tech-ai-06-image.png",
+          "asset": "./editions/p100-news-20261004T052506807Z-culture-20261003T202925210Z--local/assets/science-tech-ai-06-image.png",
           "caption": "Bank of England Governor Andrew Bailey speaking about AI risks, including deepfakes.",
           "source": {
             "candidateId": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0",
@@ -3577,8 +3701,7 @@
           "contentId": "world-02",
           "segmentIds": [
             "world-02-s1",
-            "world-02-s2",
-            "world-02-s3"
+            "world-02-s2"
           ]
         }
       },
@@ -3592,8 +3715,7 @@
           "contentId": "world-03",
           "segmentIds": [
             "world-03-s1",
-            "world-03-s2",
-            "world-03-s3"
+            "world-03-s2"
           ]
         }
       },
@@ -3607,8 +3729,7 @@
           "contentId": "world-04",
           "segmentIds": [
             "world-04-s1",
-            "world-04-s2",
-            "world-04-s3"
+            "world-04-s2"
           ]
         }
       },
@@ -3622,7 +3743,8 @@
           "contentId": "world-05",
           "segmentIds": [
             "world-05-s1",
-            "world-05-s2"
+            "world-05-s2",
+            "world-05-s3"
           ]
         }
       },
@@ -3636,8 +3758,36 @@
           "contentId": "world-06",
           "segmentIds": [
             "world-06-s1",
-            "world-06-s2",
-            "world-06-s3"
+            "world-06-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-117",
+        "number": "117",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-07",
+          "segmentIds": [
+            "world-07-s1",
+            "world-07-s2",
+            "world-07-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-118",
+        "number": "118",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-08",
+          "segmentIds": [
+            "world-08-s1",
+            "world-08-s2"
           ]
         }
       },
@@ -3666,8 +3816,7 @@
           "contentId": "uk-02",
           "segmentIds": [
             "uk-02-s1",
-            "uk-02-s2",
-            "uk-02-s3"
+            "uk-02-s2"
           ]
         }
       },
@@ -3681,8 +3830,7 @@
           "contentId": "uk-03",
           "segmentIds": [
             "uk-03-s1",
-            "uk-03-s2",
-            "uk-03-s3"
+            "uk-03-s2"
           ]
         }
       },
@@ -3696,8 +3844,7 @@
           "contentId": "uk-04",
           "segmentIds": [
             "uk-04-s1",
-            "uk-04-s2",
-            "uk-04-s3"
+            "uk-04-s2"
           ]
         }
       },
@@ -3769,7 +3916,8 @@
           "contentId": "denmark-01",
           "segmentIds": [
             "denmark-01-s1",
-            "denmark-01-s2"
+            "denmark-01-s2",
+            "denmark-01-s3"
           ]
         }
       },
@@ -3783,8 +3931,7 @@
           "contentId": "denmark-02",
           "segmentIds": [
             "denmark-02-s1",
-            "denmark-02-s2",
-            "denmark-02-s3"
+            "denmark-02-s2"
           ]
         }
       },
@@ -3812,8 +3959,7 @@
           "contentId": "denmark-04",
           "segmentIds": [
             "denmark-04-s1",
-            "denmark-04-s2",
-            "denmark-04-s3"
+            "denmark-04-s2"
           ]
         }
       },
@@ -3841,8 +3987,35 @@
           "contentId": "denmark-06",
           "segmentIds": [
             "denmark-06-s1",
-            "denmark-06-s2",
-            "denmark-06-s3"
+            "denmark-06-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-137",
+        "number": "137",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-07",
+          "segmentIds": [
+            "denmark-07-s1",
+            "denmark-07-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-138",
+        "number": "138",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-08",
+          "segmentIds": [
+            "denmark-08-s1",
+            "denmark-08-s2"
           ]
         }
       },
@@ -3868,12 +4041,12 @@
           "storyReferenceIds": [
             "headline-world-01",
             "headline-world-02",
-            "headline-world-03",
             "headline-uk-01",
-            "headline-uk-03",
+            "headline-world-04",
+            "headline-world-03",
             "headline-uk-05",
-            "headline-uk-04",
-            "headline-denmark-01"
+            "headline-denmark-05",
+            "headline-denmark-07"
           ]
         }
       },
@@ -3891,7 +4064,9 @@
             "ref-world-03",
             "ref-world-04",
             "ref-world-05",
-            "ref-world-06"
+            "ref-world-06",
+            "ref-world-07",
+            "ref-world-08"
           ]
         }
       },
@@ -3929,7 +4104,9 @@
             "ref-denmark-03",
             "ref-denmark-04",
             "ref-denmark-05",
-            "ref-denmark-06"
+            "ref-denmark-06",
+            "ref-denmark-07",
+            "ref-denmark-08"
           ]
         }
       },
@@ -4817,7 +4994,7 @@
         "destination": {
           "page": "111"
         },
-        "label": "Russian strikes hit Kyiv’s second major bridge",
+        "label": "Brazil votes in a close contest overshadowed by corruption claims",
         "contentId": "world-01"
       },
       {
@@ -4825,7 +5002,7 @@
         "destination": {
           "page": "112"
         },
-        "label": "UAE says Flydubai co-pilot attacked captain with an axe",
+        "label": "Russian strikes hit a second major Kyiv bridge",
         "contentId": "world-02"
       },
       {
@@ -4833,7 +5010,7 @@
         "destination": {
           "page": "113"
         },
-        "label": "Tennessee prison chief resigns after failed execution",
+        "label": "Thousands protest Spain’s housing crisis",
         "contentId": "world-03"
       },
       {
@@ -4841,7 +5018,7 @@
         "destination": {
           "page": "114"
         },
-        "label": "Protests spread across Spain as housing measures fail",
+        "label": "UAE says Flydubai co-pilot attacked captain with axe",
         "contentId": "world-04"
       },
       {
@@ -4849,7 +5026,7 @@
         "destination": {
           "page": "115"
         },
-        "label": "Six missing after medical plane disappears off Massachusetts",
+        "label": "G7 agrees fuel reserve release as diesel supply concerns grow",
         "contentId": "world-05"
       },
       {
@@ -4857,15 +5034,31 @@
         "destination": {
           "page": "116"
         },
-        "label": "Latvia exit poll puts governing party in front",
+        "label": "Cornell president pledges action after rape allegations",
         "contentId": "world-06"
+      },
+      {
+        "id": "ref-world-07",
+        "destination": {
+          "page": "117"
+        },
+        "label": "Russian attacks destroy millions of Ukrainian books",
+        "contentId": "world-07"
+      },
+      {
+        "id": "ref-world-08",
+        "destination": {
+          "page": "118"
+        },
+        "label": "Latvia’s governing party leads election count",
+        "contentId": "world-08"
       },
       {
         "id": "ref-uk-01",
         "destination": {
           "page": "121"
         },
-        "label": "Two charged over alleged plot targeting Manchester’s Jewish community",
+        "label": "Ministers drop plan to cut jury trials",
         "contentId": "uk-01"
       },
       {
@@ -4873,7 +5066,7 @@
         "destination": {
           "page": "122"
         },
-        "label": "Former priest Chris Brain convicted of rape and assaults",
+        "label": "Tories signal cuts beyond £47bn pledge",
         "contentId": "uk-02"
       },
       {
@@ -4881,7 +5074,7 @@
         "destination": {
           "page": "123"
         },
-        "label": "Tories plan further cuts as Badenoch heads into conference",
+        "label": "Tories would extend free childcare to higher earners",
         "contentId": "uk-03"
       },
       {
@@ -4889,7 +5082,7 @@
         "destination": {
           "page": "124"
         },
-        "label": "Labour MPs warn they may oppose welfare and pension changes",
+        "label": "Tories divided over future of pension triple lock",
         "contentId": "uk-04"
       },
       {
@@ -4897,7 +5090,7 @@
         "destination": {
           "page": "125"
         },
-        "label": "G7 to release fuel reserves as UK diesel tops £2 a litre",
+        "label": "Energy suppliers warn UK bills could rise further",
         "contentId": "uk-05"
       },
       {
@@ -4905,7 +5098,7 @@
         "destination": {
           "page": "126"
         },
-        "label": "Avanti nationalisation will not quickly fix delays, experts warn",
+        "label": "Avanti nationalisation is no quick fix for rail passengers",
         "contentId": "uk-06"
       },
       {
@@ -4913,7 +5106,7 @@
         "destination": {
           "page": "127"
         },
-        "label": "Hammersmith and Fulham warns of possible 150% council tax rise",
+        "label": "Pharmacy closures force patients to travel farther",
         "contentId": "uk-07"
       },
       {
@@ -4921,7 +5114,7 @@
         "destination": {
           "page": "128"
         },
-        "label": "Pharmacy closures leave more patients farther from care",
+        "label": "UK and EU discuss transition periods for food trade",
         "contentId": "uk-08"
       },
       {
@@ -4929,7 +5122,7 @@
         "destination": {
           "page": "131"
         },
-        "label": "Psychologist urges more family support for children in distress",
+        "label": "High power prices boost demand for rooftop solar",
         "contentId": "denmark-01"
       },
       {
@@ -4937,7 +5130,7 @@
         "destination": {
           "page": "132"
         },
-        "label": "Vejle garden-house owners challenge building rules in court",
+        "label": "800,000 Danish commuters urged to update tax estimates",
         "contentId": "denmark-02"
       },
       {
@@ -4945,7 +5138,7 @@
         "destination": {
           "page": "133"
         },
-        "label": "Randers teenager invites strangers to meet over pizza",
+        "label": "Psychologist says child mental health plan should do more",
         "contentId": "denmark-03"
       },
       {
@@ -4953,7 +5146,7 @@
         "destination": {
           "page": "134"
         },
-        "label": "Safety app maps women’s reports, raising questions about risk",
+        "label": "Danish couple buys coastal plot despite flood risk",
         "contentId": "denmark-04"
       },
       {
@@ -4961,7 +5154,7 @@
         "destination": {
           "page": "135"
         },
-        "label": "Aarhus residents organise evening walks after attacks",
+        "label": "Illegal IPTV may expose Danish users to cyber risks",
         "contentId": "denmark-05"
       },
       {
@@ -4969,15 +5162,31 @@
         "destination": {
           "page": "136"
         },
-        "label": "Højen church plans display for old gravestones",
+        "label": "Reported assaults unsettle women running in Aarhus",
         "contentId": "denmark-06"
+      },
+      {
+        "id": "ref-denmark-07",
+        "destination": {
+          "page": "137"
+        },
+        "label": "Study finds border shopping costs Denmark less tax revenue",
+        "contentId": "denmark-07"
+      },
+      {
+        "id": "ref-denmark-08",
+        "destination": {
+          "page": "138"
+        },
+        "label": "Three teenagers charged over Kastrup family shooting",
+        "contentId": "denmark-08"
       },
       {
         "id": "headline-world-01",
         "destination": {
           "page": "111"
         },
-        "label": "Russian strikes hit Kyiv’s second major bridge",
+        "label": "Brazil votes in a close contest overshadowed by corruption claims",
         "contentId": "world-01"
       },
       {
@@ -4985,56 +5194,56 @@
         "destination": {
           "page": "112"
         },
-        "label": "UAE says Flydubai co-pilot attacked captain with an axe",
+        "label": "Russian strikes hit a second major Kyiv bridge",
         "contentId": "world-02"
-      },
-      {
-        "id": "headline-world-03",
-        "destination": {
-          "page": "113"
-        },
-        "label": "Tennessee prison chief resigns after failed execution",
-        "contentId": "world-03"
       },
       {
         "id": "headline-uk-01",
         "destination": {
           "page": "121"
         },
-        "label": "Two charged over alleged plot targeting Manchester’s Jewish community",
+        "label": "Ministers drop plan to cut jury trials",
         "contentId": "uk-01"
       },
       {
-        "id": "headline-uk-03",
+        "id": "headline-world-04",
         "destination": {
-          "page": "123"
+          "page": "114"
         },
-        "label": "Tories plan further cuts as Badenoch heads into conference",
-        "contentId": "uk-03"
+        "label": "UAE says Flydubai co-pilot attacked captain with axe",
+        "contentId": "world-04"
+      },
+      {
+        "id": "headline-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "Thousands protest Spain’s housing crisis",
+        "contentId": "world-03"
       },
       {
         "id": "headline-uk-05",
         "destination": {
           "page": "125"
         },
-        "label": "G7 to release fuel reserves as UK diesel tops £2 a litre",
+        "label": "Energy suppliers warn UK bills could rise further",
         "contentId": "uk-05"
       },
       {
-        "id": "headline-uk-04",
+        "id": "headline-denmark-05",
         "destination": {
-          "page": "124"
+          "page": "135"
         },
-        "label": "Labour MPs warn they may oppose welfare and pension changes",
-        "contentId": "uk-04"
+        "label": "Illegal IPTV may expose Danish users to cyber risks",
+        "contentId": "denmark-05"
       },
       {
-        "id": "headline-denmark-01",
+        "id": "headline-denmark-07",
         "destination": {
-          "page": "131"
+          "page": "137"
         },
-        "label": "Psychologist urges more family support for children in distress",
-        "contentId": "denmark-01"
+        "label": "Study finds border shopping costs Denmark less tax revenue",
+        "contentId": "denmark-07"
       },
       {
         "id": "culture-ref-culture-music-01",
