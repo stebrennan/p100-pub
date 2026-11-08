@@ -1,18 +1,18 @@
 {
   "schemaVersion": 4,
   "edition": {
-    "id": "p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z",
+    "id": "p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z",
     "revision": "local",
-    "publishedAt": "2026-11-07T16:38:39.980Z",
-    "editionMode": "evening",
-    "title": "P100 NEWS + CULTURE + SCIENCE & TECH + SPORT",
-    "deck": "A deadly shooting in Kraków, Russian strikes on Ukraine and fresh pressure for closer UK–EU energy ties lead the evening’s coverage.",
-    "editedOn": "2026-11-07",
-    "estimatedReadingMinutes": 8,
-    "editorialNote": "Prioritises significant developments reported today, alongside substantial explainers. Repeated coverage of the Paraguay banking crisis and Stephen Miller’s appointment is not carried forward without a new development in this gather. No fresh Danish domestic story is available.",
+    "publishedAt": "2026-11-08T04:36:16.969Z",
+    "editionMode": "morning",
+    "title": "P100 NEWS + CULTURE + SPORT + SCIENCE & TECHNOLOGY",
+    "deck": "A deadly shooting in Kraków, urgent needs in Gaza and political uncertainty from Israel to New Zealand lead this morning’s coverage.",
+    "editedOn": "2026-11-08",
+    "estimatedReadingMinutes": 7,
+    "editorialNote": "Prioritises consequential overnight developments and fresh reporting. Where outcomes remain unsettled, the copy distinguishes preliminary results, attributed claims and unanswered questions.",
     "sourceGather": {
-      "snapshotId": "20261107T163305206Z",
-      "generatedAt": "2026-11-07T16:33:05.206Z"
+      "snapshotId": "20261108T043345031Z",
+      "generatedAt": "2026-11-08T04:33:45.031Z"
     },
     "cultureGather": {
       "snapshotId": "20261107T163305206Z",
@@ -23,8 +23,8 @@
       "generatedAt": "2026-11-07T16:33:05.207Z"
     },
     "sportGather": {
-      "snapshotId": "20261107T043311629Z",
-      "generatedAt": "2026-11-07T04:33:11.629Z"
+      "snapshotId": "20261108T043345031Z",
+      "generatedAt": "2026-11-08T04:33:45.031Z"
     },
     "sections": [
       {
@@ -55,7 +55,8 @@
           "world-02",
           "world-03",
           "world-04",
-          "world-05"
+          "world-05",
+          "world-06"
         ],
         "familyId": "news"
       },
@@ -67,10 +68,7 @@
           "uk-01",
           "uk-02",
           "uk-03",
-          "uk-04",
-          "uk-05",
-          "uk-06",
-          "uk-07"
+          "uk-04"
         ],
         "familyId": "news"
       },
@@ -78,8 +76,32 @@
         "id": "denmark",
         "title": "DENMARK",
         "kind": "editorial",
-        "contentIds": [],
+        "contentIds": [
+          "denmark-01",
+          "denmark-02",
+          "denmark-03",
+          "denmark-04"
+        ],
         "familyId": "news"
+      },
+      {
+        "id": "sport",
+        "title": "SPORT",
+        "kind": "editorial",
+        "contentIds": [
+          "sport-01",
+          "sport-02",
+          "sport-03",
+          "sport-04",
+          "sport-05",
+          "sport-06",
+          "sport-07",
+          "sport-08"
+        ],
+        "familyId": "sport",
+        "familyNavigationReferenceIds": [
+          "sport-nav-200"
+        ]
       },
       {
         "id": "culture-overview",
@@ -210,25 +232,6 @@
           "science-tech-ai-08"
         ],
         "familyId": "science-tech"
-      },
-      {
-        "id": "sport",
-        "title": "SPORT",
-        "kind": "editorial",
-        "contentIds": [
-          "sport-01",
-          "sport-02",
-          "sport-03",
-          "sport-04",
-          "sport-05",
-          "sport-06",
-          "sport-07",
-          "sport-08"
-        ],
-        "familyId": "sport",
-        "familyNavigationReferenceIds": [
-          "sport-nav-200"
-        ]
       }
     ],
     "content": [
@@ -236,42 +239,69 @@
         "id": "world-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "At least five killed in shooting in Kraków’s main square, police say",
-        "shortHeadline": "At least five killed in Kraków square shooting",
-        "standfirst": "Polish police say a man opened fire from a car in the city’s busy main square and was detained. Authorities are still establishing the number of victims and the circumstances of the attack.",
-        "viewerProvenance": "THE I PAPER",
+        "headline": "Six killed in Kraków shooting; three more bodies found at suspect’s home",
+        "shortHeadline": "Six killed in Kraków shooting; three bodies found at suspect’s home",
+        "standfirst": "Polish authorities say a 25-year-old suspect opened fire at random in the city’s main square, killing six people and injuring 16. Three more people were found dead at his home; officials suspect they were family members.",
+        "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/world-01-image.png",
-          "caption": "Emergency services at the scene of the shooting near Kraków’s main market square.",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/world-01-image.png",
+          "caption": "Emergency services and security personnel at the site of the shooting in Kraków’s main square.",
           "source": {
-            "candidateId": "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275",
-            "publisher": "The i Paper",
-            "canonicalUrl": "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275",
+            "candidateId": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
             "credit": null
           }
         },
         "sources": [
           {
+            "candidateId": "https://www.bbc.com/news/articles/c6n9r01d2709o",
+            "publisher": "BBC News",
+            "originalTitle": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6n9r01d2709o",
+            "publishedAt": "2026-11-07T22:22:14.158Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+            "publisher": "The Guardian",
+            "originalTitle": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+            "publishedAt": "2026-11-07T21:19:01.000Z"
+          },
+          {
             "candidateId": "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275",
             "publisher": "The i Paper",
-            "originalTitle": "At least five killed after man opens fire in Krakow square, Polish police say",
+            "originalTitle": "What to know as at least six, including British citizen, killed in Kraków ‘terror attack’",
             "canonicalUrl": "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275",
             "publishedAt": "2026-11-07T15:38:25.000Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+            "publisher": "BBC News",
+            "originalTitle": "What we know so far after Krakow gun attack",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+            "publishedAt": "2026-11-07T17:48:29.701Z"
           }
         ],
-        "primarySourceRef": "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275",
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6n9r01d2709o",
         "segments": [
           {
             "id": "world-01-s1",
-            "body": "At least five people were killed and around a dozen injured when a man allegedly drove into Kraków’s main market square and fired at people, Polish police said. The suspect was detained after being shot by officers. Police said two officers were among the wounded.",
+            "body": "Police say the suspect drove into Kraków’s Main Market Square on Saturday afternoon and fired at people from his car. Four women and two men were killed, including a British citizen; 16 people were injured, among them two police officers. The 25-year-old Polish suspect was arrested and remains in hospital after surgery.",
             "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6n9r01d2709o",
+              "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
               "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275"
             ]
           },
           {
             "id": "world-01-s2",
-            "body": "The shooting happened at about 3pm local time on Saturday in Rynek Główny, a popular square that hosts a Christmas market. Authorities urged people to stay away while emergency services responded and investigators worked to establish the full scale and circumstances of the attack.",
+            "title": "Investigation and response",
+            "body": "Prime Minister Donald Tusk said three bodies—two women and a man—were found at the suspect’s home. He said there were strong indications they were immediate family members. Interior Minister Marcin Kierwiński said early findings suggest the suspect was fascinated by far-right ideologies; authorities have not provided further detail about a motive. A period of mourning has been declared in Kraków.",
             "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6n9r01d2709o",
+              "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+              "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
               "https://inews.co.uk/news/world/killed-shooting-krakow-poland-police-4881275"
             ]
           }
@@ -281,59 +311,34 @@
         "id": "world-02",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Russian strikes damage Ukraine’s power network ahead of peace talks",
-        "shortHeadline": "Russian strikes hit Ukraine’s power network before talks",
-        "standfirst": "Overnight attacks damaged energy infrastructure and disrupted services in Kyiv and other regions, according to Ukrainian officials. The strikes came days before planned talks involving Russia, Ukraine and the US.",
-        "viewerProvenance": "MULTIPLE SOURCES",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/world-02-image.png",
-          "caption": "Firefighters at the site of a Russian missile attack on Kyiv.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-            "credit": null
-          }
-        },
+        "headline": "Flooding leaves tens of thousands of displaced Palestinians’ tents under water",
+        "shortHeadline": "Floods hit tens of thousands of tents in Gaza",
+        "standfirst": "As the rainy season begins, aid agencies warn conditions could deteriorate further for people displaced by the war. Unicef says supplies are limited and almost everyone in the territory needs help.",
+        "viewerProvenance": "BBC NEWS",
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cm4g1nq8158po",
+            "candidateId": "https://www.bbc.com/news/articles/cx240e5py64jo",
             "publisher": "BBC News",
-            "originalTitle": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cm4g1nq8158po",
-            "publishedAt": "2026-11-07T12:38:54.790Z"
-          },
-          {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-            "publisher": "The Guardian",
-            "originalTitle": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-            "publishedAt": "2026-11-07T13:03:03.000Z"
+            "originalTitle": "Tens of thousands of tents flooded after heavy rains in Gaza",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cx240e5py64jo",
+            "publishedAt": "2026-11-07T16:25:55.732Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cm4g1nq8158po",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cx240e5py64jo",
         "segments": [
           {
             "id": "world-02-s1",
-            "body": "Russian drones and ballistic missiles struck Ukrainian energy infrastructure overnight, causing power cuts and disrupting electricity, water and heating in parts of Kyiv, Ukrainian officials said. Reports from the BBC and the Guardian differ on the number of people hurt; both describe damage to substations and other infrastructure.",
+            "body": "Heavy rain has flooded tents used by displaced people in Gaza. The Hamas-run government says about 70,000 tents were affected and that damaged walls and roofs caused injuries. Unicef representative Jonathan Veitch described residents as desperate and said aid workers were being stopped in the street by people asking for help.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cm4g1nq8158po",
-              "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+              "https://www.bbc.com/news/articles/cx240e5py64jo"
             ]
           },
           {
             "id": "world-02-s2",
-            "title": "Diplomacy under strain",
-            "body": "Representatives from Russia, Ukraine and the US are due to meet in Abu Dhabi next week. The Guardian reports that President Volodymyr Zelenskyy has questioned whether the US-backed discussions can produce results, and says Ukraine and its European partners are wary of proposals touching on European security arrangements.",
+            "title": "Aid constrained as winter approaches",
+            "body": "Veitch said fewer tarpaulins, plastic sheets and tents are available because of UN budget cuts. He warned that last winter brought deaths from hypothermia and said urgent action was needed to avert a similar toll. Israel says it restricts items that could be used for military purposes; aid agencies expect needs to rise as the rainy season continues.",
             "sourceRefs": [
-              "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-                "body": "The Guardian reports Zelenskyy’s concern that a wider discussion of European-Russian security could be dangerous, and his insistence that Ukraine needs meaningful guarantees before any such debate."
-              }
+              "https://www.bbc.com/news/articles/cx240e5py64jo"
             ]
           }
         ]
@@ -342,41 +347,62 @@
         "id": "world-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "New Zealand election leaves parties facing weeks of coalition talks",
-        "shortHeadline": "New Zealand election leaves coalition outcome unclear",
-        "standfirst": "Preliminary results leave no bloc with a clear majority, and special votes could still change the parliamentary balance. A smaller party that crossed the threshold may help determine who governs.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "Israel’s president gives opposition leader Eisenkot first chance to form a new政府",
+        "shortHeadline": "Eisenkot gets first chance to form Israel’s next government",
+        "standfirst": "Neither bloc won a majority in last month’s election. Gadi Eisenkot has 28 days to seek the support needed to govern, but it remains uncertain whether his bloc can work with Arab parties whose backing could prove decisive.",
+        "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/world-03-image.png",
+          "caption": "Gadi Eisenkot, leader of the Yashar party, has been asked to form a government.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
+            "candidateId": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
             "publisher": "BBC News",
-            "originalTitle": "No clear winner after tight New Zealand general election",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
-            "publishedAt": "2026-11-07T15:00:10.678Z"
+            "originalTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
+            "publishedAt": "2026-11-07T21:51:12.951Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+            "publisher": "The Guardian",
+            "originalTitle": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+            "publishedAt": "2026-11-07T19:49:39.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/netanyahus-rival-udpeget-til-danne-regering-i-israel",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Netanyahus rival skal forsøge at danne regering i Israel",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/netanyahus-rival-udpeget-til-danne-regering-i-israel",
+            "publishedAt": "2026-11-07T19:42:25.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
         "segments": [
           {
             "id": "world-03-s1",
-            "body": "Preliminary results from New Zealand’s election show the centre-right National Party with 42 seats and Labour with 36, with neither able to govern alone. National could form a narrow majority with its current partners, ACT and New Zealand First, if the parties reach an agreement. Labour leader Chris Hipkins has not conceded.",
+            "body": "President Isaac Herzog has chosen opposition leader Gadi Eisenkot to try to form a government after neither his bloc nor Prime Minister Benjamin Netanyahu’s secured a majority in the 120-seat Knesset. Eisenkot’s bloc won 48 seats and Netanyahu’s 53. Herzog’s office said Eisenkot received 67 recommendations during consultations with parties.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+              "https://www.bbc.com/news/articles/cmy8367lj5xlo",
+              "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+              "https://www.dr.dk/nyheder/udland/netanyahus-rival-udpeget-til-danne-regering-i-israel"
             ]
           },
           {
             "id": "world-03-s2",
-            "title": "A possible kingmaker",
-            "body": "The Opportunity Party won seven seats and crossed the threshold to enter parliament for the first time. Its leader, Qiulae Wong, says the party is open to working with either bloc. More than 99% of votes have been counted, but special votes remain; the electoral commission is due to announce the official result on 27 November.",
+            "title": "A difficult coalition arithmetic",
+            "body": "Eisenkot has 28 days to assemble a government, with a possible 14-day extension. Arab-led alliances won 19 seats and could be pivotal, but it is unclear whether Eisenkot’s bloc would accept their support; most of his bloc had previously ruled out working with Arab parties. If no one can form a government, Israel could face another election.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c3ewev11g1e0o"
-            ]
-          },
-          {
-            "id": "world-03-s3",
-            "body": "The campaign focused on cost of living and unemployment. The two largest parties together received around 60% of the vote, according to the preliminary results. National’s Christopher Luxon says he will lead a caretaker government until final results are confirmed and meaningful negotiations can begin.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+              "https://www.bbc.com/news/articles/cmy8367lj5xlo",
+              "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+              "https://www.dr.dk/nyheder/udland/netanyahus-rival-udpeget-til-danne-regering-i-israel"
             ]
           }
         ]
@@ -385,52 +411,52 @@
         "id": "world-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Jehovah’s Witnesses ease blood rules weeks after a member’s death",
-        "shortHeadline": "Jehovah’s Witnesses ease blood rules after member’s death",
-        "standfirst": "The faith now leaves many decisions about blood components to individual members. Isaac Valdez died after refusing a transfusion under the previous teaching, 23 days before the change was announced.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "New Zealand election remains on a knife-edge as special votes await count",
+        "shortHeadline": "New Zealand’s close election awaits nearly 400,000 special votes",
+        "standfirst": "Preliminary results leave the National-led bloc with a possible route to power, but the final balance is unclear. The count of overseas and out-of-electorate ballots is not due until 27 November.",
+        "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/world-04-image.png",
-          "caption": "Isaac Valdez’s family says he stood by his religious objection to blood transfusions.",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/world-04-image.png",
+          "caption": "National Party leader Christopher Luxon and deputy Nicola Willis on election night.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/cx5ynly549njo",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cx5ynly549njo",
-            "credit": "Valdez Family"
+            "candidateId": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+            "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cx5ynly549njo",
+            "candidateId": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+            "publisher": "The Guardian",
+            "originalTitle": "Who won New Zealand’s photo-finish election and why special votes could change everything",
+            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+            "publishedAt": "2026-11-08T03:27:49.000Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cxr5yyg2nj9eo",
             "publisher": "BBC News",
-            "originalTitle": "This man refused life-saving treatment because of his religion - days later the rules changed",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cx5ynly549njo",
-            "publishedAt": "2026-11-07T01:27:47.030Z"
+            "originalTitle": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cxr5yyg2nj9eo",
+            "publishedAt": "2026-11-07T21:36:16.955Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cx5ynly549njo",
+        "primarySourceRef": "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
         "segments": [
           {
             "id": "world-04-s1",
-            "body": "Isaac Valdez, 26, died in August after a brain haemorrhage. His family followed his wishes as a Jehovah’s Witness not to accept a blood transfusion, even when a neurosurgeon said an operation requiring one was the only way to save his life. The faith’s Governing Body announced a change to its teaching 23 days after his death.",
+            "body": "Preliminary results put Labour narrowly ahead of National in the party vote, 29.3% to 29.2%, while National won more electorate seats. Neither major party claimed victory. The next government remains uncertain, and centrist Opportunity, with seven seats on current results, could hold the balance of power.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cx5ynly549njo"
+              "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand",
+              "https://www.bbc.com/news/articles/cxr5yyg2nj9eo"
             ]
           },
           {
             "id": "world-04-s2",
-            "title": "What the teaching change means",
-            "body": "The new guidance allows members to decide whether to accept many medical procedures involving donated blood components, including plasma, red blood cells and platelets. The faith’s international spokesperson, Paul Gillies, says whole-blood transfusions remain prohibited and describes the change as a fresh application of biblical principles to modern medicine.",
+            "title": "Why the result may shift",
+            "body": "Almost 400,000 special votes, including ballots cast overseas or outside voters’ electorates, remain to be counted; official results are expected on 27 November. Such votes have tended to favour the left in previous elections, and this contest is close enough for a small number of seats to change which bloc can form a government.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cx5ynly549njo"
-            ]
-          },
-          {
-            "id": "world-04-s3",
-            "title": "Questions over the timing",
-            "body": "Valdez’s twin brother Jacob, who has left the faith, says he believes Isaac might still be alive if the rule had changed sooner and wants leaders to apologise. Gillies says those concerned deserve to be heard compassionately, but does not explain why the change took so long. The BBC says the number of deaths linked to the former teaching is difficult to establish.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/cx5ynly549njo"
+              "https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand"
             ]
           }
         ]
@@ -439,44 +465,70 @@
         "id": "world-05",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Paris climate pact has missed its key goal, but still shapes action",
-        "shortHeadline": "Paris climate pact misses target but still guides action",
-        "standfirst": "Global temperatures have exceeded the agreement’s 1.5C threshold for two years, and the UN’s most optimistic outlook now points to greater warming. Experts remain divided over the process but say it still matters.",
-        "viewerProvenance": "THE GUARDIAN",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/world-05-image.png",
-          "caption": "A wildfire in south-west France, amid growing concern about climate-related fire risk.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-            "credit": null
-          }
-        },
+        "headline": "US offers up to $20m for information on Iran’s nuclear programme",
+        "shortHeadline": "US offers $20m reward for information on Iran’s nuclear programme",
+        "standfirst": "The State Department says it will also consider relocating a person who provides information. The move comes as President Donald Trump has again raised the prospect of strikes on Iranian nuclear sites.",
+        "viewerProvenance": "BBC NEWS",
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-            "publisher": "The Guardian",
-            "originalTitle": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
-            "canonicalUrl": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-            "publishedAt": "2026-11-07T05:00:02.000Z"
+            "candidateId": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
+            "publisher": "BBC News",
+            "originalTitle": "US offers $20m reward for information about Iran's nuclear programme",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
+            "publishedAt": "2026-11-07T18:14:38.227Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
         "segments": [
           {
             "id": "world-05-s1",
-            "body": "The Paris agreement was intended to limit global heating to 1.5C above pre-industrial levels, but temperatures have exceeded that threshold for two years. The UN’s most optimistic estimate now points to warming of about 1.7C to 1.8C. Critics say slow, consensus-based negotiations have failed to match the urgency of the climate crisis.",
+            "body": "The US State Department is offering up to $20m for information about Iran’s nuclear programme, including facilities, equipment and personnel. Its Rewards for Justice programme says it may also relocate an informant. The announcement does not establish whether the programme has been damaged or what information officials currently hold.",
             "sourceRefs": [
-              "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+              "https://www.bbc.com/news/articles/c6d091ev3p0jo"
             ]
           },
           {
             "id": "world-05-s2",
-            "title": "A framework with limits",
-            "body": "Experts quoted by the Guardian disagree on how much the agreement has achieved, but several argue it remains a shared direction for governments and investors. The article describes initiatives outside the main climate talks, including a group of countries drawing up roadmaps to move away from fossil fuels, and a possible target to increase electricity’s share of final energy use.",
+            "title": "Nuclear claims and renewed pressure",
+            "body": "The State Department says Iran’s lack of compliance with International Atomic Energy Agency safeguards has interrupted the agency’s knowledge of some nuclear materials and equipment. Iran says its programme is peaceful. Trump has threatened strikes on a suspected underground site, although he has also said he is in no rush to renew attacks.",
             "sourceRefs": [
-              "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+              "https://www.bbc.com/news/articles/c6d091ev3p0jo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-06",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Council of Europe report finds children make up most identified trafficking",
+        "shortHeadline": "Children are most identified trafficking victims in Belarus, report",
+        "standfirst": "A Council of Europe expert group identified 1,161 victims in Belarus over three years, 59% of them children. A researcher cautions that restricted access to the country means the real scale may be higher.",
+        "viewerProvenance": "DR NYHEDER",
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/boern-udgoer-en-voksende-andel-af-ofrene-menneskehandel-i-belarus-viser-ny-rapport",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Børn udgør en voksende andel af ofrene for menneskehandel i Belarus, viser ny rapport",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/boern-udgoer-en-voksende-andel-af-ofrene-menneskehandel-i-belarus-viser-ny-rapport",
+            "publishedAt": "2026-11-07T20:09:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/udland/boern-udgoer-en-voksende-andel-af-ofrene-menneskehandel-i-belarus-viser-ny-rapport",
+        "segments": [
+          {
+            "id": "world-06-s1",
+            "body": "A new report by the Council of Europe’s anti-trafficking expert group, GRETA, says 1,161 people were identified as trafficking victims in Belarus over the past three years. Children made up 59%, up from 32% in the previous report; 40% were women. The report says sexual exploitation of children, including the circulation of abuse material, is prominent.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/udland/boern-udgoer-en-voksende-andel-af-ofrene-menneskehandel-i-belarus-viser-ny-rapport"
+            ]
+          },
+          {
+            "id": "world-06-s2",
+            "title": "Limits to what can be verified",
+            "body": "Katrine Stevnhøj, a researcher on Belarus, said the figures may not show the full scale because the Council of Europe no longer has access to the country and has had to rely on official data. She also said migrants who crossed into Belarus since 2021 are not included. The report says Belarusian authorities recognised only one case as a crime and only two victims received compensation.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/udland/boern-udgoer-en-voksende-andel-af-ofrene-menneskehandel-i-belarus-viser-ny-rapport"
             ]
           }
         ]
@@ -485,43 +537,34 @@
         "id": "uk-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Three teenagers arrested after suspected sword attack near Gloucester school",
-        "shortHeadline": "Three teenagers arrested after Gloucester sword attack",
-        "standfirst": "A 17-year-old suffered a superficial wound in an incident near a school in Tuffley, police say. The school and a nearby primary academy were locked down as officers searched the area.",
+        "headline": "Birth centre closures in England restrict women’s maternity choices, campaigners",
+        "shortHeadline": "Birth centre closures erode maternity choices, campaigners say",
+        "standfirst": "Twelve midwife-led units have closed since 2019, including six since Labour took office, while some “temporary” closures have lasted years. Campaigners point to staff shortages and say families are losing local options.",
         "viewerProvenance": "THE GUARDIAN",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/uk-01-image.png",
-          "caption": "Police attended the scene near St Peter’s High School in Gloucester.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-            "credit": null
-          }
-        },
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+            "candidateId": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
             "publisher": "The Guardian",
-            "originalTitle": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-            "publishedAt": "2026-11-07T16:17:56.000Z"
+            "originalTitle": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+            "publishedAt": "2026-11-07T17:00:16.000Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+        "primarySourceRef": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
         "segments": [
           {
             "id": "uk-01-s1",
-            "body": "Three teenagers from Gloucester have been arrested after a 17-year-old was injured in a suspected sword attack near St Peter’s High School in Tuffley. Police said the wound was believed to have been caused by a sword; another young person was not physically hurt. All three suspects remain in custody for questioning.",
+            "body": "Twelve midwife-led birth centres have closed in England since 2019, the Guardian reports; six shut permanently after Labour took office in 2024. Four others have been closed temporarily for as long as six years, and two are out of action because their hospital buildings need replacement. Campaigners say the closures leave women with fewer choices about where to give birth.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured"
+              "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights"
             ]
           },
           {
             "id": "uk-01-s2",
-            "body": "Armed police searched the area after the incident on Friday morning, and St Peter’s and Willow Primary Academy went into lockdown. Police said there was not thought to be a wider threat and are seeking witnesses or footage. A woman arrested on suspicion of assisting an offender was released on bail while inquiries continue.",
+            "title": "Staffing and access pressures",
+            "body": "The closures and suspensions are linked to shortages of midwives, a falling birthrate, more complex births and an increase in caesarean sections. The Royal College of Midwives warns that longer journeys and limited access to midwife-led or home birth care may push some families towards private support or unsupported home births. The health secretary is due to publish an action plan before Christmas.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured"
+              "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights"
             ]
           }
         ]
@@ -530,20 +573,46 @@
         "id": "uk-02",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Five European leaders urge UK deal on shared electricity market",
-        "shortHeadline": "European leaders press UK for electricity-market deal",
-        "standfirst": "Germany, Belgium, the Netherlands, Luxembourg and Denmark want progress on Britain’s return to the EU’s internal electricity market at this month’s summit. Former Brexit negotiator Michel Barnier says the wider single market cannot be entered on a pick-and-choose basis.",
-        "viewerProvenance": "MULTIPLE SOURCES",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/uk-02-image.png",
-          "caption": "Five European leaders are calling for a UK–EU electricity-market agreement.",
-          "source": {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-            "credit": null
+        "headline": "Small study suggests blood-pressure drug’s effect may last after treatment stops",
+        "shortHeadline": "Blood-pressure drug may have lasting effect after treatment stops",
+        "standfirst": "Fourteen patients with large improvements continued to have lower blood pressure for up to two years after stopping baxdrostat. Researchers say larger studies are needed before any claim of a lasting cure.",
+        "viewerProvenance": "THE I PAPER",
+        "sources": [
+          {
+            "candidateId": "https://inews.co.uk/news/high-blood-pressure-permanent-cure-4875408",
+            "publisher": "The i Paper",
+            "originalTitle": "New drug that could permanently cure high blood pressure coming to UK by 2027",
+            "canonicalUrl": "https://inews.co.uk/news/high-blood-pressure-permanent-cure-4875408",
+            "publishedAt": "2026-11-07T14:35:00.000Z"
           }
-        },
+        ],
+        "primarySourceRef": "https://inews.co.uk/news/high-blood-pressure-permanent-cure-4875408",
+        "segments": [
+          {
+            "id": "uk-02-s1",
+            "body": "An analysis of a small group of patients in a larger baxdrostat trial found that 14 people whose blood pressure improved substantially continued to have lower readings after they stopped taking the drug. Their follow-up lasted up to two years, with one patient followed for three years, according to the study’s researchers.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/high-blood-pressure-permanent-cure-4875408"
+            ]
+          },
+          {
+            "id": "uk-02-s2",
+            "title": "A possible alternative to surgery",
+            "body": "Researchers believe the drug may affect benign adrenal tumours that produce excess aldosterone, a cause of high blood pressure in about one in 10 people with the condition. Surgery can treat these tumours, but the study does not yet prove baxdrostat permanently removes the problem. A larger study is under way; UK availability for resistant high blood pressure is also subject to an NHS assessment.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/high-blood-pressure-permanent-cure-4875408"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uk-03",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Five European leaders press for UK path back to shared electricity market",
+        "shortHeadline": "European leaders urge UK deal on shared electricity market",
+        "standfirst": "Germany, Belgium, the Netherlands, Luxembourg and Denmark say closer energy cooperation could strengthen the North Sea clean-energy hub. Their call comes ahead of a summit where the UK and EU hope to agree several other measures.",
+        "viewerProvenance": "MULTIPLE SOURCES",
         "sources": [
           {
             "candidateId": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
@@ -563,37 +632,30 @@
         "primarySourceRef": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
         "segments": [
           {
-            "id": "uk-02-s1",
-            "body": "The leaders of five European countries, including Denmark, have urged the UK and EU to agree a path towards Britain’s return to the bloc’s internal electricity market at a summit in Brussels on 20 November. They say closer cooperation could help develop North Sea clean energy and bring more efficient electricity trading.",
+            "id": "uk-03-s1",
+            "body": "The five leaders have urged the UK and EU to agree a route towards Britain’s return to the EU’s internal electricity market at their 20 November summit. They argue that closer integration would help develop North Sea energy and could bring more efficient electricity trading and lower costs for UK consumers.",
             "sourceRefs": [
               "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit"
             ]
           },
           {
-            "id": "uk-02-s2",
-            "title": "The terms of closer ties",
-            "body": "The Guardian reports that a deal could require a UK contribution to EU cohesion funds, a point of concern for British officials. Separately, former Brexit negotiator Michel Barnier told the BBC that the UK could not rejoin the single market on selected terms: members would have to accept its rules, including the four freedoms.",
+            "id": "uk-03-s2",
+            "title": "Wider ties remain contested",
+            "body": "A UK contribution to EU cohesion funds could be part of an electricity-market deal, an issue British officials are wary of. The summit is also expected to address food standards, emissions trading and youth exchanges. The UK’s Erasmus+ return is planned for January. Former EU Brexit negotiator Michel Barnier says joining the single market would require accepting all four freedoms, including movement of people.",
             "sourceRefs": [
               "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
               "https://www.bbc.com/news/articles/c9kgjj206nzpo"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.bbc.com/news/articles/c9kgjj206nzpo",
-                "body": "Barnier’s warning centres on the single market as a whole: he says access would require the UK to accept the movement of goods, services, capital and people, rather than choose among them."
-              }
             ]
           }
         ]
       },
       {
-        "id": "uk-03",
+        "id": "uk-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "EU citizens sue Home Office over withdrawal of settled-status rights",
-        "shortHeadline": "EU citizens challenge Home Office status decisions",
-        "standfirst": "Campaign group the3million is asking the High Court to rule that the Home Office acted unlawfully when it removed rights from almost 1,500 people granted pre-settled status. The department says it cannot comment while proceedings are under way.",
+        "headline": "EU citizens challenge Home Office policy removing pre-settled status rights",
+        "shortHeadline": "EU citizens take Home Office to court over lost status rights",
+        "standfirst": "Campaign group the3million is asking the High Court to rule that the Home Office acted unlawfully when it removed rights from almost 1,500 people granted pre-settled status. The department says it cannot comment during proceedings.",
         "viewerProvenance": "THE GUARDIAN",
         "sources": [
           {
@@ -607,200 +669,531 @@
         "primarySourceRef": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
         "segments": [
           {
-            "id": "uk-03-s1",
-            "body": "Campaign group the3million has lodged a High Court claim over Home Office decisions to tell almost 1,500 EU citizens that their pre-settled status was granted in error. The group says people were stripped of some or all rights without safeguards required under the Brexit withdrawal agreement, including an appeal and an assessment of proportionality.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
-            ]
-          },
-          {
-            "id": "uk-03-s2",
-            "title": "Why some decisions are disputed",
-            "body": "The cases include people with Italian citizenship by descent who were told they lacked the right status because they had not shown an Italian passport when they applied. The Home Office accepted in October that evidence of Italian citizenship obtained through descent can establish citizenship from birth. The department declined to comment on the court proceedings.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
-            ]
-          },
-          {
-            "id": "uk-03-s3",
-            "body": "The campaign group is seeking a declaration that the policy is unlawful. It argues that the settlement scheme’s use of evidential flexibility and discretionary decisions left some people unable to know why their status was granted or later challenged. The Home Office has previously faced a successful legal challenge over rights under the withdrawal agreement.",
-            "sourceRefs": [
-              "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "uk-04",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Burnham says rape complainants must not feel they are on trial",
-        "shortHeadline": "Burnham says rape complainants must not feel on trial",
-        "standfirst": "The prime minister says he will examine how rape trials are conducted after criticism of arguments heard in Russell Brand’s case. A former Conservative MP and barrister disputes the police chief’s concern about how juries are directed.",
-        "viewerProvenance": "BBC NEWS",
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/news/articles/crgj99j8y998o",
-            "publisher": "BBC News",
-            "originalTitle": "Victims in rape cases must not feel like they are on trial, Burnham says",
-            "canonicalUrl": "https://www.bbc.com/news/articles/crgj99j8y998o",
-            "publishedAt": "2026-11-07T11:04:28.009Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/crgj99j8y998o",
-        "segments": [
-          {
             "id": "uk-04-s1",
-            "body": "Andy Burnham says the government should look closely at how rape trials are conducted so complainants do not feel they are on trial themselves. His comments follow Metropolitan Police chief Sir Mark Rowley’s view that reported arguments in Russell Brand’s trial came close to victim-blaming. Brand was convicted of one count of rape and three counts of sexual assault.",
+            "body": "The3million has lodged a High Court claim over a Home Office policy that removed some or all rights from nearly 1,500 people previously granted pre-settled status. The group argues that people were denied safeguards under the Brexit withdrawal agreement, including an appeal and an assessment of whether removing their rights was proportionate.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/crgj99j8y998o"
+              "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
             ]
           },
           {
             "id": "uk-04-s2",
-            "title": "Debate over jury guidance",
-            "body": "Rowley supports a legal duty for judges to direct juries on rape myths and misconceptions. Victims’ Commissioner Claire Waxman and Centre for Women’s Justice founder Harriet Wistrich also argue that jurors need guidance on how people may respond to sexual violence. Burnham says he will study the case but the BBC understands there are no current plans to change the law.",
+            "title": "Policy and due-process questions",
+            "body": "Some affected people were told their status had been granted in error because they lacked an Italian passport when they applied, even though they say they were Italian citizens by descent. The Home Office later accepted evidence of Italian citizenship obtained by descent in certain cases. The department declined to comment while the case is ongoing.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/crgj99j8y998o"
-            ]
-          },
-          {
-            "id": "uk-04-s3",
-            "body": "Former Conservative MP and barrister Anna Soubry says judges already give firm directions on these issues and warned that the public is being misled by Rowley’s comments. The different views underline the unresolved debate over how to support complainants while preserving the role of juries.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/crgj99j8y998o"
+              "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
             ]
           }
         ]
       },
       {
-        "id": "uk-05",
+        "id": "denmark-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "UK plans for a major blackout face questions over backup systems",
-        "shortHeadline": "UK blackout preparations face questions over backup systems",
-        "standfirst": "Lancaster’s 2015 power cut showed how electricity failures can disrupt water, transport and communications. Officials say the grid is resilient, but experts question whether the UK is keeping enough independent ways to communicate.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "Danish study links two fertility treatments to higher childhood cancer risk",
+        "shortHeadline": "Study links two fertility treatments to higher cancer risk in children",
+        "standfirst": "The study of one million births found higher relative risks after ICSI and frozen embryo transfer, but no increase after the commonly used IVF treatment. Childhood cancer remains rare, and researchers do not yet know what explains the association.",
+        "viewerProvenance": "DR NYHEDER",
+        "sources": [
+          {
+            "candidateId": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Dansk forskning kobler to slags fertilitetsbehandlinger til øget kræftrisiko for børn",
+            "canonicalUrl": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+            "publishedAt": "2026-11-07T20:21:00.000Z"
+          }
+        ],
+        "primarySourceRef": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+        "segments": [
+          {
+            "id": "denmark-01-s1",
+            "body": "A Danish study using records for one million children born from 1996 to 2012 found an association between childhood cancer and two forms of fertility treatment: ICSI, or microinjection, and frozen embryo transfer. The researchers reported a roughly 50% higher relative risk after ICSI and a doubling after frozen embryo transfer compared with births without fertility treatment.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern"
+            ]
+          },
+          {
+            "id": "denmark-01-s2",
+            "title": "Researchers say the cause is unknown",
+            "body": "The study found no increased risk after IVF, the most commonly used fertility treatment. Researcher Marie Hargreave stressed that childhood cancer is rare and said the findings do not mean people should avoid the treatments. The study cannot explain the association; researchers want to investigate possible risk factors, including hormone treatment.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "denmark-02",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Danish authorities again warn parking firms to issue physical tickets first",
+        "shortHeadline": "Parking firms told to issue physical tickets before digital bills",
+        "standfirst": "Motorstyrelsen says firms must place a physical control charge on a vehicle before using registration data to send a digital demand. Ministers say repeated breaches could carry financial consequences.",
+        "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/uk-05-image.png",
-          "caption": "The government’s “Be Ready” campaign advises households on preparing for emergencies.",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/denmark-02-image.png",
+          "caption": "Tax minister Jakob Engel-Schmidt says enforcement action may follow if parking firms break the rules.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
-            "credit": "Getty Images"
+            "candidateId": "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder",
+            "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
-            "publisher": "BBC News",
-            "originalTitle": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
-            "publishedAt": "2026-11-07T00:31:54.812Z"
+            "candidateId": "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Ministre slår fast: Slut med 'usynlige' p-bøder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder",
+            "publishedAt": "2026-11-07T19:13:00.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
+        "primarySourceRef": "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder",
         "segments": [
           {
-            "id": "uk-05-s1",
-            "body": "A flood-related power cut in Lancaster in 2015 left 61,500 people without electricity and disrupted heat, water, transport, shops and cash machines. FM radio and copper-wire landlines continued to work. The episode is used as a warning about a wider “Black Sky” emergency affecting essential services.",
+            "id": "denmark-02-s1",
+            "body": "Motorstyrelsen has reminded private parking companies that they must issue a physical control charge before looking up a vehicle in the register and sending a digital bill. The rule was clarified in 2025, but DR reports that some firms continued sending digital demands, sometimes labelling them as invoices instead.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck5ynnj05z8no"
+              "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder"
             ]
           },
           {
-            "id": "uk-05-s2",
-            "title": "Resilience and its gaps",
-            "body": "The BBC says it is preparing an emergency radio service that could operate for at least three days without internet access. The government is also funding high-altitude aircraft intended to provide emergency mobile and internet connectivity. Civil contingency experts warn that water, sewage and emergency communications can depend on electricity.",
+            "id": "denmark-02-s2",
+            "title": "Enforcement may be tightened",
+            "body": "Tax minister Jakob Engel-Schmidt said companies that ignore the rules could face significant financial consequences. The ministries are developing a system that could remove access to the Motor Register from non-compliant firms. The motorists’ organisation FDM says drivers should have a physical notice and a chance to gather evidence if they want to contest a charge.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck5ynnj05z8no"
-            ]
-          },
-          {
-            "id": "uk-05-s3",
-            "body": "The government says the UK has one of the world’s most resilient electricity systems and has never experienced a complete grid outage. But a Lancaster professor involved in reviewing the 2015 incident argues that switching off the public copper telephone network risks removing a useful fallback. The landline system is due to be switched off on 31 January 2027.",
-            "sourceRefs": [
-              "https://www.bbc.com/news/articles/ck5ynnj05z8no"
+              "https://www.dr.dk/nyheder/politik/ministre-slaar-fast-slut-med-usynlige-p-boeder"
             ]
           }
         ]
       },
       {
-        "id": "uk-06",
+        "id": "denmark-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Public EV charging network lacks uniform cyber security protections",
-        "shortHeadline": "UK public EV chargers lack uniform cyber protections",
-        "standfirst": "A Department for Transport consultation proposes security rules for new public chargers, but existing points would not have to be upgraded. Experts warn that attacks could disrupt drivers and public services.",
-        "viewerProvenance": "THE I PAPER",
+        "headline": "Stevns Klint named among 100 globally important geological sites",
+        "shortHeadline": "Stevns Klint earns place on global geology list",
+        "standfirst": "The Danish cliff is recognised for its fossil-rich boundary layer, which records the asteroid impact linked to the extinction of the dinosaurs. The international list highlights geological sites of particular significance.",
+        "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/denmark-03-image.png",
+          "caption": "Stevns Klint, the Danish coastal cliff recognised for its geological significance.",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://inews.co.uk/news/politics/ev-security-fears-chargers-at-risk-russia-attack-4872214",
-            "publisher": "The i Paper",
-            "originalTitle": "EV security fears as chargers at risk of Russia attack",
-            "canonicalUrl": "https://inews.co.uk/news/politics/ev-security-fears-chargers-at-risk-russia-attack-4872214",
-            "publishedAt": "2026-11-06T14:00:29.000Z"
+            "candidateId": "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Dansk kystklint opnår plads på international liste",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste",
+            "publishedAt": "2026-11-06T08:25:57.000Z"
           }
         ],
-        "primarySourceRef": "https://inews.co.uk/news/politics/ev-security-fears-chargers-at-risk-russia-attack-4872214",
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste",
         "segments": [
           {
-            "id": "uk-06-s1",
-            "body": "The UK’s public electric-vehicle charging network has no uniform cyber-security requirements, according to Department for Transport documents cited by the i Paper. The government is consulting on protections for new public chargers, including secure updates and safeguards against unauthorised access; existing points would not have to be retrofitted.",
+            "id": "denmark-03-s1",
+            "body": "Stevns Klint has been named one of 100 new important geological sites by the International Union of Geological Sciences. Its dark fish-clay layer preserves evidence of the asteroid impact around 66 million years ago, which was followed by the extinction of many species, including the dinosaurs.",
             "sourceRefs": [
-              "https://inews.co.uk/news/politics/ev-security-fears-chargers-at-risk-russia-attack-4872214"
-            ]
-          },
-          {
-            "id": "uk-06-s2",
-            "title": "Potential knock-on effects",
-            "body": "Researchers and security specialists say attackers could disable chargers, interfere with payment systems or redirect drivers to the same charging point. Disruption could affect buses, ambulances and other services as well as motorists. The extent and consequences of any attack would depend on how many systems were affected and how they were connected.",
-            "sourceRefs": [
-              "https://inews.co.uk/news/politics/ev-security-fears-chargers-at-risk-russia-attack-4872214"
+              "https://www.dr.dk/nyheder/indland/dansk-kystklint-opnaar-plads-paa-international-liste"
             ]
           }
         ]
       },
       {
-        "id": "uk-07",
+        "id": "denmark-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Married at First Sight UK cast react to show’s cancellation",
-        "shortHeadline": "Cast react as Married at First Sight UK is cancelled",
-        "standfirst": "Some former participants welcomed Channel 4’s decision after allegations by cast members, while others say it leaves unanswered questions. Only a summary of the broadcaster’s review has been released.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "Diesel theft reports rise in North Jutland as businesses report losses",
+        "shortHeadline": "North Jutland businesses report more diesel thefts",
+        "standfirst": "A machinery owner says thieves have drained his equipment four times this year, while police figures show fuel-theft reports in the district have risen since 2023. Police urge businesses to secure vehicles and warn buyers against suspiciously cheap fuel.",
+        "viewerProvenance": "DR NYHEDER",
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/crx233lx94n7o",
-            "publisher": "BBC News",
-            "originalTitle": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-            "canonicalUrl": "https://www.bbc.com/news/articles/crx233lx94n7o",
-            "publishedAt": "2026-11-07T05:12:52.980Z"
+            "candidateId": "https://www.dr.dk/nyheder/indland/jeg-troede-det-var-loegn-dieseltyve-toemmer-henriks-tanke-og-deres-metoder-overrasker-ham",
+            "publisher": "DR Nyheder",
+            "originalTitle": "'Jeg troede, det var løgn': Dieseltyve tømmer Henriks tanke, og deres metoder overrasker ham",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/jeg-troede-det-var-loegn-dieseltyve-toemmer-henriks-tanke-og-deres-metoder-overrasker-ham",
+            "publishedAt": "2026-11-07T05:42:00.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/crx233lx94n7o",
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/jeg-troede-det-var-loegn-dieseltyve-toemmer-henriks-tanke-og-deres-metoder-overrasker-ham",
         "segments": [
           {
-            "id": "uk-07-s1",
-            "body": "Channel 4 has cancelled Married at First Sight UK after a BBC Panorama investigation reported allegations from three former cast members. Two women alleged they were raped by on-screen husbands, and a third alleged a non-consensual sexual act. The men involved have denied the allegations.",
+            "id": "denmark-04-s1",
+            "body": "Businesses in North Jutland say thieves have taken diesel from machinery and vehicles. Contractor Henrik Svenningsen says 400 litres were stolen from an excavator near Hjallerup and that his equipment has been targeted four times this year. Another local company told DR it lost nearly 30,000 kroner of diesel.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/crx233lx94n7o"
+              "https://www.dr.dk/nyheder/indland/jeg-troede-det-var-loegn-dieseltyve-toemmer-henriks-tanke-og-deres-metoder-overrasker-ham"
             ]
           },
           {
-            "id": "uk-07-s2",
-            "title": "Questions remain",
-            "body": "Some former participants told the BBC they were relieved by the decision; others called for accountability and answers about how concerns were handled. Channel 4 says its review found no breach of broadcasting rules in its handling of issues raised at the time, but the review’s full report has not been published.",
+            "id": "denmark-04-s2",
+            "title": "Police warning and prevention",
+            "body": "North Jutland Police recorded 118 reports of diesel and other fuel thefts in 2025, compared with 61 in 2023, and have received 92 so far this year. Police say thieves often target parked trucks and machinery to take larger quantities, and advise businesses to use lighting, surveillance, locked fuel caps and secure parking.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/crx233lx94n7o"
+              "https://www.dr.dk/nyheder/indland/jeg-troede-det-var-loegn-dieseltyve-toemmer-henriks-tanke-og-deres-metoder-overrasker-ham"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-01",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Forest stun Manchester City 3-1 as Delap double lifts Glasner’s side",
+        "shortHeadline": "Delap double inspires Forest to stun City",
+        "standfirst": "Nottingham Forest claimed their first home league win of the season, while Manchester City lost a third straight Premier League match. The result leaves City six points behind leaders Arsenal.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-01-image.png",
+          "caption": "Nottingham Forest players and fans celebrate their win over Manchester City.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cvy0red8yl69o",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cvy0red8yl69o",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+            "publisher": "BBC Sport",
+            "originalTitle": "Maresca's dream start turns into nightmare as title hopes hit",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+            "publishedAt": "2026-11-07T20:54:12.162Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cvy0red8yl69o",
+            "publisher": "BBC Sport",
+            "originalTitle": "Glasner glee and Delap double - win could be lift-off for Forest",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cvy0red8yl69o",
+            "publishedAt": "2026-11-07T21:42:59.700Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+        "segments": [
+          {
+            "id": "sport-01-s1",
+            "body": "Jair Cunha put Forest ahead in the sixth minute and Liam Delap scored twice in a 3-1 win over Manchester City. Rayan Cherki pulled one back for City, but Forest held on for a result that brought a jubilant response from their home crowd.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+              "https://www.bbc.com/sport/football/articles/cvy0red8yl69o"
             ]
           },
           {
-            "id": "uk-07-s3",
-            "body": "An Ofcom investigation is ongoing, and Channel 4 bosses are due to appear before a parliamentary committee on 17 November. The BBC reports that the review did not adjudicate on the serious allegations, which remain a matter for the relevant authorities.",
+            "id": "sport-01-s2",
+            "title": "A lift for Forest, questions for City",
+            "body": "It was Forest’s first home Premier League win of the season. Delap’s double was a breakthrough after a slow start at the City Ground; manager Oliver Glasner said the striker was regaining confidence after a difficult spell at Chelsea.\n\nCity have now lost three league games in a row. Enzo Maresca said his team failed to match Forest’s intensity and needed to understand why, while Forest’s win offered a potential turning point after a poor run.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/crx233lx94n7o"
+              "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+              "https://www.bbc.com/sport/football/articles/cvy0red8yl69o"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-02",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Arsenal edge Hull 1-0 to extend their Premier League lead to six points",
+        "shortHeadline": "Odegaard winner sends Arsenal six points clear",
+        "standfirst": "Martin Odegaard’s close-range goal settled a tight game and sent Arsenal into the international break at the top of the table. A disputed VAR decision over a possible penalty on Kai Havertz also drew attention.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-02-image.png",
+          "caption": "Martin Odegaard scores Arsenal’s winner against Hull.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+            "publisher": "BBC Sport",
+            "originalTitle": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+            "publishedAt": "2026-11-07T19:34:32.160Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
+        "segments": [
+          {
+            "id": "sport-02-s1",
+            "body": "Arsenal beat Hull 1-0, with Martin Odegaard scoring the winner in the 72nd minute. The victory gives Mikel Arteta’s side a six-point lead at the top of the Premier League going into the international break.\n\nEarlier, referee Farai Hallam reviewed a shirt pull on Kai Havertz but awarded Hull a free-kick after deciding Havertz was offside. Former assistant referee Darren Cann argued that the foul should have taken precedence and that Arsenal should have had a penalty.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o"
+            ]
+          },
+          {
+            "id": "sport-02-s2",
+            "title": "Results strong, goals harder to find",
+            "body": "Arsenal have won nine of their first 10 league games and have the league’s best defence, but they have not scored more than twice in a league match since the opening day. Arteta said his side needed to be more efficient in front of goal.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-03",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "New Zealand overwhelm Scotland 43-21 to extend their unbeaten record",
+        "shortHeadline": "All Blacks pull clear after Scotland’s bright start",
+        "standfirst": "Scotland’s bid for a first win over New Zealand in 121 years ended in a 43-21 defeat at Murrayfield. The hosts scored three first-half tries but could not add to their total after the break.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-03-image.png",
+          "caption": "Scotland were beaten 43-21 by New Zealand at Murrayfield.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+            "publisher": "BBC Sport",
+            "originalTitle": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+            "publishedAt": "2026-11-07T20:57:12.493Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/sport/rugby-union/scottish",
+            "publisher": "BBC Sport",
+            "originalTitle": "Scottish Rugby",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/scottish"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+        "segments": [
+          {
+            "id": "sport-03-s1",
+            "body": "Scotland were beaten 43-21 by New Zealand, whose second-half surge settled the match. Ewan Ashman scored a first-half hat-trick as Scotland threatened, but the All Blacks outscored the hosts 19-0 after the break and kept their unbeaten record against Scotland intact.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
+              "https://www.bbc.com/sport/rugby-union/scottish"
+            ]
+          },
+          {
+            "id": "sport-03-s2",
+            "title": "Scotland point to discipline and accuracy",
+            "body": "Scotland head coach Gregor Townsend said his team gave New Zealand too many chances through errors and penalties, and could not build on their first-half work. Captain Sione Tuipulotu said the side had not been accurate enough after the break and took responsibility for his yellow card.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/rugby-union/scottish"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/sport/rugby-union/scottish",
+                "body": "Townsend said Scotland’s discipline and ball retention needed to improve; Tuipulotu said his yellow card put the team under pressure and that he took full responsibility."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-04",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "World number one Elena Rybakina withdraws from WTA Finals with illness",
+        "shortHeadline": "Rybakina out of WTA Finals with viral illness",
+        "standfirst": "The reigning champion will not defend her title after withdrawing on the eve of the season-ending tournament. Rybakina said her body was not ready to compete after a standout year.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-04-image.png",
+          "caption": "Elena Rybakina celebrates after winning the WTA Finals in 2025.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
+            "publisher": "BBC Sport",
+            "originalTitle": "World number one Rybakina withdraws from WTA Finals",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
+            "publishedAt": "2026-11-07T21:10:55.301Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
+        "segments": [
+          {
+            "id": "sport-04-s1",
+            "body": "Elena Rybakina has withdrawn from the WTA Finals because of a viral illness. The world number one said she was sad to miss the tournament and needed to rest and recover before preparing for the 2027 season.\n\nRybakina won the Australian Open and US Open in 2026 and secured the year-end top ranking in October. She finishes the season with 54 wins from 68 matches.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-05",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Alcaraz beats Ruud to set up Paris Masters final rematch with Shelton",
+        "shortHeadline": "Alcaraz reaches Paris final to face Shelton again",
+        "standfirst": "Carlos Alcaraz won 6-4 6-4 against Casper Ruud to reach his first Paris Masters final. He will meet Ben Shelton again after Shelton beat him in their US Open quarter-final.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-05-image.png",
+          "caption": "Carlos Alcaraz celebrates a point during his career.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo",
+            "publisher": "BBC Sport",
+            "originalTitle": "Alcaraz sets up Shelton rematch in Paris final",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo",
+            "publishedAt": "2026-11-07T19:54:27.870Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo",
+        "segments": [
+          {
+            "id": "sport-05-s1",
+            "body": "Carlos Alcaraz beat Casper Ruud 6-4 6-4 to reach the Paris Masters final for the first time. The Spaniard won 86% of points behind his first serve and did not face a break point in an 86-minute match.\n\nBen Shelton, who defeated Alcaraz in a five-set US Open quarter-final in September, reached the final with a comeback win over Luca van Assche. Alcaraz has won 15 of his past 16 matches.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/tennis/articles/cw0k06v13xvxo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-06",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Jon Rahm leads Abu Dhabi Championship by one, with McIlroy two back",
+        "shortHeadline": "Rahm holds one-shot lead over Hatton and Laporta",
+        "standfirst": "Jon Rahm carded a six-under-par 66 to take the outright lead after three rounds. Tyrrell Hatton and Francesco Laporta are one shot behind, with Rory McIlroy two back.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-06-image.png",
+          "caption": "Jon Rahm, who is seeking his first individual win outside LIV since the 2023 Masters.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo",
+            "publisher": "BBC Sport",
+            "originalTitle": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
+            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo",
+            "publishedAt": "2026-11-07T14:36:48.245Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo",
+        "segments": [
+          {
+            "id": "sport-06-s1",
+            "body": "Jon Rahm moved to 18 under par with a bogey-free 66 at Yas Links, giving him a one-shot lead before the final round of the Abu Dhabi Championship. Tyrrell Hatton and Francesco Laporta share second place; Rory McIlroy is fourth at 16 under.\n\nMcIlroy had eight birdies in his third round but also dropped shots at the 10th and 17th. He said he would need a low score in the final round to challenge for the lead.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/golf/articles/crq5nvdq726jo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-07",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Manchester City take WSL lead after Shaw hat-trick and Chelsea draw",
+        "shortHeadline": "Shaw hat-trick sends Man City two points clear in WSL",
+        "standfirst": "Khadija Shaw scored three as Manchester City beat West Ham 5-0, while Chelsea were held 1-1 by Everton. City now lead the Women’s Super League by two points ahead of next week’s meeting between the sides.",
+        "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/sport-07-image.png",
+          "caption": "Khadija Shaw has scored 12 goals in nine WSL appearances this season.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+            "credit": null
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+            "publisher": "BBC Sport",
+            "originalTitle": "Title race hots up before Chelsea-Man City showdown",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+            "publishedAt": "2026-11-07T18:27:46.763Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo",
+        "segments": [
+          {
+            "id": "sport-07-s1",
+            "body": "Manchester City moved two points clear at the top of the Women’s Super League after a 5-0 win over West Ham. Khadija Shaw scored a hat-trick, taking her league tally to 12 goals in nine appearances.\n\nChelsea dropped points at home, drawing 1-1 with Everton after Lucy Bronze scored an own goal. Chelsea had 20 shots but could not turn their pressure into a win.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo"
+            ]
+          },
+          {
+            "id": "sport-07-s2",
+            "title": "A pivotal meeting ahead",
+            "body": "The result puts City ahead of Chelsea before the teams meet next week. Shaw said there were still many games and twists to come, while City manager Andrée Jeglertz stressed that the title race would require a sustained effort.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/cm0qkjdx3l9zo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sport-08",
+        "kind": "story",
+        "editorialType": "sport",
+        "headline": "Aberdeen’s 4-0 home defeat deepens pressure on manager Stephen Robinson",
+        "shortHeadline": "Robinson vows to fight after Aberdeen’s 4-0 loss",
+        "standfirst": "Aberdeen slipped into the relegation play-off place after losing heavily to Hibernian at home. Robinson said he would keep fighting, but the result and the team’s form have intensified scrutiny of his position.",
+        "viewerProvenance": "BBC SPORT",
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/crlyk582kpn1o",
+            "publisher": "BBC Sport",
+            "originalTitle": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/crlyk582kpn1o",
+            "publishedAt": "2026-11-08T00:04:00.372Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/crlyk582kpn1o",
+        "segments": [
+          {
+            "id": "sport-08-s1",
+            "body": "Aberdeen lost 4-0 at home to Hibernian, who began the day bottom of the Scottish Premiership. The defeat leaves Aberdeen in the relegation play-off place and is their fourth loss in five league games.\n\nManager Stephen Robinson called the performance and result unacceptable, but said he would keep fighting until told otherwise. No decision on his future is reported.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/crlyk582kpn1o"
+            ]
+          },
+          {
+            "id": "sport-08-s2",
+            "title": "Questions beyond the manager",
+            "body": "Former Aberdeen player Willie Miller criticised the team’s performance and recruitment, while other commentators questioned whether Robinson was the right fit. The BBC report also notes that Aberdeen have changed managers repeatedly since 2021, leaving broader questions about the club’s direction.",
+            "sourceRefs": [
+              "https://www.bbc.com/sport/football/articles/crlyk582kpn1o"
             ]
           }
         ]
@@ -814,7 +1207,7 @@
         "standfirst": "The contest’s first Asian edition brings acts from 11 countries to Bangkok on 14 November. Organisers hope to build a regional event, but questions remain over its audience, voting and how Eurovision’s traditions will travel.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-01-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-01-image.png",
           "caption": "Eurovision Song Contest Asia entrants from Bhutan, South Korea and the Philippines.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/07/eurovision-asia-bangkok-song-contest",
@@ -884,7 +1277,7 @@
         "standfirst": "The rapper says venues withdrew available dates after learning his planned shows would raise funds for Palestine. His account follows his removal from Ed Sheeran’s US tour; the named arenas have not responded in this reporting.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-02-image.png",
           "caption": "Macklemore performs on the Free Palestine tour in Dublin.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
@@ -938,7 +1331,7 @@
         "standfirst": "The band’s 30th-anniversary release packages 160 tracks across CDs or vinyl, but most have appeared in earlier reissues. The review finds the collection’s main novelty in a previously unreleased song featuring Victoria Beckham on lead vocals.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-03-image.png",
           "caption": "The Spice Girls during their 1990s heyday.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much",
@@ -992,7 +1385,7 @@
         "standfirst": "After a decade without an album, the country singer returns with The Hard Truth, a pared-back record shaped by family loss and personal struggle. She describes making it as part of her healing, with songs that address her mother and daughter directly.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-04-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-04-image.png",
           "caption": "Wynonna Judd, whose new album is The Hard Truth.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album",
@@ -1046,7 +1439,7 @@
         "standfirst": "On Sound of a Woman, the actor and songwriter explores ageing, motherhood, illness and self-acceptance. Wilson also reflects on Hollywood’s ageism and why songwriting gave her room to say things her acting roles did not.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-05-image.png",
           "caption": "Rita Wilson, whose album Sound of a Woman is out now.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/rita-wilson-my-body-turned-on-me-4860928",
@@ -1100,7 +1493,7 @@
         "standfirst": "The folk guitarist discusses his 20th solo album, his London musical roots and the 1969 van crash that killed Fairport Convention drummer Martin Lamble and designer Jeannie Franklyn. He says the band did not know how to process the loss.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-06-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-06-image.png",
           "caption": "Richard Thompson, the folk guitarist and former Fairport Convention member.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/fairport-convention-richard-thompson-crash-that-killed-bandmate-4860690",
@@ -1154,7 +1547,7 @@
         "standfirst": "Twenty years after Swift’s debut, a former teenage fan recalls the online community that formed around her early songs. The memory traces how direct contact and a sense of shared discovery helped make an unknown country singer feel like a friend.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-music-07-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-music-07-image.png",
           "caption": "Taylor Swift as a teenage country singer early in her career.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/taylor-swift-myspace-2006-4838174",
@@ -1252,7 +1645,7 @@
         "standfirst": "The actor discusses playing a replicant in Blade Runner 2099 and the career turns that took her from ballet to Hong Kong action films and Hollywood. She also reflects on the limited roles offered to Asian actors and the films that helped shift expectations.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-01-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-01-image.png",
           "caption": "Michelle Yeoh, who plays Olwen in Blade Runner 2099.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
@@ -1306,7 +1699,7 @@
         "standfirst": "The Chilean filmmaker’s death was announced by his partner, Amalia Kassai; no cause was given. Lelio’s films moved between intimate stories and political questions, including the Oscar-winning A Fantastic Woman and the internationally acclaimed Gloria.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-02-image.png",
           "caption": "A still from Sebastián Lelio’s A Fantastic Woman.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
@@ -1377,7 +1770,7 @@
         "standfirst": "Olivia Colman and Alexander Skarsgård star in a fantasy about a husband woven from willow. The film’s deliberately skewed relationship has prompted both comic fascination and criticism over whose desires matter.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-03-image.png",
           "caption": "Olivia Colman as the Fisherwoman in Wicker.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/wicker-unhinged-sexist-loved-it-4856200",
@@ -1446,7 +1839,7 @@
         "standfirst": "A cinema reissue revisits Sylvester Stallone’s 1976 boxing drama as a new film, I Play Rocky, recounts the fight to get it made. Together, the review and reporting trace the film’s blend of working-class struggle and stubborn idealism.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-04-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-04-image.png",
           "caption": "Sylvester Stallone as Rocky Balboa in the 1976 film.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
@@ -1516,7 +1909,7 @@
         "standfirst": "Aaron Sorkin’s follow-up to The Social Network revisits reporting on Facebook’s algorithms and their effects on users. The i Paper’s review finds a chilling film whose portrait of the platform’s power is sharpened by the reviewer’s own difficulty in leaving it.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-05-image.png",
           "caption": "Jeremy Strong as Mark Zuckerberg in The Social Reckoning.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/terrified-watching-social-reckoning-back-scrolling-4814443",
@@ -1614,7 +2007,7 @@
         "standfirst": "From The Thing and Dune to Babylon and Furiosa, this guide revisits films that failed commercially or were dismissed on release. Its case is that box-office disappointment does not settle a film’s value.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-film-07-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-film-07-image.png",
           "caption": "A selection of films once regarded as box-office failures.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/14-film-flops-actually-worth-watching-4825925",
@@ -1668,7 +2061,7 @@
         "standfirst": "Rose Byrne and Meghann Fahy play estranged sisters drawn back into a violent family history. The Guardian finds the opening almost comically relentless, but says the series settles into a more engaging drama when it focuses on the sisters together.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-01-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-01-image.png",
           "caption": "Rose Byrne and Meghann Fahy as sisters Samantha and Charlotte in The Good Daughter.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/07/the-good-daughter-rose-byrne-legal-thriller-peacock-sky-atlantic",
@@ -1722,7 +2115,7 @@
         "standfirst": "Keeley Hawes returns as a midlife assassin, but the Guardian argues that her character’s relationship with her anxious adult son overwhelms the show. The review finds the thriller’s central pairing more damaging than its already convoluted plotting.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-02-image.png",
           "caption": "Keeley Hawes and Freddie Highmore in The Assassin.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video",
@@ -1776,7 +2169,7 @@
         "standfirst": "Keira Knightley, Ben Whishaw and Sarah Lancashire return to Joe Barton’s espionage series. The Guardian accepts its outlandish conspiracies as part of the fun, finding its strongest thread in the friendship between Helen and Sam.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-03-image.png",
           "caption": "Ben Whishaw and Keira Knightley in Black Doves.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw",
@@ -1830,7 +2223,7 @@
         "standfirst": "After a series the reviewer found flat, the final round brings a surprise victory for the Faithful. Bash’s suspicion of Kenny—and his ability to persuade Romesh Ranganathan—changes the outcome and gives the show a late burst of tension.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-04-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-04-image.png",
           "caption": "The Celebrity Traitors cast at the Endgame Round Table.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/one-players-lack-ego-saved-celebrity-traitors-4860909",
@@ -1884,7 +2277,7 @@
         "standfirst": "Netflix’s three-part series revisits the Friends actor’s addiction and death, though Perry had already written about much of his experience. The i Paper’s review finds moving testimony alongside an intrusive focus on his family’s grief and little new scrutiny of the circumstances.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-05-image.png",
           "caption": "Matthew Perry in a photograph accompanying the Netflix documentary review.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/netflix-matthew-perry-documentary-undignified-intrusive-4846045",
@@ -1938,7 +2331,7 @@
         "standfirst": "The BBC has ended its Disney+ partnership, cancelled a planned Christmas special and put future production out to tender, with no new Doctor announced. The i Paper examines the show’s history and the questions facing its next revival.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-06-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-06-image.png",
           "caption": "Several actors who have played the Doctor, including Ncuti Gatwa and Jodie Whittaker.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/sad-slow-death-doctor-who-4741602",
@@ -1992,7 +2385,7 @@
         "standfirst": "The six-part spin-off moves the family-law firm from London to Manchester and centres a predominantly British Asian cast. Its creators say the aim is to retain The Split’s family melodrama while depicting characters living ordinary, contemporary lives.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-07-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-07-image.png",
           "caption": "Ritu Arya and Abi Morgan at the centre of The Split Up.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/the-split-back-with-twist-4764419",
@@ -2046,7 +2439,7 @@
         "standfirst": "After six decades, ITV’s Seven Up! project reaches its final chapter. The i Paper revisits the lives of its contributors and the criticisms of director Michael Apted’s framing, asking what a long-running documentary can reveal—and what it leaves out.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-tv-08-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-tv-08-image.png",
           "caption": "Contributors to the Seven Up! documentary project when they were children.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/little-pill-poison-cast-70-up-resent-4762678",
@@ -2100,7 +2493,7 @@
         "standfirst": "AP Thomson’s strategy game mixes pixel-art fairies, Shakespearean framing and optional songs about Pacific salmon. The Guardian’s critic argues that its unpredictability is not a gimmick but the point of the experience.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-games-01-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-games-01-image.png",
           "caption": "A scene from the pixel-art game Titanium Court.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
@@ -2154,7 +2547,7 @@
         "standfirst": "The Guardian’s Dominik Diamond describes voicing Draga, a sailor in a survival-horror game made by a small, distributed team. The process turns a career-long love of games into a family memory—and a new appreciation for voice acting.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-games-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-games-02-image.png",
           "caption": "Draga, the protagonist of Black Tides Draga’s Wake.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
@@ -2208,7 +2601,7 @@
         "standfirst": "The Guardian’s Lucy James reflects on EA’s reported closure of the studio and cancellation of its next Mass Effect game. Her account combines the news with a personal explanation of why BioWare’s choice-driven worlds mattered to players.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/culture-games-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/culture-games-03-image.png",
           "caption": "A scene from Mass Effect 3, part of BioWare’s role-playing game series.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
@@ -2298,7 +2691,7 @@
         "standfirst": "Lightning helps shape ecosystems, but changing storm conditions could also increase dangerous ignitions. Research suggests possible shifts, especially at higher latitudes, though projections vary widely.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-science-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-science-02-image.png",
           "caption": "Lightning flashes across a storm-darkened sky.",
           "source": {
             "candidateId": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
@@ -2344,7 +2737,7 @@
         "standfirst": "In analyses of conversations between strangers, friends and speed-dating pairs, exchanges with a particular pattern of shifting between topics were linked to greater enjoyment and connection.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-science-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-science-03-image.png",
           "caption": "Two people talk during a conversation.",
           "source": {
             "candidateId": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
@@ -2426,7 +2819,7 @@
         "standfirst": "Federal prosecutors have dismissed the case against the Russian scientist, who spent four months in immigration detention after arriving with frog-embryo samples for research. The reasons given focus on the government’s priorities and resources.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-science-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-science-05-image.png",
           "caption": "Kseniia Petrova leaves a federal courthouse in Boston.",
           "source": {
             "candidateId": "https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos",
@@ -2524,7 +2917,7 @@
         "standfirst": "Researchers from two campaigning organisations say creators use coded references in lifestyle videos to promote paid sexual content elsewhere. TikTok and OnlyFans say they have rules and safeguards against sexual content and underage access.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-tech-02-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-tech-02-image.png",
           "caption": "A person uses a phone displaying TikTok.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
@@ -2570,7 +2963,7 @@
         "standfirst": "Carolyn Marvin says delivery robots do not belong in public space and argues that residents should have a say. The protest has drawn supporters and criticism, and she is contesting a disorderly-conduct ticket.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-tech-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-tech-03-image.png",
           "caption": "Carolyn Marvin blocks a delivery robot during a protest in Philadelphia.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
@@ -2616,7 +3009,7 @@
         "standfirst": "Thailand paused projects and Indonesia halted one development as governments and communities weigh resource demands. The region remains a major growth hub, but new approvals are increasingly tied to energy and water requirements.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-tech-04-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-tech-04-image.png",
           "caption": "A data centre stands within a residential area in Thailand.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
@@ -2662,7 +3055,7 @@
         "standfirst": "DataVita has revised its plan for a Lanarkshire project, saying the site will be grid-served and that wind and solar could connect later. The change raises questions about earlier claims of direct renewable supply.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-tech-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-tech-05-image.png",
           "caption": "The existing DataVita data centre at Chapelhall, near Airdrie.",
           "source": {
             "candidateId": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
@@ -2796,7 +3189,7 @@
         "standfirst": "A journalist’s comparison found that room-by-room smart controls used 18% less gas than his previous manual setup while keeping the house warmer. The result comes from one home and is not a guarantee of savings elsewhere.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-tech-08-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-tech-08-image.png",
           "caption": "Smart radiator controls are part of the heating system tested.",
           "source": {
             "candidateId": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
@@ -2938,7 +3331,7 @@
         "standfirst": "A freelance journalist says someone pitched work in her name and a disputed article appeared under her byline. The journal removed it and says it has changed checks for new writers; the person who submitted the piece denies impersonation.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-ai-03-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-ai-03-image.png",
           "caption": "Caroline Williams says a disputed article was published under her byline without her having written it.",
           "source": {
             "candidateId": "https://inews.co.uk/?p=4823951&preview=true&preview_id=4823951",
@@ -3020,7 +3413,7 @@
         "standfirst": "The Nobel laureate argues that competition to build more capable systems is moving too quickly, while also describing possible benefits such as new materials and better batteries. These are his views, not settled predictions.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-ai-05-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-ai-05-image.png",
           "caption": "An illustration of Geoffrey Hinton, who warns of AI risks while discussing its potential benefits.",
           "source": {
             "candidateId": "https://inews.co.uk/?p=4875624",
@@ -3066,7 +3459,7 @@
         "standfirst": "People who viewed homes after seeing furnished online images say the real properties were bare or run-down. Agents argue virtual staging can help people picture a space and save money, while Rightmove says misleading images can be removed.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-ai-06-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-ai-06-image.png",
           "caption": "AI-generated furniture has been added to this property image; the BBC identifies it as an example of virtual staging.",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cmdxw0xn0k80o",
@@ -3112,7 +3505,7 @@
         "standfirst": "A six-year research hub backed by £10m in public funding and a further £10m from partners plans to combine scans, genetics, blood markers and cognitive tests. Its targets are ambitions, not demonstrated clinical results.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/science-tech-ai-07-image.png",
+          "asset": "./editions/p100-news-20261108T043345031Z-culture-20261107T163305206Z-sport-20261108T043345031Z--local/assets/science-tech-ai-07-image.png",
           "caption": "The project plans to combine brain scans, blood biomarkers, genetics and health data to support dementia assessment.",
           "source": {
             "candidateId": "https://www.bbc.com/news/articles/cm1j34668dy8o",
@@ -3184,407 +3577,6 @@
             ]
           }
         ]
-      },
-      {
-        "id": "sport-01",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Everton fight back to beat Coventry 3-1 as Dewsbury-Hall responds to England sn,",
-        "shortHeadline": "Everton rally past Coventry as Dewsbury-Hall scores",
-        "standfirst": "Kiernan Dewsbury-Hall marked his England omission with a late goal as Everton came from behind to beat Coventry 3-1. Thierno Barry scored twice, lifting Everton to fifth in the Premier League.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-01-image.png",
-          "caption": "Thierno Barry scores twice as Everton fight back to beat Coventry.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
-            "publisher": "BBC Sport",
-            "originalTitle": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
-            "publishedAt": "2026-11-06T23:53:06.904Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo",
-            "publisher": "BBC Sport",
-            "originalTitle": "Lampard feels hair pull should have led to Coventry penalty",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo",
-            "publishedAt": "2026-11-06T23:22:21.017Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
-        "segments": [
-          {
-            "id": "sport-01-s1",
-            "body": "Everton recovered from Yann Gboho’s second-half opener to beat Coventry 3-1 at Hill Dickinson Stadium. Thierno Barry scored twice in five minutes to turn the game around, before Kiernan Dewsbury-Hall sealed the win with a late strike.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cm4g114p9e7go"
-            ]
-          },
-          {
-            "id": "sport-01-s2",
-            "title": "Coventry dispute key decisions",
-            "body": "Coventry manager Frank Lampard felt his side should have had a penalty after James Tarkowski pulled Caleb Yirenkyi’s hair, and also questioned a possible handball in the build-up to Barry’s second goal. Everton manager David Moyes disagreed over the handball and said the hair-pulling rule needed addressing.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo",
-                "body": "Lampard said the hair pull should have been a foul and argued that the decisions could have changed the game. The match report’s analysis considered Coventry had grounds to feel aggrieved over two of the calls."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-02",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Ireland beat Argentina 42-12 but Farrell says they missed a chance to be more",
-        "shortHeadline": "Ireland win big but Farrell wants greater ruthlessness",
-        "standfirst": "Hugo Keenan’s hat-trick helped Ireland begin their home Nations Championship campaign with a six-try win. Andy Farrell praised the performance but said his side could have made more of their territorial dominance.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-02-image.png",
-          "caption": "Ireland celebrate during their win over Argentina.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-            "publisher": "BBC Sport",
-            "originalTitle": "Keenan hat-trick as six-try Ireland beat Pumas",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-            "publishedAt": "2026-11-06T22:06:12.596Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cmde88ppx39go",
-            "publisher": "BBC Sport",
-            "originalTitle": "Six tries and a big win - but were Ireland ruthless?",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cmde88ppx39go",
-            "publishedAt": "2026-11-06T23:57:05.872Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-        "segments": [
-          {
-            "id": "sport-02-s1",
-            "body": "Ireland beat Argentina 42-12 in Dublin, with Hugo Keenan scoring three tries and Dan Sheehan, Sam Prendergast and Ronan Kelleher also crossing. The win puts Ireland top of the northern hemisphere table before the weekend’s other matches.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o"
-            ]
-          },
-          {
-            "id": "sport-02-s2",
-            "title": "A win with room to improve",
-            "body": "Ireland did not score after the 55th minute despite having 59% of the territory. Farrell said they had missed a chance to be ruthless, while Tadhg Beirne also felt they had not capitalised on late opportunities. Captain Sheehan went off after failing a head injury assessment, and several other players had injury concerns.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/cmde88ppx39go"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.bbc.com/sport/rugby-union/articles/cmde88ppx39go",
-                "body": "Farrell said the scoreline was good but the story was Ireland’s missed chance to be more ruthless. He also highlighted the injuries to Sheehan, Robert Baloucoune, Sean Jansen, Josh van der Flier and Mack Hansen."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-03",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Alcaraz saves two match points to beat Fritz and help Jodar reach ATP Finals",
-        "shortHeadline": "Alcaraz saves two match points in Paris win",
-        "standfirst": "Carlos Alcaraz recovered from a set down to beat Taylor Fritz in the Paris Masters quarter-finals. The result also secured Rafael Jodar’s place at the season-ending ATP Finals.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-03-image.png",
-          "caption": "Carlos Alcaraz, who saved two match points to beat Taylor Fritz in Paris.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-            "publisher": "BBC Sport",
-            "originalTitle": "Alcaraz beats Fritz to help Jodar reach ATP finals",
-            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-            "publishedAt": "2026-11-06T22:35:04.622Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-        "segments": [
-          {
-            "id": "sport-03-s1",
-            "body": "Alcaraz saved two match points before beating Fritz 6-7 (10-12) 7-5 6-3. After dropping the first set and falling behind by a break in the second, the Spaniard rallied to take control of the decider and reach the semi-finals.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo"
-            ]
-          },
-          {
-            "id": "sport-03-s2",
-            "body": "The victory ended Fritz’s hopes of qualifying for the ATP Finals and secured a place at the event for fellow Spaniard Rafael Jodar. Jodar, 20, will make his debut at the season-ending tournament in Turin.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-04",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "McIlroy fires 63 to move within one shot of the Abu Dhabi lead",
-        "shortHeadline": "McIlroy’s 63 puts him one shot off the lead",
-        "standfirst": "Rory McIlroy carded 11 birdies in a nine-under-par second round to move to 11 under, one shot behind the shared lead. It followed a two-shot penalty in his opening round.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-04-image.png",
-          "caption": "Rory McIlroy is chasing a sixth successive Race to Dubai crown.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o",
-            "publisher": "BBC Sport",
-            "originalTitle": "McIlroy fires 63 to move into Abu Dhabi contention",
-            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o",
-            "publishedAt": "2026-11-06T11:40:03.849Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o",
-        "segments": [
-          {
-            "id": "sport-04-s1",
-            "body": "McIlroy shot a nine-under-par 63 on Friday to reach 11 under overall at the Abu Dhabi Championship. Jon Rahm, Tyrell Hatton and Francesco Laporta share the lead on 12 under; McIlroy is among four players one shot behind.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o"
-            ]
-          },
-          {
-            "id": "sport-04-s2",
-            "body": "The six-time major winner had started the day eight shots back after a two-shot penalty for improving his lie during the first round. He said he had made peace with the penalty and felt able to focus on his golf, adding that he saw encouraging signs with his putting.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/golf/articles/cq78ppmj0zm3o"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-05",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Scotland look to turn last year’s narrow All Blacks defeat into a first win",
-        "shortHeadline": "Scotland seek a historic first win over New Zealand",
-        "standfirst": "Scotland get another chance to beat New Zealand, a team they have never defeated in 121 years of meetings. Captain Sione Tuipulotu says the side has grown through a difficult year and learned from last season’s narrow loss.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-05-image.png",
-          "caption": "Scotland captain Sione Tuipulotu leads his side against New Zealand.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo",
-            "publisher": "BBC Sport",
-            "originalTitle": "Scotland come full circle for another crack at All Blacks",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo",
-            "publishedAt": "2026-11-06T18:29:09.750Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo",
-        "segments": [
-          {
-            "id": "sport-05-s1",
-            "body": "Scotland meet the All Blacks at Murrayfield on Saturday, still seeking their first win over New Zealand. In last year’s meeting, Scotland came back from 17-0 to level the match before losing 25-17 to a late Damien McKenzie try.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo"
-            ]
-          },
-          {
-            "id": "sport-05-s2",
-            "title": "Lessons from a turbulent year",
-            "body": "Tuipulotu said Scotland had progressed through both landmark wins and difficult defeats. Since last year’s meeting, they have beaten England and France and pushed world champions South Africa close, but the captain said the challenge is to sustain their best rugby for longer.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/cw62yy06dejzo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-06",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Khawaja says Australia’s whole team knew of 2018 ball-tampering",
-        "shortHeadline": "Khawaja says Australia’s whole team knew of sandpaper use",
-        "standfirst": "In extracts from his autobiography, Usman Khawaja says the whole team knew about sandpaper being used to alter the ball in the 2018 South Africa series. Four bowlers, including Pat Cummins, have previously denied prior knowledge.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-06-image.png",
-          "caption": "Usman Khawaja, who has made claims about Australia’s 2018 ball-tampering scandal.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo",
-            "publisher": "BBC Sport",
-            "originalTitle": "Whole Australia team knew of sandpaper use - Khawaja",
-            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo",
-            "publishedAt": "2026-11-06T22:06:57.862Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo",
-        "segments": [
-          {
-            "id": "sport-06-s1",
-            "body": "Usman Khawaja says discussions about tampering with the ball began during the second Test of Australia’s 2018 series in South Africa. In extracts from his autobiography, he says the team knew about the use of sandpaper in the third Test at Cape Town, where Cameron Bancroft was caught on camera.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo"
-            ]
-          },
-          {
-            "id": "sport-06-s2",
-            "title": "Bowlers have denied prior knowledge",
-            "body": "Khawaja says the team should have taken collective responsibility and that he was shocked not to be asked to provide evidence during Cricket Australia’s investigation. Pat Cummins, Mitchell Starc, Josh Hazlewood and Nathan Lyon said in 2021 that they did not know a foreign substance had been taken onto the field.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/cricket/articles/cjdx33kyzk3lo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-07",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Afghan women cricketers criticise overseas signings for men’s league",
-        "shortHeadline": "Afghan women say rights matter more than any league",
-        "standfirst": "Afghan women’s players say overseas cricketers joining the planned Afghanistan Premier League risk ignoring the exclusion of women and girls from sport. The men’s league is expected to start in the UAE but has not been sanctioned by the ICC.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-07-image.png",
-          "caption": "Afghan women’s cricketers Firooza Amiri and Nahida Sapan.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo",
-            "publisher": "BBC Sport",
-            "originalTitle": "Women's rights matter more than any league, say Afghan cricketers",
-            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo",
-            "publishedAt": "2026-11-06T13:40:59.676Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo",
-        "segments": [
-          {
-            "id": "sport-07-s1",
-            "body": "Afghan women’s cricketers have criticised foreign players who signed for the planned men’s Afghanistan Premier League. Nahida Sapan said their participation could send a message that the suffering of Afghan women and girls can be ignored; women’s participation in sport has been effectively outlawed since the Taliban returned to power in 2021.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo"
-            ]
-          },
-          {
-            "id": "sport-07-s2",
-            "title": "Players call for scrutiny",
-            "body": "Firooza Amiri said she was not asking international players to turn their backs on Afghanistan, but to distinguish support for its people from legitimising a system that has taken away women’s rights. Eight English players were signed in the draft, and the league is yet to receive ICC sanction.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "sport-08",
-        "kind": "story",
-        "editorialType": "sport",
-        "headline": "Jobe Bellingham earns first England call-up as Palmer is left out",
-        "shortHeadline": "Jobe Bellingham called up as Palmer misses England squad",
-        "standfirst": "Jobe Bellingham has earned his first senior England call-up after establishing himself at Borussia Dortmund. Cole Palmer was left out, with Thomas Tuchel saying the Chelsea forward has missed too many opportunities to impress.",
-        "viewerProvenance": "BBC SPORT",
-        "image": {
-          "asset": "./editions/p100-news-20261107T163305206Z-culture-20261107T163305206Z-sport-20261107T043311629Z--local/assets/sport-08-image.png",
-          "caption": "Jude and Jobe Bellingham could become the first brothers to play together for England since the Neville brothers.",
-          "source": {
-            "candidateId": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-            "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-            "credit": null
-          }
-        },
-        "sources": [
-          {
-            "candidateId": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-            "publisher": "BBC Sport",
-            "originalTitle": "'A beautiful story' as Bellingham brothers called up",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-            "publishedAt": "2026-11-06T14:16:34.584Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/sport/football/articles/c9e8ll62rp68o",
-            "publisher": "BBC Sport",
-            "originalTitle": "Is Palmer's England career over under Tuchel?",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/c9e8ll62rp68o",
-            "publishedAt": "2026-11-06T16:30:03.674Z"
-          }
-        ],
-        "primarySourceRef": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-        "segments": [
-          {
-            "id": "sport-08-s1",
-            "body": "Jobe Bellingham, 21, has been called into England’s senior squad for the first time. Tuchel said the midfielder had earned the opportunity through his performances at Dortmund, where he has become a regular, and described the call-up as an achievement for the family.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo"
-            ]
-          },
-          {
-            "id": "sport-08-s2",
-            "title": "Palmer faces a fight to return",
-            "body": "Palmer was omitted despite being checked for fitness before the squad was named. Tuchel said Palmer “misses too many opportunities to impress” and that competition for places is open. Palmer has 14 England caps, but has featured in only three of Tuchel’s 26 matches in charge.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/c9e8ll62rp68o"
-            ]
-          }
-        ]
       }
     ],
     "pages": [
@@ -3626,8 +3618,7 @@
           "contentId": "world-03",
           "segmentIds": [
             "world-03-s1",
-            "world-03-s2",
-            "world-03-s3"
+            "world-03-s2"
           ]
         }
       },
@@ -3641,8 +3632,7 @@
           "contentId": "world-04",
           "segmentIds": [
             "world-04-s1",
-            "world-04-s2",
-            "world-04-s3"
+            "world-04-s2"
           ]
         }
       },
@@ -3657,6 +3647,20 @@
           "segmentIds": [
             "world-05-s1",
             "world-05-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-116",
+        "number": "116",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-06",
+          "segmentIds": [
+            "world-06-s1",
+            "world-06-s2"
           ]
         }
       },
@@ -3698,8 +3702,7 @@
           "contentId": "uk-03",
           "segmentIds": [
             "uk-03-s1",
-            "uk-03-s2",
-            "uk-03-s3"
+            "uk-03-s2"
           ]
         }
       },
@@ -3713,52 +3716,62 @@
           "contentId": "uk-04",
           "segmentIds": [
             "uk-04-s1",
-            "uk-04-s2",
-            "uk-04-s3"
+            "uk-04-s2"
           ]
         }
       },
       {
-        "id": "page-125",
-        "number": "125",
-        "sectionId": "uk",
-        "parent": "120",
+        "id": "page-131",
+        "number": "131",
+        "sectionId": "denmark",
+        "parent": "130",
         "template": "news-story",
         "payload": {
-          "contentId": "uk-05",
+          "contentId": "denmark-01",
           "segmentIds": [
-            "uk-05-s1",
-            "uk-05-s2",
-            "uk-05-s3"
+            "denmark-01-s1",
+            "denmark-01-s2"
           ]
         }
       },
       {
-        "id": "page-126",
-        "number": "126",
-        "sectionId": "uk",
-        "parent": "120",
+        "id": "page-132",
+        "number": "132",
+        "sectionId": "denmark",
+        "parent": "130",
         "template": "news-story",
         "payload": {
-          "contentId": "uk-06",
+          "contentId": "denmark-02",
           "segmentIds": [
-            "uk-06-s1",
-            "uk-06-s2"
+            "denmark-02-s1",
+            "denmark-02-s2"
           ]
         }
       },
       {
-        "id": "page-127",
-        "number": "127",
-        "sectionId": "uk",
-        "parent": "120",
+        "id": "page-133",
+        "number": "133",
+        "sectionId": "denmark",
+        "parent": "130",
         "template": "news-story",
         "payload": {
-          "contentId": "uk-07",
+          "contentId": "denmark-03",
           "segmentIds": [
-            "uk-07-s1",
-            "uk-07-s2",
-            "uk-07-s3"
+            "denmark-03-s1"
+          ]
+        }
+      },
+      {
+        "id": "page-134",
+        "number": "134",
+        "sectionId": "denmark",
+        "parent": "130",
+        "template": "news-story",
+        "payload": {
+          "contentId": "denmark-04",
+          "segmentIds": [
+            "denmark-04-s1",
+            "denmark-04-s2"
           ]
         }
       },
@@ -3785,12 +3798,12 @@
           "storyReferenceIds": [
             "headline-world-01",
             "headline-world-02",
-            "headline-uk-02",
-            "headline-uk-03",
-            "headline-world-03",
             "headline-uk-01",
-            "headline-uk-04",
-            "headline-world-04"
+            "headline-world-03",
+            "headline-denmark-01",
+            "headline-world-04",
+            "headline-uk-02",
+            "headline-uk-03"
           ]
         }
       },
@@ -3807,7 +3820,8 @@
             "ref-world-02",
             "ref-world-03",
             "ref-world-04",
-            "ref-world-05"
+            "ref-world-05",
+            "ref-world-06"
           ]
         }
       },
@@ -3823,10 +3837,7 @@
             "ref-uk-01",
             "ref-uk-02",
             "ref-uk-03",
-            "ref-uk-04",
-            "ref-uk-05",
-            "ref-uk-06",
-            "ref-uk-07"
+            "ref-uk-04"
           ]
         }
       },
@@ -3838,7 +3849,141 @@
         "template": "news-index",
         "payload": {
           "title": "DENMARK",
-          "storyReferenceIds": []
+          "storyReferenceIds": [
+            "ref-denmark-01",
+            "ref-denmark-02",
+            "ref-denmark-03",
+            "ref-denmark-04"
+          ]
+        }
+      },
+      {
+        "id": "page-201",
+        "number": "201",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-01",
+          "segmentIds": [
+            "sport-01-s1",
+            "sport-01-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-202",
+        "number": "202",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-02",
+          "segmentIds": [
+            "sport-02-s1",
+            "sport-02-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-203",
+        "number": "203",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-03",
+          "segmentIds": [
+            "sport-03-s1",
+            "sport-03-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-204",
+        "number": "204",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-04",
+          "segmentIds": [
+            "sport-04-s1"
+          ]
+        }
+      },
+      {
+        "id": "page-205",
+        "number": "205",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-05",
+          "segmentIds": [
+            "sport-05-s1"
+          ]
+        }
+      },
+      {
+        "id": "page-206",
+        "number": "206",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-06",
+          "segmentIds": [
+            "sport-06-s1"
+          ]
+        }
+      },
+      {
+        "id": "page-207",
+        "number": "207",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-07",
+          "segmentIds": [
+            "sport-07-s1",
+            "sport-07-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-208",
+        "number": "208",
+        "sectionId": "sport",
+        "parent": "200",
+        "template": "news-story",
+        "payload": {
+          "contentId": "sport-08",
+          "segmentIds": [
+            "sport-08-s1",
+            "sport-08-s2"
+          ]
+        }
+      },
+      {
+        "id": "page-200",
+        "number": "200",
+        "sectionId": "sport",
+        "parent": "100",
+        "template": "news-index",
+        "payload": {
+          "title": "HEADLINES",
+          "storyReferenceIds": [
+            "sport-ref-sport-01",
+            "sport-ref-sport-02",
+            "sport-ref-sport-03",
+            "sport-ref-sport-04",
+            "sport-ref-sport-05",
+            "sport-ref-sport-06",
+            "sport-ref-sport-07",
+            "sport-ref-sport-08"
+          ]
         }
       },
       {
@@ -4694,138 +4839,6 @@
             "science-tech-ref-science-tech-tech-06"
           ]
         }
-      },
-      {
-        "id": "page-201",
-        "number": "201",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-01",
-          "segmentIds": [
-            "sport-01-s1",
-            "sport-01-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-202",
-        "number": "202",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-02",
-          "segmentIds": [
-            "sport-02-s1",
-            "sport-02-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-203",
-        "number": "203",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-03",
-          "segmentIds": [
-            "sport-03-s1",
-            "sport-03-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-204",
-        "number": "204",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-04",
-          "segmentIds": [
-            "sport-04-s1",
-            "sport-04-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-205",
-        "number": "205",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-05",
-          "segmentIds": [
-            "sport-05-s1",
-            "sport-05-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-206",
-        "number": "206",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-06",
-          "segmentIds": [
-            "sport-06-s1",
-            "sport-06-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-207",
-        "number": "207",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-07",
-          "segmentIds": [
-            "sport-07-s1",
-            "sport-07-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-208",
-        "number": "208",
-        "sectionId": "sport",
-        "parent": "200",
-        "template": "news-story",
-        "payload": {
-          "contentId": "sport-08",
-          "segmentIds": [
-            "sport-08-s1",
-            "sport-08-s2"
-          ]
-        }
-      },
-      {
-        "id": "page-200",
-        "number": "200",
-        "sectionId": "sport",
-        "parent": "100",
-        "template": "news-index",
-        "payload": {
-          "title": "HEADLINES",
-          "storyReferenceIds": [
-            "sport-ref-sport-01",
-            "sport-ref-sport-02",
-            "sport-ref-sport-03",
-            "sport-ref-sport-04",
-            "sport-ref-sport-05",
-            "sport-ref-sport-06",
-            "sport-ref-sport-07",
-            "sport-ref-sport-08"
-          ]
-        }
       }
     ],
     "references": [
@@ -4869,7 +4882,7 @@
         "destination": {
           "page": "111"
         },
-        "label": "At least five killed in Kraków square shooting",
+        "label": "Six killed in Kraków shooting; three bodies found at suspect’s home",
         "contentId": "world-01"
       },
       {
@@ -4877,7 +4890,7 @@
         "destination": {
           "page": "112"
         },
-        "label": "Russian strikes hit Ukraine’s power network before talks",
+        "label": "Floods hit tens of thousands of tents in Gaza",
         "contentId": "world-02"
       },
       {
@@ -4885,7 +4898,7 @@
         "destination": {
           "page": "113"
         },
-        "label": "New Zealand election leaves coalition outcome unclear",
+        "label": "Eisenkot gets first chance to form Israel’s next government",
         "contentId": "world-03"
       },
       {
@@ -4893,7 +4906,7 @@
         "destination": {
           "page": "114"
         },
-        "label": "Jehovah’s Witnesses ease blood rules after member’s death",
+        "label": "New Zealand’s close election awaits nearly 400,000 special votes",
         "contentId": "world-04"
       },
       {
@@ -4901,15 +4914,23 @@
         "destination": {
           "page": "115"
         },
-        "label": "Paris climate pact misses target but still guides action",
+        "label": "US offers $20m reward for information on Iran’s nuclear programme",
         "contentId": "world-05"
+      },
+      {
+        "id": "ref-world-06",
+        "destination": {
+          "page": "116"
+        },
+        "label": "Children are most identified trafficking victims in Belarus, report",
+        "contentId": "world-06"
       },
       {
         "id": "ref-uk-01",
         "destination": {
           "page": "121"
         },
-        "label": "Three teenagers arrested after Gloucester sword attack",
+        "label": "Birth centre closures erode maternity choices, campaigners say",
         "contentId": "uk-01"
       },
       {
@@ -4917,7 +4938,7 @@
         "destination": {
           "page": "122"
         },
-        "label": "European leaders press UK for electricity-market deal",
+        "label": "Blood-pressure drug may have lasting effect after treatment stops",
         "contentId": "uk-02"
       },
       {
@@ -4925,7 +4946,7 @@
         "destination": {
           "page": "123"
         },
-        "label": "EU citizens challenge Home Office status decisions",
+        "label": "European leaders urge UK deal on shared electricity market",
         "contentId": "uk-03"
       },
       {
@@ -4933,39 +4954,47 @@
         "destination": {
           "page": "124"
         },
-        "label": "Burnham says rape complainants must not feel on trial",
+        "label": "EU citizens take Home Office to court over lost status rights",
         "contentId": "uk-04"
       },
       {
-        "id": "ref-uk-05",
+        "id": "ref-denmark-01",
         "destination": {
-          "page": "125"
+          "page": "131"
         },
-        "label": "UK blackout preparations face questions over backup systems",
-        "contentId": "uk-05"
+        "label": "Study links two fertility treatments to higher cancer risk in children",
+        "contentId": "denmark-01"
       },
       {
-        "id": "ref-uk-06",
+        "id": "ref-denmark-02",
         "destination": {
-          "page": "126"
+          "page": "132"
         },
-        "label": "UK public EV chargers lack uniform cyber protections",
-        "contentId": "uk-06"
+        "label": "Parking firms told to issue physical tickets before digital bills",
+        "contentId": "denmark-02"
       },
       {
-        "id": "ref-uk-07",
+        "id": "ref-denmark-03",
         "destination": {
-          "page": "127"
+          "page": "133"
         },
-        "label": "Cast react as Married at First Sight UK is cancelled",
-        "contentId": "uk-07"
+        "label": "Stevns Klint earns place on global geology list",
+        "contentId": "denmark-03"
+      },
+      {
+        "id": "ref-denmark-04",
+        "destination": {
+          "page": "134"
+        },
+        "label": "North Jutland businesses report more diesel thefts",
+        "contentId": "denmark-04"
       },
       {
         "id": "headline-world-01",
         "destination": {
           "page": "111"
         },
-        "label": "At least five killed in Kraków square shooting",
+        "label": "Six killed in Kraków shooting; three bodies found at suspect’s home",
         "contentId": "world-01"
       },
       {
@@ -4973,15 +5002,47 @@
         "destination": {
           "page": "112"
         },
-        "label": "Russian strikes hit Ukraine’s power network before talks",
+        "label": "Floods hit tens of thousands of tents in Gaza",
         "contentId": "world-02"
+      },
+      {
+        "id": "headline-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "Birth centre closures erode maternity choices, campaigners say",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "headline-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "Eisenkot gets first chance to form Israel’s next government",
+        "contentId": "world-03"
+      },
+      {
+        "id": "headline-denmark-01",
+        "destination": {
+          "page": "131"
+        },
+        "label": "Study links two fertility treatments to higher cancer risk in children",
+        "contentId": "denmark-01"
+      },
+      {
+        "id": "headline-world-04",
+        "destination": {
+          "page": "114"
+        },
+        "label": "New Zealand’s close election awaits nearly 400,000 special votes",
+        "contentId": "world-04"
       },
       {
         "id": "headline-uk-02",
         "destination": {
           "page": "122"
         },
-        "label": "European leaders press UK for electricity-market deal",
+        "label": "Blood-pressure drug may have lasting effect after treatment stops",
         "contentId": "uk-02"
       },
       {
@@ -4989,40 +5050,79 @@
         "destination": {
           "page": "123"
         },
-        "label": "EU citizens challenge Home Office status decisions",
+        "label": "European leaders urge UK deal on shared electricity market",
         "contentId": "uk-03"
       },
       {
-        "id": "headline-world-03",
+        "id": "sport-nav-200",
         "destination": {
-          "page": "113"
+          "page": "200"
         },
-        "label": "New Zealand election leaves coalition outcome unclear",
-        "contentId": "world-03"
+        "label": "HEADLINES"
       },
       {
-        "id": "headline-uk-01",
+        "id": "sport-ref-sport-01",
         "destination": {
-          "page": "121"
+          "page": "201"
         },
-        "label": "Three teenagers arrested after Gloucester sword attack",
-        "contentId": "uk-01"
+        "label": "Delap double inspires Forest to stun City",
+        "contentId": "sport-01"
       },
       {
-        "id": "headline-uk-04",
+        "id": "sport-ref-sport-02",
         "destination": {
-          "page": "124"
+          "page": "202"
         },
-        "label": "Burnham says rape complainants must not feel on trial",
-        "contentId": "uk-04"
+        "label": "Odegaard winner sends Arsenal six points clear",
+        "contentId": "sport-02"
       },
       {
-        "id": "headline-world-04",
+        "id": "sport-ref-sport-03",
         "destination": {
-          "page": "114"
+          "page": "203"
         },
-        "label": "Jehovah’s Witnesses ease blood rules after member’s death",
-        "contentId": "world-04"
+        "label": "All Blacks pull clear after Scotland’s bright start",
+        "contentId": "sport-03"
+      },
+      {
+        "id": "sport-ref-sport-04",
+        "destination": {
+          "page": "204"
+        },
+        "label": "Rybakina out of WTA Finals with viral illness",
+        "contentId": "sport-04"
+      },
+      {
+        "id": "sport-ref-sport-05",
+        "destination": {
+          "page": "205"
+        },
+        "label": "Alcaraz reaches Paris final to face Shelton again",
+        "contentId": "sport-05"
+      },
+      {
+        "id": "sport-ref-sport-06",
+        "destination": {
+          "page": "206"
+        },
+        "label": "Rahm holds one-shot lead over Hatton and Laporta",
+        "contentId": "sport-06"
+      },
+      {
+        "id": "sport-ref-sport-07",
+        "destination": {
+          "page": "207"
+        },
+        "label": "Shaw hat-trick sends Man City two points clear in WSL",
+        "contentId": "sport-07"
+      },
+      {
+        "id": "sport-ref-sport-08",
+        "destination": {
+          "page": "208"
+        },
+        "label": "Robinson vows to fight after Aberdeen’s 4-0 loss",
+        "contentId": "sport-08"
       },
       {
         "id": "culture-ref-culture-music-01",
@@ -5462,77 +5562,6 @@
           "page": "500"
         },
         "label": "SCIENCE & TECHNOLOGY"
-      },
-      {
-        "id": "sport-nav-200",
-        "destination": {
-          "page": "200"
-        },
-        "label": "HEADLINES"
-      },
-      {
-        "id": "sport-ref-sport-01",
-        "destination": {
-          "page": "201"
-        },
-        "label": "Everton rally past Coventry as Dewsbury-Hall scores",
-        "contentId": "sport-01"
-      },
-      {
-        "id": "sport-ref-sport-02",
-        "destination": {
-          "page": "202"
-        },
-        "label": "Ireland win big but Farrell wants greater ruthlessness",
-        "contentId": "sport-02"
-      },
-      {
-        "id": "sport-ref-sport-03",
-        "destination": {
-          "page": "203"
-        },
-        "label": "Alcaraz saves two match points in Paris win",
-        "contentId": "sport-03"
-      },
-      {
-        "id": "sport-ref-sport-04",
-        "destination": {
-          "page": "204"
-        },
-        "label": "McIlroy’s 63 puts him one shot off the lead",
-        "contentId": "sport-04"
-      },
-      {
-        "id": "sport-ref-sport-05",
-        "destination": {
-          "page": "205"
-        },
-        "label": "Scotland seek a historic first win over New Zealand",
-        "contentId": "sport-05"
-      },
-      {
-        "id": "sport-ref-sport-06",
-        "destination": {
-          "page": "206"
-        },
-        "label": "Khawaja says Australia’s whole team knew of sandpaper use",
-        "contentId": "sport-06"
-      },
-      {
-        "id": "sport-ref-sport-07",
-        "destination": {
-          "page": "207"
-        },
-        "label": "Afghan women say rights matter more than any league",
-        "contentId": "sport-07"
-      },
-      {
-        "id": "sport-ref-sport-08",
-        "destination": {
-          "page": "208"
-        },
-        "label": "Jobe Bellingham called up as Palmer misses England squad",
-        "contentId": "sport-08"
       }
     ]
   }
