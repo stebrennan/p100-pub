@@ -1,18 +1,18 @@
 {
   "schemaVersion": 4,
   "edition": {
-    "id": "p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z",
+    "id": "p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z",
     "revision": "local",
-    "publishedAt": "2026-11-20T04:35:10.131Z",
+    "publishedAt": "2026-11-21T04:36:07.945Z",
     "editionMode": "morning",
     "title": "P100 NEWS + CULTURE + SPORT + SCIENCE & TECHNOLOGY",
-    "deck": "A besieged Yemeni city, new European talks on Ukraine and a closely watched UK-EU summit lead the morning’s coverage.",
-    "editedOn": "2026-11-20",
-    "estimatedReadingMinutes": 9,
-    "editorialNote": "Prioritises overnight developments and consequential reporting. The Ukraine story distinguishes diplomatic claims from the continuing attacks; the Myanmar coverage focuses on the judgment’s possible legal significance rather than repeating yesterday’s verdict report.",
+    "deck": "Overnight, Poland reported a Russian cruise missile among objects that violated its airspace; global markets fell sharply, while climate negotiations ran past their deadline.",
+    "editedOn": "2026-11-21",
+    "estimatedReadingMinutes": 13,
+    "editorialNote": "Prioritise the reported airspace incursion and market falls, then the stalled climate talks and strong investigations. The Danish security story is framed around what authorities allege, not as an established Russian-directed plot.",
     "sourceGather": {
-      "snapshotId": "20261120T043218924Z",
-      "generatedAt": "2026-11-20T04:32:18.924Z"
+      "snapshotId": "20261121T043302242Z",
+      "generatedAt": "2026-11-21T04:33:02.242Z"
     },
     "cultureGather": {
       "snapshotId": "20261119T163321196Z",
@@ -23,8 +23,8 @@
       "generatedAt": "2026-11-19T16:33:21.197Z"
     },
     "sportGather": {
-      "snapshotId": "20261120T043218924Z",
-      "generatedAt": "2026-11-20T04:32:18.924Z"
+      "snapshotId": "20261121T043302242Z",
+      "generatedAt": "2026-11-21T04:33:02.242Z"
     },
     "sections": [
       {
@@ -57,7 +57,8 @@
           "world-04",
           "world-05",
           "world-06",
-          "world-07"
+          "world-07",
+          "world-08"
         ],
         "familyId": "news"
       },
@@ -84,8 +85,7 @@
           "denmark-01",
           "denmark-02",
           "denmark-03",
-          "denmark-04",
-          "denmark-05"
+          "denmark-04"
         ],
         "familyId": "news"
       },
@@ -234,44 +234,51 @@
         "id": "world-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Residents describe hunger and danger as Houthis encircle Yemen’s Taiz",
-        "shortHeadline": "Inside Taiz, cut off by Houthi forces",
-        "standfirst": "Residents and a doctor in the government-controlled city tell the BBC that food, medicine and fuel are running short after Houthi forces encircled Taiz. The group denies the city is under siege.",
+        "headline": "Poland says Russian missile violated its airspace during Ukraine attack",
+        "shortHeadline": "Poland reports Russian missile in its airspace",
+        "standfirst": "Warsaw says a Russian cruise missile was among three objects that entered Polish airspace during an attack on Ukraine. No one was hurt, and Poland calls the incursion a provocation; Moscow has not commented.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/world-01-image.png",
-          "caption": "A view of Taiz, where residents report shortages and continuing Houthi attacks.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-01-image.png",
+          "caption": "CCTV footage shows an explosion after Poland reported a Russian missile in its airspace.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
+            "candidateId": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
             "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
-            "credit": "Ahmad Al-Basha/AFP via Getty Images"
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+            "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
+            "candidateId": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
             "publisher": "BBC News",
-            "originalTitle": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
-            "publishedAt": "2026-11-20T00:13:21.301Z"
+            "originalTitle": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+            "publishedAt": "2026-11-20T12:09:29.487Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cx7v2d8q879eo",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
         "segments": [
           {
             "id": "world-01-s1",
-            "body": "Taiz, Yemen’s third-largest city, has been cut off since Houthi forces tightened their grip last month, the BBC reports. Seven residents described dwindling supplies, rising prices and dangerous journeys around the city. A teacher said she keeps her children indoors because shelling and sniper fire can make even a short trip unsafe.",
+            "body": "Poland says a Russian Kh-101 cruise missile struck a rural area near Nowy Lipowiec early on Friday, one of three objects that violated its airspace. Officials report no injuries or damage. Prime Minister Donald Tusk said the incident did not appear accidental; Russia has not commented.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cx7v2d8q879eo"
+              "https://www.bbc.com/news/articles/cqx2x9dklxnro"
             ]
           },
           {
             "id": "world-01-s2",
-            "title": "Shortages deepen the crisis",
-            "body": "A doctor told the BBC that his hospital was running low on supplies and might be able to continue for only two more weeks. Taiz’s governor said hospitals had lost much of their capacity and that shortages were also costing lives. The Houthis’ leader denies the city is besieged; residents, local officials, aid agencies and the UN dispute that account.",
+            "title": "Allies respond",
+            "body": "Nato chief Mark Rutte condemned what he called grave violations and said Nato jets were scrambled. Poland says it will seek additional support. The incident occurred during Russian attacks on Ukraine and a military exercise involving western allies in southeastern Poland.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cx7v2d8q879eo"
+              "https://www.bbc.com/news/articles/cqx2x9dklxnro"
+            ]
+          },
+          {
+            "id": "world-01-s3",
+            "body": "The incursion came amid deadly Russian strikes on Ukraine. The BBC reports at least eight people were killed in attacks on Kyiv and Lviv, with further deaths and injuries in Kryvyi Rih. Moldova also reported a drone briefly crossing its airspace.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqx2x9dklxnro"
             ]
           }
         ]
@@ -280,74 +287,68 @@
         "id": "world-02",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Ukraine allies prepare for talks as Russia’s attacks continue",
-        "shortHeadline": "Europe readies for Ukraine peace talks",
-        "standfirst": "European leaders say they are ready to negotiate with Moscow, but Russia’s position and the terms of any talks remain uncertain. Kyiv was hit during the diplomatic meetings, with damage reported at several embassies.",
+        "headline": "Global markets slump as AI sell-off sends tech shares lower",
+        "shortHeadline": "AI-linked sell-off pushes global markets lower",
+        "standfirst": "US indexes fell sharply on Friday as investors reassessed the scale and returns of AI investment. Anthropic shares slid on their second day of trading, and losses spread across Asian and European markets.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/world-02-image.png",
-          "caption": "A police officer speaks with residents at a Kyiv apartment building damaged by a Russian drone strike.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-02-image.png",
+          "caption": "Anthropic shares fell on the company's second day of trading, amid a wider technology sell-off.",
           "source": {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+            "candidateId": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
             "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
+            "candidateId": "https://www.bbc.com/news/articles/c6808ym10vzgo",
             "publisher": "BBC News",
-            "originalTitle": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-            "canonicalUrl": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
-            "publishedAt": "2026-11-19T19:16:21.155Z"
+            "originalTitle": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6808ym10vzgo",
+            "publishedAt": "2026-11-20T14:36:26.109Z"
           },
           {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+            "candidateId": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
             "publisher": "The Guardian",
-            "originalTitle": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
-            "publishedAt": "2026-11-20T01:37:48.000Z"
+            "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+            "canonicalUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+            "publishedAt": "2026-11-20T21:38:17.000Z"
           },
           {
-            "candidateId": "https://www.dr.dk/nyheder/udland/merz-tog-et-stykke-af-berlinmuren-med-paa-pressemoede-og-sendte-direkte-budskab-til-putin",
+            "candidateId": "https://www.dr.dk/nyheder/udland/flere-amerikanske-aktier-falder-markant-op-til-weekend",
             "publisher": "DR Nyheder",
-            "originalTitle": "Merz tog et stykke af Berlinmuren med på pressemøde og sendte direkte budskab til Putin",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/merz-tog-et-stykke-af-berlinmuren-med-paa-pressemoede-og-sendte-direkte-budskab-til-putin",
-            "publishedAt": "2026-11-19T17:56:00.000Z"
-          },
-          {
-            "candidateId": "https://www.dr.dk/nyheder/udland/eu-vil-indkalde-russisk-udsending-efter-skader-paa-ambassader-i-kyiv",
-            "publisher": "DR Nyheder",
-            "originalTitle": "EU vil indkalde russisk udsending efter skader på ambassader i Kyiv",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/eu-vil-indkalde-russisk-udsending-efter-skader-paa-ambassader-i-kyiv",
-            "publishedAt": "2026-11-20T03:51:51.000Z"
+            "originalTitle": "Flere amerikanske aktier falder markant op til weekend",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/flere-amerikanske-aktier-falder-markant-op-til-weekend",
+            "publishedAt": "2026-11-20T23:50:35.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6808ym10vzgo",
         "segments": [
           {
             "id": "world-02-s1",
-            "body": "At a Berlin meeting of Ukraine’s allies, European leaders said they were prepared to join negotiations with Russia. US envoy Jared Kushner said Moscow was comfortable with Ukraine receiving an Article 5-style security guarantee; Ukrainian President Volodymyr Zelensky and European leaders remained cautious. Putin said Russia wanted to clarify Europe’s position before deciding how talks might proceed.",
+            "body": "US markets fell sharply on Friday: the S&P 500 closed down 3.7%, the Dow 1.9% and the Nasdaq 5.3%. The S&P 500 and Dow entered correction territory, meaning they were at least 10% below a recent high. Anthropic shares fell 8.5%, giving back part of their first-day gains.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/ckzd9nln5e6go",
-              "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
-              "https://www.dr.dk/nyheder/udland/merz-tog-et-stykke-af-berlinmuren-med-paa-pressemoede-og-sendte-direkte-budskab-til-putin"
+              "https://www.bbc.com/news/articles/c6808ym10vzgo",
+              "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+              "https://www.dr.dk/nyheder/udland/flere-amerikanske-aktier-falder-markant-op-til-weekend"
             ]
           },
           {
             "id": "world-02-s2",
-            "title": "Attacks underline the gap between talks and the war",
-            "body": "Russian strikes on Kyiv killed at least one person and damaged buildings, including the Dutch and Austrian embassies, according to reports from Berlin and Kyiv. The EU foreign-policy chief said the bloc would summon Russia’s envoy; the Netherlands and Sweden also said they would summon Russian representatives. Russia had not commented on the summons at the time of reporting.",
+            "title": "Investors question AI spending",
+            "body": "The reports link the broader sell-off to concerns about whether vast spending on AI infrastructure will produce returns, alongside company-specific worries. The Guardian describes heavy losses across chipmakers and Asian markets; DR reports a Danish pension investment chief saw the week's declines as unusually large, while warning prices could fall further.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/ckzd9nln5e6go",
-              "https://www.dr.dk/nyheder/udland/eu-vil-indkalde-russisk-udsending-efter-skader-paa-ambassader-i-kyiv"
+              "https://www.bbc.com/news/articles/c6808ym10vzgo",
+              "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+              "https://www.dr.dk/nyheder/udland/flere-amerikanske-aktier-falder-markant-op-til-weekend"
             ],
             "treatment": "from-sources",
             "perspectives": [
               {
-                "sourceRef": "https://www.dr.dk/nyheder/udland/eu-vil-indkalde-russisk-udsending-efter-skader-paa-ambassader-i-kyiv",
-                "body": "DR reports that the EU, the Netherlands and Sweden planned to summon Russian representatives after damage to diplomatic premises in Kyiv. The report says it was unclear whether a drone had targeted the area or was brought down there."
+                "sourceRef": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+                "body": "The Guardian's market analysts point to a possible liquidity effect: investors buying Anthropic shares may be selling other technology stocks to raise cash. They also say the pressure has spread beyond a handful of major companies."
               }
             ]
           }
@@ -357,60 +358,66 @@
         "id": "world-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Myanmar genocide judgment may shape future cases, legal experts say",
-        "shortHeadline": "Myanmar ruling could influence future genocide cases",
-        "standfirst": "The International Court of Justice’s ruling has clarified how genocidal intent can be established, according to legal experts. Its reasoning may be relevant to other cases, but does not determine their outcomes.",
+        "headline": "COP31 talks run overtime as countries dispute fossil fuel language",
+        "shortHeadline": "COP31 talks overrun amid dispute on fossil fuels",
+        "standfirst": "Negotiators missed the climate summit's scheduled Friday finish, with countries divided over a draft agreement that omits fossil fuels. African ministers and civil society groups also say climate finance and justice remain unresolved.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/world-03-image.png",
-          "caption": "Rohingya refugees in Bangladesh watch the International Court of Justice deliver its ruling.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-03-image.png",
+          "caption": "Activists stage a silent protest outside the COP31 plenary hall in Antalya.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-            "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-            "credit": "Reuters"
+            "candidateId": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+            "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-            "publisher": "BBC News",
-            "originalTitle": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-            "publishedAt": "2026-11-19T20:02:02.031Z"
+            "candidateId": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+            "publisher": "The Guardian",
+            "originalTitle": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+            "canonicalUrl": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+            "publishedAt": "2026-11-20T20:04:46.000Z"
           },
           {
-            "candidateId": "https://www.dr.dk/nyheder/udland/professor-i-folkeret-myanmars-dom-folkedrab-kan-faa-betydning-israel",
+            "candidateId": "https://www.dr.dk/nyheder/udland/ved-siden-af-dig-staar-der-et-menneske-hvor-konsekvenserne-er-hverdag-klimapanel-svarede-paa",
             "publisher": "DR Nyheder",
-            "originalTitle": "Professor i folkeret: Myanmars dom for folkedrab kan få betydning for Israel",
-            "canonicalUrl": "https://www.dr.dk/nyheder/udland/professor-i-folkeret-myanmars-dom-folkedrab-kan-faa-betydning-israel",
-            "publishedAt": "2026-11-20T04:00:00.000Z"
+            "originalTitle": "’Ved siden af dig står der et menneske, hvor konsekvenserne er hverdag’: Klimapanel svarede på spørgsmål om COP31",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/ved-siden-af-dig-staar-der-et-menneske-hvor-konsekvenserne-er-hverdag-klimapanel-svarede-paa",
+            "publishedAt": "2026-11-20T11:57:23.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/c6ly58ndgd0no",
+        "primarySourceRef": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
         "segments": [
           {
             "id": "world-03-s1",
-            "body": "The ICJ found Myanmar responsible for genocide against the Rohingya, in a ruling that could influence how future cases are argued. BBC international editor Jeremy Bowen reports that the judges considered the totality of the evidence in assessing intent, rather than requiring genocide to be the only possible purpose behind the actions.",
+            "body": "COP31 negotiations in Antalya continued beyond their scheduled Friday finish as nearly 200 countries struggled to agree on a final text. A shorter draft issued earlier in the week dropped references to fossil fuels that had appeared in an earlier version, prompting objections from countries seeking a commitment to move away from them.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-              "https://www.dr.dk/nyheder/udland/professor-i-folkeret-myanmars-dom-folkedrab-kan-faa-betydning-israel"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.dr.dk/nyheder/udland/professor-i-folkeret-myanmars-dom-folkedrab-kan-faa-betydning-israel",
-                "body": "Danish legal expert Frederik Harhoff says the ruling reaffirms the definition of genocide and may be relevant to South Africa’s case against Israel. He stresses that the court cannot impose prison sentences on individuals or enforce its own decisions."
-              }
+              "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
             ]
           },
           {
             "id": "world-03-s2",
-            "title": "A possible legal influence, not a forecast",
-            "body": "The reasoning may matter in South Africa’s case alleging genocide in Gaza, but it does not decide that case. Israel strongly rejects the allegation. The court has ordered Myanmar to pay reparations to Rohingya victims, but it has no enforcement mechanism of its own and implementation will depend on political action.",
+            "title": "Finance and competing priorities",
+            "body": "African ministers said countries facing the worst impacts should not be left to pay for a crisis they did not cause, and called for resources to match declarations. The EU says it and member states provided €32.3bn in public climate finance in 2025 and mobilised €9.3bn in private finance. Negotiators also disagree over carbon capture and the draft's approach to adaptation.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c6ly58ndgd0no",
-              "https://www.dr.dk/nyheder/udland/professor-i-folkeret-myanmars-dom-folkedrab-kan-faa-betydning-israel"
+              "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
+            ]
+          },
+          {
+            "id": "world-03-s3",
+            "body": "A Danish climate researcher speaking to DR sees possible progress on renewable electricity, but says the draft's retreat from fossil-fuel language and lack of agreement on how to increase adaptation support point the other way. The final text remains unsettled.",
+            "sourceRefs": [
+              "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+              "https://www.dr.dk/nyheder/udland/ved-siden-af-dig-staar-der-et-menneske-hvor-konsekvenserne-er-hverdag-klimapanel-svarede-paa"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/udland/ved-siden-af-dig-staar-der-et-menneske-hvor-konsekvenserne-er-hverdag-klimapanel-svarede-paa",
+                "body": "The DR panel's assessment is mixed: renewable power could be an area for practical progress, but it says countries have not agreed how to deliver the proposed increase in adaptation support for lower-income nations."
+              }
             ]
           }
         ]
@@ -419,34 +426,51 @@
         "id": "world-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Pancreatic cancer pill shows promise in early trial, researchers say",
-        "shortHeadline": "Early trial finds promise in pancreatic cancer pill",
-        "standfirst": "With chemotherapy, daraxonrasib made tumours undetectable on scans in some participants and stopped them growing in almost all of a small trial group. Researchers stress that longer studies are needed.",
+        "headline": "Formerly fined bail firm accused of continuing to leave migrants in detention",
+        "shortHeadline": "Bail firm faces fresh allegations over detained migrants",
+        "standfirst": "A BBC investigation traces how companies linked to a firm fined $811m continued operating in the US immigration-bail business. Clients describe delayed releases, lost deposits and uncertainty; the current company denies wrongdoing.",
         "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-04-image.png",
+          "caption": "Mildred Juarez says she remained in immigration detention after friends sent bail money to Libre Immigration Services.",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/cqgm0zlkgrm2o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqgm0zlkgrm2o",
+            "credit": "Submitted photo"
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
+            "candidateId": "https://www.bbc.com/news/articles/cqgm0zlkgrm2o",
             "publisher": "BBC News",
-            "originalTitle": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
-            "publishedAt": "2026-11-20T00:08:22.575Z"
+            "originalTitle": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqgm0zlkgrm2o",
+            "publishedAt": "2026-11-21T01:02:39.890Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cqgm0zlkgrm2o",
         "segments": [
           {
             "id": "world-04-s1",
-            "body": "In an early trial involving 61 people with advanced pancreatic cancer, tumours stopped growing in almost all participants who received daraxonrasib alongside chemotherapy. Cancer was undetectable on scans in one in 12. The results are being presented to doctors, and Cancer Research UK called them a major advance for a disease that is difficult to treat.",
+            "body": "Mildred Juarez says friends sent $2,600 to Libre Immigration Services to secure her release from immigration detention in Texas, but she remained locked up for a month. The company says it connects clients with licensed bail agents; it says another firm ultimately declined to work with Juarez. She was released after her friends hired a different agent and says her deposit was not returned.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cqrmgjnzz9l0o"
+              "https://www.bbc.com/news/articles/cqgm0zlkgrm2o"
             ]
           },
           {
             "id": "world-04-s2",
-            "title": "What remains unknown",
-            "body": "The study followed patients for an average of a year and a half. Doctors say it is too soon to know how long the cancer may stay controlled, whether the treatment will extend survival, or whether tumours that cannot be seen on scans have been eliminated. The findings should not be taken as evidence of a cure.",
+            "title": "A business re-formed",
+            "body": "The BBC reports that Libre Immigration Services was established by a buyer of assets from Libre by Nexus, whose owners and company were found liable in 2024 for predatory practices against clients and fined $811m. A judge later voided the asset sale but did not close the new firm. Its response is that it never held the client lists and it denies wrongdoing.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cqrmgjnzz9l0o"
+              "https://www.bbc.com/news/articles/cqgm0zlkgrm2o"
+            ]
+          },
+          {
+            "id": "world-04-s3",
+            "body": "The investigation includes accounts from former employees and another client who says her friend's bail was not paid for a month after she transferred $10,000. The company says it needed to verify information before pledging the bond. A hearing on alleged violations of the court order has not been scheduled.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqgm0zlkgrm2o"
             ]
           }
         ]
@@ -455,44 +479,51 @@
         "id": "world-05",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Canada courts AI data centres as US communities push back",
-        "shortHeadline": "Canada bets on AI data centres amid US backlash",
-        "standfirst": "Canadian provinces are pitching land, energy and fast approvals to attract data-centre investment, while projects face opposition over power, water and environmental risks. A major Alberta proposal is also being challenged in court.",
+        "headline": "Philippine pet owners seek answers after cremation remains found dumped",
+        "shortHeadline": "Pet owners seek answers after remains found dumped",
+        "standfirst": "Rescuers say they have found about 170 dead pets at 15 sites near Manila, and many owners fear animals they paid to have cremated were discarded instead. Criminal complaints have been filed, but the extent and cause of the dumping remain unclear.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/world-05-image.png",
-          "caption": "Kevin O’Leary is behind a proposed AI data-centre project in Alberta.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-05-image.png",
+          "caption": "Revecca Calling says she wants to know whether her dog Olaf was properly cremated.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
+            "candidateId": "https://www.bbc.com/news/articles/cmn502ek17yvo",
             "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
-            "credit": "Getty Images/O'Leary Digital"
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn502ek17yvo",
+            "credit": "Revecca Calling"
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
+            "candidateId": "https://www.bbc.com/news/articles/cmn502ek17yvo",
             "publisher": "BBC News",
-            "originalTitle": "Why Canada is embracing AI data centres while the US pushes back",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
-            "publishedAt": "2026-11-20T00:13:24.284Z"
+            "originalTitle": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cmn502ek17yvo",
+            "publishedAt": "2026-11-20T23:20:33.098Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cmn502ek17yvo",
         "segments": [
           {
             "id": "world-05-s1",
-            "body": "As opposition to data-centre projects grows in the US, Canadian leaders are seeking to attract investment. Alberta has backed a proposed 7,000-acre facility that would use natural gas to generate its own power. The project still needs permits, and the provincial government exempted it from an environmental impact assessment.",
+            "body": "Chris and Geraldine Taylor, who run an animal rescue group, say they have uncovered 15 sites in Bulacan containing the remains of about 170 pets. Some owners recognised animals from videos and images. Many believe their pets were sent there after being entrusted to cremation businesses, leaving them unsure whether the ashes they received were genuine.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmx2q223z1jlo"
+              "https://www.bbc.com/news/articles/cmn502ek17yvo"
             ]
           },
           {
             "id": "world-05-s2",
-            "title": "Local consent remains a question",
-            "body": "The proposed Alberta site would use an estimated six million cubic metres of water each year, prompting concern from some residents. Sturgeon Lake Cree Nation has sued over the assessment exemption. While governments point to jobs and investment, researchers and residents warn that public opposition could grow if development is not handled carefully.",
+            "title": "What investigators allege",
+            "body": "The Philippines' National Bureau of Investigation filed criminal complaints against four people, including the owner of Ahjay Paws and people connected to another crematorium. The NBI says one business sent remains to the other after its planned cremation machine did not arrive, and that the second firm paid a third party to bury them. Investigators have not confirmed claims that the case involves a wider criminal syndicate.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmx2q223z1jlo"
+              "https://www.bbc.com/news/articles/cmn502ek17yvo"
+            ]
+          },
+          {
+            "id": "world-05-s3",
+            "body": "Ahjay Paws' owner has denied responsibility, according to local media, and the BBC says it could not contact the business. Pet HPHT has called the allegations false. Owners are seeking answers and accountability; animal welfare advocates are offering legal help and calling for a nationwide audit of pet cremation businesses.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cmn502ek17yvo"
             ]
           }
         ]
@@ -501,33 +532,34 @@
         "id": "world-06",
         "kind": "story",
         "editorialType": "news",
-        "headline": "California investigates Nvidia over allegations involving China",
-        "shortHeadline": "California opens Nvidia probe over China allegations",
-        "standfirst": "California’s attorney general is investigating whether Nvidia or its former chief executive’s actions led to advanced chips or confidential information reaching China. The company had not commented on the investigation.",
+        "headline": "Judge approves Bayer's $7.25bn Roundup cancer settlement",
+        "shortHeadline": "Bayer's $7.25bn Roundup settlement gets judge's approval",
+        "standfirst": "A Missouri judge approved a settlement fund for people with non-Hodgkin lymphoma who used Roundup, including some who may become ill in future. Bayer denies that the weedkiller causes cancer, and some lawyers had argued the proposed payouts were inadequate.",
         "viewerProvenance": "BBC NEWS",
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+            "candidateId": "https://www.bbc.com/news/articles/cwvg21gyl650o",
             "publisher": "BBC News",
-            "originalTitle": "California targets Nvidia in China AI chip probe",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
-            "publishedAt": "2026-11-19T23:04:30.693Z"
+            "originalTitle": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cwvg21gyl650o",
+            "publishedAt": "2026-11-21T03:49:09.992Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+        "primarySourceRef": "https://www.bbc.com/news/articles/cwvg21gyl650o",
         "segments": [
           {
             "id": "world-06-s1",
-            "body": "California Attorney General Rob Bonta said his office had served Nvidia with an investigative subpoena. The inquiry will examine whether the company or former chief executive Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information, and whether any conduct could have misled investors or the public. Nvidia had not responded to the BBC’s request for comment.",
+            "body": "A Missouri judge has approved Bayer's $7.25bn settlement of US claims alleging its Roundup weedkiller caused non-Hodgkin lymphoma. The fund is intended for users already diagnosed and for people who develop the cancer in future. Payments are expected to range from $10,000 to $165,000, depending on factors including use and illness severity.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cqn70vxp5p4no"
+              "https://www.bbc.com/news/articles/cwvg21gyl650o"
             ]
           },
           {
             "id": "world-06-s2",
-            "body": "The investigation follows reports about Huang’s relationship with an executive at data-centre company Megaspeed and congressional calls to examine whether Nvidia chips were diverted to China. Megaspeed has said claims about its business and supply chain are not supported by verifiable evidence. The reported allegations have not been established by the probe.",
+            "title": "A long-running dispute",
+            "body": "Bayer will pay into the fund annually for up to 21 years. Some lawyers objected that the amounts would be insufficient, but the judge said he did not want to delay payments to sick claimants. Bayer denies Roundup causes cancer; the settlement follows years of litigation and earlier payouts by the company.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cqn70vxp5p4no"
+              "https://www.bbc.com/news/articles/cwvg21gyl650o"
             ]
           }
         ]
@@ -536,44 +568,104 @@
         "id": "world-07",
         "kind": "story",
         "editorialType": "news",
-        "headline": "US Army delays Iowa blast of unstable explosives after safety concerns",
-        "shortHeadline": "Iowa explosives blast delayed amid toxic-plume fears",
-        "standfirst": "The Army has postponed detonating five tonnes of degrading lead azide until Monday, after residents and environmental groups raised concerns about toxic dust. The Army says the material is too unstable to move safely.",
+        "headline": "South Africa's ANC scrambles to form city coalitions after election losses",
+        "shortHeadline": "ANC seeks city coalitions after South African election setback",
+        "standfirst": "The governing ANC won the most votes nationally but lost ground in local elections and is negotiating to retain influence in major cities. Its reluctance to partner with the Democratic Alliance could reshape coalitions ahead of a 27 November deadline.",
         "viewerProvenance": "BBC NEWS",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/world-07-image.png",
-          "caption": "The Army says detonating the unstable material in place is the safest disposal option.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-07-image.png",
+          "caption": "The ANC won the most votes overall but lost control in many councils it had led after the previous local elections.",
           "source": {
-            "candidateId": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+            "candidateId": "https://www.bbc.com/news/articles/cqpv94d10rwpo",
             "publisher": "BBC News",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqpv94d10rwpo",
+            "credit": "Gallo Images via Getty Images"
+          }
+        },
+        "sources": [
+          {
+            "candidateId": "https://www.bbc.com/news/articles/cqpv94d10rwpo",
+            "publisher": "BBC News",
+            "originalTitle": "ANC fights to keep control of South Africa's key cities after election setback",
+            "canonicalUrl": "https://www.bbc.com/news/articles/cqpv94d10rwpo",
+            "publishedAt": "2026-11-21T00:34:51.223Z"
+          }
+        ],
+        "primarySourceRef": "https://www.bbc.com/news/articles/cqpv94d10rwpo",
+        "segments": [
+          {
+            "id": "world-07-s1",
+            "body": "The African National Congress suffered its weakest local-election result since taking power in 1994. It won 31% of the vote, down from 46% in the previous local election, and led in only two of South Africa's eight cities. Parties have until 27 November to negotiate and form local governments.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqpv94d10rwpo"
+            ]
+          },
+          {
+            "id": "world-07-s2",
+            "title": "Coalitions and service delivery",
+            "body": "The pro-business Democratic Alliance led in Johannesburg, Pretoria and Ekurhuleni, while the ANC appears reluctant to repeat its national power-sharing arrangement with the DA in local councils. The ANC is courting smaller parties, including ActionSA in Gauteng; unstable coalitions have previously disrupted basic services in several cities.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqpv94d10rwpo"
+            ]
+          },
+          {
+            "id": "world-07-s3",
+            "body": "The election reflects mounting frustration over corruption and basic services, including electricity, water and rubbish collection. Analysts quoted by the BBC caution that even new coalitions may need years to address the problems facing municipalities, particularly Johannesburg.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/cqpv94d10rwpo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world-08",
+        "kind": "story",
+        "editorialType": "news",
+        "headline": "Nepal's new prime minister heads to India for high-stakes first visit",
+        "shortHeadline": "Nepal's new leader visits India amid hopes for a reset",
+        "standfirst": "Balendra Shah is due to meet Narendra Modi on Sunday, with trade, energy, air links and flood reconstruction expected on the agenda. Nepal's unresolved border dispute and its close ties with both India and China complicate the effort to reset relations.",
+        "viewerProvenance": "BBC NEWS",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/world-08-image.png",
+          "caption": "Nepal's Prime Minister Balendra Shah is due to visit Delhi for talks with India's Narendra Modi.",
+          "source": {
+            "candidateId": "https://www.bbc.com/news/articles/c6jre8xd83qgo",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6jre8xd83qgo",
             "credit": "Getty Images"
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+            "candidateId": "https://www.bbc.com/news/articles/c6jre8xd83qgo",
             "publisher": "BBC News",
-            "originalTitle": "US army warns detonation of unstable explosives will create toxic plume",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmlye2334wlyo",
-            "publishedAt": "2026-11-20T01:27:27.604Z"
+            "originalTitle": "A new Nepal, an old neighbour - Balendra Shah's India test",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6jre8xd83qgo",
+            "publishedAt": "2026-11-20T23:28:17.217Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6jre8xd83qgo",
         "segments": [
           {
-            "id": "world-07-s1",
-            "body": "The US Army plans to detonate the material at its ammunition plant in Middletown, Iowa, after a routine check found that some water used to stabilise the lead azide had evaporated. The Army says it is safer to destroy the material in place than to move it. The operation, first scheduled for Friday, was delayed until Monday.",
+            "id": "world-08-s1",
+            "body": "Nepal's Prime Minister Balendra Shah arrives in India on Sunday for his first bilateral visit since his party took power in March. Talks with Narendra Modi are expected to cover economic and energy cooperation, air routes and reconstruction after August's floods, which killed more than 1,450 people in Nepal.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmlye2334wlyo"
+              "https://www.bbc.com/news/articles/c6jre8xd83qgo"
             ]
           },
           {
-            "id": "world-07-s2",
-            "title": "Residents and environmental groups object",
-            "body": "The Army warns that the explosions could send lead-containing dust over parts of Iowa and neighbouring Illinois, and has asked residents to leave or remain indoors during the operation. Two environmental groups have sued to stop it, arguing that safer alternatives were not adequately considered. The Army says barriers and water-soaked soil will be used to reduce airborne lead.",
+            "id": "world-08-s2",
+            "title": "A difficult balance",
+            "body": "India is Nepal's largest trading partner and a key source of fuel and transit access, but trade is heavily weighted in India's favour and the neighbours have an unresolved territorial dispute. Nepal is also balancing relations with China: Shah sent a parliamentary delegation there earlier this month before travelling to India.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmlye2334wlyo"
+              "https://www.bbc.com/news/articles/c6jre8xd83qgo"
+            ]
+          },
+          {
+            "id": "world-08-s3",
+            "body": "A former Indian ambassador sees a chance for more pragmatic ties, while a Nepali analyst quoted by the BBC warns that Shah and his advisers lack diplomatic experience. Nepal's government estimates flood reconstruction will cost nearly $5bn, and securing concrete help would be a test of the visit.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6jre8xd83qgo"
             ]
           }
         ]
@@ -582,62 +674,95 @@
         "id": "uk-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "UK and EU near youth mobility deal ahead of Brussels summit",
-        "shortHeadline": "UK and EU near deal on youth mobility",
-        "standfirst": "Negotiators have provisionally agreed a 100,000-person annual cap on a youth scheme, while a compromise on student fees is also reported. Leaders are due to discuss the wider reset package at Friday’s summit.",
+        "headline": "UK and EU agree new food, emissions and youth mobility deals",
+        "shortHeadline": "UK and EU seal food, emissions and youth mobility deals",
+        "standfirst": "The agreements ease many food-export checks, link emissions-trading systems and create reciprocal schemes for up to 100,000 young people each year. A dispute over student fees could still delay approval, while the government says the package could boost growth.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/uk-01-image.png",
-          "caption": "Andy Burnham and European Commission president Ursula von der Leyen at the UN General Assembly.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-01-image.png",
+          "caption": "European Commission President Ursula von der Leyen, UK Prime Minister Andy Burnham and European Council President António Costa at the summit's closing press conference.",
           "source": {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-            "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-            "credit": null
+            "candidateId": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+            "publisher": "BBC News",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+            "credit": "EPA/Shutterstock"
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/c623j4kpg94go",
+            "candidateId": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
             "publisher": "BBC News",
-            "originalTitle": "UK and EU to agree youth mobility scheme, BBC understands",
-            "canonicalUrl": "https://www.bbc.com/news/articles/c623j4kpg94go",
-            "publishedAt": "2026-11-19T14:17:32.325Z"
+            "originalTitle": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "canonicalUrl": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+            "publishedAt": "2026-11-20T17:49:48.220Z"
           },
           {
-            "candidateId": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+            "candidateId": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
             "publisher": "The Guardian",
-            "originalTitle": "UK and EU close to post-Brexit deal as they agree 100,000 youth mobility cap",
-            "canonicalUrl": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-            "publishedAt": "2026-11-19T20:52:05.000Z"
+            "originalTitle": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+            "publishedAt": "2026-11-20T17:57:10.000Z"
           },
           {
-            "candidateId": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+            "candidateId": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
             "publisher": "The Guardian",
-            "originalTitle": "What is at stake at the EU-UK summit in Brussels?",
-            "canonicalUrl": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
-            "publishedAt": "2026-11-19T13:11:23.000Z"
+            "originalTitle": "What exactly is in the deal between the UK and the EU?",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+            "publishedAt": "2026-11-20T18:19:53.000Z"
+          },
+          {
+            "candidateId": "https://inews.co.uk/news/politics/burnham-cut-tuition-fees-eu-students-brexit-deal-collapse-4914711",
+            "publisher": "The i Paper",
+            "originalTitle": "Burnham ready to cut tuition fees for EU students to avoid Brexit deal collapse",
+            "canonicalUrl": "https://inews.co.uk/news/politics/burnham-cut-tuition-fees-eu-students-brexit-deal-collapse-4914711",
+            "publishedAt": "2026-11-20T18:19:06.000Z"
+          },
+          {
+            "candidateId": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+            "publisher": "The Guardian",
+            "originalTitle": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+            "canonicalUrl": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+            "publishedAt": "2026-11-20T18:22:50.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/c623j4kpg94go",
+        "primarySourceRef": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
         "segments": [
           {
             "id": "uk-01-s1",
-            "body": "The UK and EU are close to agreeing a youth mobility scheme that would let up to 100,000 young people from each side travel, work and study across the Channel each year, the BBC reports. The proposed age range is 18 to 31. The agreement is expected to be considered at Friday’s summit in Brussels.",
+            "body": "At Friday's Brussels summit, the UK and EU agreed deals on food and drink, emissions trading and youth mobility. The food agreement is intended to remove most checks on animal and plant products from 2028. The emissions systems are also due to be linked from 2028, while each side is to offer up to 100,000 young people opportunities to live, work, travel and study across the Channel.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c623j4kpg94go",
-              "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-              "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
+              "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+              "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+              "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer"
             ]
           },
           {
             "id": "uk-01-s2",
-            "title": "Other parts of the reset remain in play",
-            "body": "The Guardian reports that the EU dropped its demand for EU students to pay domestic tuition fees, with further negotiations expected on a reduced-fee arrangement. The sides are also seeking agreements on food trade rules and carbon pricing. The details and final outcome of the summit were still pending at the time of reporting.",
+            "title": "Student fees remain unresolved",
+            "body": "The EU says it will not approve the three agreements until the sides resolve how tuition fees for students from the other party will be treated. They have six months to negotiate. The UK has resisted lowering fees for EU students, while EU leaders say they are confident a solution can be found. The Guardian reports that Britain will align with EU rules in the food and emissions areas without voting rights.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/c623j4kpg94go",
-              "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-              "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
+              "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+              "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+              "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+              "https://inews.co.uk/news/politics/burnham-cut-tuition-fees-eu-students-brexit-deal-collapse-4914711"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+                "body": "The Guardian reports that an EU statement outside the joint text makes approval of all three agreements conditional on a fees deal. Burnham says the agreements are done, but their implementation is not yet secure."
+              }
+            ]
+          },
+          {
+            "id": "uk-01-s3",
+            "title": "Economic claims and political challenge",
+            "body": "The UK government says the package could add up to £17bn a year to the economy; opposition leaders dispute the deal's fairness and its claimed economic benefits. Burnham says the agreements are a step towards closer cooperation but that any further relationship will be considered later. Parliament is expected to receive implementing legislation next week.",
+            "sourceRefs": [
+              "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
+              "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+              "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+              "https://inews.co.uk/news/politics/burnham-cut-tuition-fees-eu-students-brexit-deal-collapse-4914711"
             ]
           }
         ]
@@ -646,50 +771,59 @@
         "id": "uk-02",
         "kind": "story",
         "editorialType": "news",
-        "headline": "UK and EU plan talks on returning rejected asylum seekers to third countries",
-        "shortHeadline": "UK and EU to discuss third-country asylum returns",
-        "standfirst": "A draft summit statement would open a formal dialogue on returns to third countries. The UK says it is exploring options, but the proposed talks do not amount to an agreed returns scheme.",
+        "headline": "Blackpool's young jobseekers face a cycle of rejection and inexperience",
+        "shortHeadline": "Blackpool's young jobseekers caught in an experience trap",
+        "standfirst": "More than one in five 16- to 24-year-olds in Blackpool are out of work and education, the highest share in England. Young applicants describe fierce competition and recruitment barriers, while local support programmes try to connect them with training and jobs.",
         "viewerProvenance": "MULTIPLE SOURCES",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-02-image.png",
+          "caption": "Amy Butterworth describes a difficult search for work in Blackpool.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+            "candidateId": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
             "publisher": "The Guardian",
-            "originalTitle": "UK and EU plan first talks on sending refused asylum seekers to third countries",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-            "publishedAt": "2026-11-19T19:02:45.000Z"
+            "originalTitle": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
+            "canonicalUrl": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+            "publishedAt": "2026-11-20T15:00:32.000Z"
           },
           {
-            "candidateId": "https://inews.co.uk/news/politics/uk-open-mind-rwanda-migrant-plan-4912556",
+            "candidateId": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
             "publisher": "The i Paper",
-            "originalTitle": "UK open to joining future European Rwanda migrant return scheme",
-            "canonicalUrl": "https://inews.co.uk/news/politics/uk-open-mind-rwanda-migrant-plan-4912556",
-            "publishedAt": "2026-11-18T19:47:37.000Z"
+            "originalTitle": "Rayner’s crackdown on zero-hours contracts faces being scaled back",
+            "canonicalUrl": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
+            "publishedAt": "2026-11-19T16:02:03.000Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+        "primarySourceRef": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
         "segments": [
           {
             "id": "uk-02-s1",
-            "body": "A draft statement for Friday’s UK-EU summit proposes a structured dialogue on migration, including returns to third countries for people whose asylum claims have been rejected. The proposal would be the first formal UK-EU discussion of this kind. It was not yet an agreed policy or an operating scheme.",
+            "body": "Blackpool has England's highest proportion of 16- to 24-year-olds not in education, employment or training: more than one in five, according to the report. Amy Butterworth, 19, says she has sent many applications but is repeatedly told she lacks experience. In one case, interview slots offered by a retailer were gone within minutes.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-              "https://inews.co.uk/news/politics/uk-open-mind-rwanda-migrant-plan-4912556"
+              "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle"
             ]
           },
           {
             "id": "uk-02-s2",
-            "title": "The model remains uncertain",
-            "body": "The UK government says it supports exploring returns hubs, and a minister told the i Paper that Britain was watching a plan involving Rwanda with close interest. That European plan concerns people who have exhausted legal routes and differs from the scrapped UK scheme, which would have sent people to have their asylum claims processed in Rwanda. Refugee advocates warn that third-country removals could be costly and distressing.",
+            "title": "Local obstacles and support",
+            "body": "The report describes scarce year-round work, with some employers receiving 200 applications for each vacancy. It also cites concerns about AI screening and postcode-based exclusions, and notes high school absence and exclusion rates. Blackpool's Platform youth hub says it has supported more than 2,350 young people into learning, training or work since 2022.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-              "https://inews.co.uk/news/politics/uk-open-mind-rwanda-migrant-plan-4912556"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://inews.co.uk/news/politics/uk-open-mind-rwanda-migrant-plan-4912556",
-                "body": "The i Paper reports that the proposed European arrangement would apply after migrants had exhausted legal avenues, unlike the former UK plan to send people to Rwanda for their claims to be processed."
-              }
+              "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle"
+            ]
+          },
+          {
+            "id": "uk-02-s3",
+            "body": "Butterworth found training to work in a bar through the hub and hopes to become a tattooist. Her experience comes amid a wider UK debate about how to reduce youth unemployment without making employers less willing to hire, including discussion of proposed changes to zero-hours contracts.",
+            "sourceRefs": [
+              "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+              "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234"
             ]
           }
         ]
@@ -698,34 +832,44 @@
         "id": "uk-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Lawyer seeks urgent review of Lucy Letby convictions after witness revelations",
-        "shortHeadline": "Letby lawyer seeks urgent review after witness revelations",
-        "standfirst": "A key prosecution expert was barred by his hospital from treating patients over safety concerns during Letby’s trial, the Guardian reports. Her lawyer says the information should prompt an urgent review; no court has overturned her convictions.",
-        "viewerProvenance": "THE GUARDIAN",
+        "headline": "Ministers weigh further changes to zero-hours contract reforms",
+        "shortHeadline": "Zero-hours reforms may be softened over hiring concerns",
+        "standfirst": "The government is still deciding how its proposed guaranteed-hours rights would apply, with ministers considering thresholds and possible exemptions. Supporters say the changes should curb insecurity; critics fear they could deter hiring, particularly of young people.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-03-image.png",
+          "caption": "Proposed changes to zero-hours contracts could affect employers' hiring decisions.",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
-            "publisher": "The Guardian",
-            "originalTitle": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
-            "publishedAt": "2026-11-19T13:24:54.000Z"
+            "candidateId": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
+            "publisher": "The i Paper",
+            "originalTitle": "Rayner’s crackdown on zero-hours contracts faces being scaled back",
+            "canonicalUrl": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
+            "publishedAt": "2026-11-19T16:02:03.000Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
+        "primarySourceRef": "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234",
         "segments": [
           {
             "id": "uk-03-s1",
-            "body": "Lucy Letby’s lawyer is asking the Criminal Cases Review Commission to refer her convictions back to the Court of Appeal. The request follows reporting that Prof Peter Hindmarsh, whose evidence was important to the prosecution’s insulin-poisoning case, had been barred from clinical practice by his hospital while the trial was underway.",
+            "body": "Ministers are considering how far to extend a right for workers on zero-hours contracts to be offered guaranteed hours based on regular work. Possible rules include a threshold of eight to 20 hours a week, but options under discussion range as high as 48 hours. The government has not published its response to the consultation or set out a final policy.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations"
+              "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234"
             ]
           },
           {
             "id": "uk-03-s2",
-            "title": "Questions about disclosure",
-            "body": "The jury was not told of the hospital restriction or a tribunal order requiring Hindmarsh to be supervised in clinical work. The CPS says it was not informed of those developments. Letby’s lawyer argues the information could have affected the defence; legal experts quoted by the Guardian say non-disclosure about an expert may be relevant to an appeal, depending on the facts. Letby remains convicted of murdering seven babies and attempting to murder seven others.",
+            "title": "The trade-off",
+            "body": "Former minister Alan Milburn has urged caution, citing government estimates that the proposals could cost businesses between £350m and £2.9bn a year and research suggesting some employers may reduce permanent recruitment. Supporters of reform argue that zero-hours arrangements can leave workers bearing the risk of uncertain hours and pay. The government says it is considering consultation responses.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations"
+              "https://inews.co.uk/news/politics/rayners-restrictions-zero-hour-contracts-watered-down-4911234"
             ]
           }
         ]
@@ -734,36 +878,43 @@
         "id": "uk-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Bradford councillor stabbed while canvassing; man arrested",
-        "shortHeadline": "Bradford councillor stabbed; man arrested",
-        "standfirst": "Independent councillor Ibrar Ali is in hospital with serious but non-life-threatening injuries after an attack while canvassing. Police say there is no indication yet that it was politically motivated.",
+        "headline": "Far-right activist jailed for slashing asylum seekers' dinghy in Channel",
+        "shortHeadline": "Activist jailed for slashing Channel migrant boat",
+        "standfirst": "Daniel Thomas received a 15-month sentence after admitting criminal damage to a dinghy being assisted by rescue crews. The judge said his actions disrupted lifesaving and border-force work; Thomas's defence described the incident as performative activism.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/uk-04-image.png",
-          "caption": "Bradford councillor Ibrar Ali.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-04-image.png",
+          "caption": "Daniel Thomas, who was sentenced after admitting he slashed a dinghy that had carried asylum seekers.",
           "source": {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
             "publisher": "The Guardian",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
             "publisher": "The Guardian",
-            "originalTitle": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
-            "publishedAt": "2026-11-19T19:18:56.000Z"
+            "originalTitle": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
+            "publishedAt": "2026-11-20T16:08:42.000Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
         "segments": [
           {
             "id": "uk-04-s1",
-            "body": "A 32-year-old man has been arrested on suspicion of attempted murder after councillor Ibrar Ali was stabbed in Bradford on Thursday. Ali was taken to hospital with injuries described by police as serious but not life-threatening. Police said the investigation was at an early stage and there was nothing to suggest a political motive.",
+            "body": "Daniel Thomas, founder of the anti-migration group Patriot Platform, was sentenced to 15 months in prison after admitting he slashed a dinghy in the Channel. The judge said he had deliberately interfered with Border Force, coastguard and RNLI operations. Thomas livestreamed the incident as rescue crews approached the boat.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali"
+              "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel"
+            ]
+          },
+          {
+            "id": "uk-04-s2",
+            "body": "The RNLI said the people on board had been at sea for 36 hours, with concerns about their deteriorating health and the dinghy failing. Thomas's barrister called the case unique and said the damage was a spur-of-the-moment opportunity, not premeditated. Thomas had five previous convictions, the prosecution told the court.",
+            "sourceRefs": [
+              "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel"
             ]
           }
         ]
@@ -772,44 +923,43 @@
         "id": "uk-05",
         "kind": "story",
         "editorialType": "news",
-        "headline": "NHS hospitals to offer Alzheimer’s blood tests before trials conclude",
-        "shortHeadline": "Hospitals to expand access to Alzheimer’s blood tests",
-        "standfirst": "Some NHS hospitals plan to introduce blood tests for Alzheimer’s from early next year, potentially speeding diagnosis. Availability is likely to vary, and large trials are still under way.",
-        "viewerProvenance": "THE I PAPER",
+        "headline": "Forecasters warn of UK's coldest autumn night so far",
+        "shortHeadline": "UK faces its coldest night of autumn so far",
+        "standfirst": "Temperatures could fall to -9C in parts of Scotland, with sub-zero conditions farther south. A cold-health alert remains in force across several northern regions until Monday morning, and flooding is possible in parts of England.",
+        "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/uk-05-image.png",
-          "caption": "A blood test could help shorten the time needed to investigate memory problems.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-05-image.png",
+          "caption": "Snow in Tow Law, County Durham, earlier this week.",
           "source": {
-            "candidateId": "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917",
-            "publisher": "The i Paper",
-            "canonicalUrl": "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917",
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917",
-            "publisher": "The i Paper",
-            "originalTitle": "The simple test that will diagnose Alzheimer’s within days – available next year",
-            "canonicalUrl": "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917",
-            "publishedAt": "2026-11-19T14:00:00.000Z"
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+            "publisher": "The Guardian",
+            "originalTitle": "Friday night will be ‘coldest of the autumn so far’, UK forecasters say",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+            "publishedAt": "2026-11-20T13:18:00.000Z"
           }
         ],
-        "primarySourceRef": "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917",
+        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
         "segments": [
           {
             "id": "uk-05-s1",
-            "body": "A blood test measuring a form of tau protein could help doctors assess whether memory problems are caused by Alzheimer’s. Some hospitals are preparing to offer the test through memory clinics or neurology departments, with Manchester Brain Health Centre saying it expects to begin in the coming weeks. Diagnosis can currently take months or longer.",
+            "body": "The Met Office forecast the coldest night of the autumn so far on Friday, with lows of -8C to -9C possible in some Scottish glens and sub-zero temperatures farther south. A low of -8.4C had already been recorded at Tulloch Bridge in the Highlands overnight on Thursday.",
             "sourceRefs": [
-              "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917"
+              "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk"
             ]
           },
           {
             "id": "uk-05-s2",
-            "title": "Access and evidence remain limited",
-            "body": "Two large trials assessing how the tests fit into NHS care are due to finish in 2029, and there is no central register of which hospitals currently offer them. People outside participating hospitals may have to pay privately. Doctors warn that tests taken outside a clinical assessment could produce false positives; a result needs to be interpreted alongside a patient’s symptoms and examination.",
+            "body": "A yellow cold-health alert is in force for north-west and north-east England and Yorkshire and the Humber until 9am on Monday. The UK Health Security Agency says such conditions may increase pressure on health services and risks for vulnerable people. Twelve flood alerts were also in place for England after wet weather.",
             "sourceRefs": [
-              "https://inews.co.uk/news/alzheimers-dementia-blood-test-nhs-4911917"
+              "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk"
             ]
           }
         ]
@@ -818,26 +968,51 @@
         "id": "uk-06",
         "kind": "story",
         "editorialType": "news",
-        "headline": "UK-EU summit draft includes talks on third-country asylum returns",
-        "shortHeadline": "UK and EU draft plans migration dialogue",
-        "standfirst": "The proposed dialogue would cover returns to third countries, a potentially significant addition to the reset agenda. It remains a draft and does not establish where or how anyone would be removed.",
-        "viewerProvenance": "THE GUARDIAN",
+        "headline": "Measles losses in US renew warning over falling UK vaccination rates",
+        "shortHeadline": "US measles status lost as UK vaccination rates fall",
+        "standfirst": "The US has lost its measles-free status after a prolonged outbreak, while UK vaccination coverage has declined over the past decade. A House of Lords report warns of widening inequalities and calls for better services in communities at risk.",
+        "viewerProvenance": "THE I PAPER",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-06-image.png",
+          "caption": "Measles can cause serious illness, but vaccination can prevent it.",
+          "source": {
+            "candidateId": "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737",
+            "publisher": "The i Paper",
+            "canonicalUrl": "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-            "publisher": "The Guardian",
-            "originalTitle": "UK and EU plan first talks on sending refused asylum seekers to third countries",
-            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-            "publishedAt": "2026-11-19T19:02:45.000Z"
+            "candidateId": "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737",
+            "publisher": "The i Paper",
+            "originalTitle": "Why the US has joined the UK on a warning list for a deadly disease",
+            "canonicalUrl": "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737",
+            "publishedAt": "2026-11-18T03:14:42.000Z"
           }
         ],
-        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+        "primarySourceRef": "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737",
         "segments": [
           {
             "id": "uk-06-s1",
-            "body": "A draft joint statement for the UK-EU summit would establish a structured dialogue on migration, including returns to third countries. The discussions would sit alongside cooperation on border management and action against smuggling networks. The draft was expected to be considered by leaders on Friday.",
+            "body": "The US, Bolivia and Mexico have lost verification that measles is no longer circulating endemically, following a sustained outbreak that began in early 2025, the Pan American Health Organization says. The US has reported more than 4,000 cases this year. The UK lost its measles-free status earlier this year.",
             "sourceRefs": [
-              "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs"
+              "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737"
+            ]
+          },
+          {
+            "id": "uk-06-s2",
+            "title": "UK vaccination gap",
+            "body": "A House of Lords committee says pre-school vaccination rates in England have fallen for more than a decade and are below the World Health Organization standard. Coverage of the first MMR dose fell from almost 93% around 2013 to below 88% in 2025-26. The report links lower coverage to poverty and service pressures, and says inequalities between communities have widened.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737"
+            ]
+          },
+          {
+            "id": "uk-06-s3",
+            "body": "Measles can cause serious complications and is highly contagious, but vaccination can prevent it. The report says changes to NHS services, pressure on GPs and reduced continuity of care have contributed to falling uptake. The UK and US figures in the report are not a prediction of where outbreaks will spread next.",
+            "sourceRefs": [
+              "https://inews.co.uk/news/health/measles-outbreak-epidemic-endemic-us-uk-vaccination-children-4910737"
             ]
           }
         ]
@@ -846,33 +1021,43 @@
         "id": "uk-07",
         "kind": "story",
         "editorialType": "news",
-        "headline": "NAO warns next BBC cuts may be more noticeable to audiences",
-        "shortHeadline": "Next BBC cuts may be more visible to audiences",
-        "standfirst": "A National Audit Office report says the BBC will face harder choices as it works towards a £500m savings target. It also says the corporation has not properly tracked the cumulative effect of cuts on audiences and services.",
-        "viewerProvenance": "BBC NEWS",
+        "headline": "Teacher arrested after missing sentencing for assaults on schoolboys",
+        "shortHeadline": "Teacher arrested after missing indecent-assault sentencing",
+        "standfirst": "Sally-Anne Bowen was arrested in Hampshire after failing to attend court for sentencing over indecent assaults on two pupils in the 1980s. A new sentencing date is to be set; Bowen had denied the allegations at trial.",
+        "viewerProvenance": "THE GUARDIAN",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/uk-07-image.png",
+          "caption": "Sally-Anne Bowen was convicted of seven counts of indecent assault and later arrested after missing sentencing.",
+          "source": {
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+            "publisher": "The Guardian",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/news/articles/cmpdwev0jgp6o",
-            "publisher": "BBC News",
-            "originalTitle": "Next round of BBC cuts will be more noticeable to audiences, report warns",
-            "canonicalUrl": "https://www.bbc.com/news/articles/cmpdwev0jgp6o",
-            "publishedAt": "2026-11-20T00:38:57.082Z"
+            "candidateId": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+            "publisher": "The Guardian",
+            "originalTitle": "Police arrest teacher who missed sentencing after indecent assault conviction",
+            "canonicalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+            "publishedAt": "2026-11-20T19:00:11.000Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/news/articles/cmpdwev0jgp6o",
+        "primarySourceRef": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
         "segments": [
           {
             "id": "uk-07-s1",
-            "body": "The National Audit Office says the BBC’s next round of cost reductions is likely to be harder to deliver and more noticeable to audiences. The corporation has already announced job, programme and service cuts but still has savings to make. The NAO says the workforce is expected to shrink by 11% over three years.",
+            "body": "Sally-Anne Bowen, 65, was arrested in Hampshire on suspicion of failing to appear at Harrow Crown Court, where she was due to be sentenced after being convicted of seven counts of indecent assault. The court heard she had not been found at her home after a warrant was issued.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmpdwev0jgp6o"
+              "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
             ]
           },
           {
             "id": "uk-07-s2",
-            "body": "The report says licence-fee income has fallen in real terms over the past decade and weekly use of BBC services has declined. It also criticises the BBC for not properly monitoring the accumulated effect of earlier savings on audiences, service quality and its ability to deliver. The corporation says the savings programme is on track and that it accepts the NAO’s recommendations.",
+            "body": "The Met said officers from a neighbouring force located and arrested Bowen at about 3pm on Friday. A new sentencing date will be set. The trial concerned sexual relationships with two pupils at a north London boys' school in the late 1980s; Bowen denied the allegations and called them a fabrication.",
             "sourceRefs": [
-              "https://www.bbc.com/news/articles/cmpdwev0jgp6o"
+              "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
             ]
           }
         ]
@@ -881,44 +1066,83 @@
         "id": "denmark-01",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Rigshospitalet says capacity limits led it to reject 12 donor livers",
-        "shortHeadline": "Rigshospitalet rejected 12 donor livers over capacity",
-        "standfirst": "Five of the livers might have been suitable for children, the hospital’s latest report says. It says the figures do not mean 12 patients could have received transplants, and that urgent cases were checked for a match.",
+        "headline": "Denmark expels Russian defence attaché after alleged plot against rapper",
+        "shortHeadline": "Denmark expels Russian diplomat over alleged rapper plot",
+        "standfirst": "The government says a Russian defence attaché must leave within seven days after investigators reported indications that people linked to the banned Loyal to Familia gang helped plan an attack on Ukrainian-American rapper Kyivstoner. Russia denies involvement.",
         "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/denmark-01-image.png",
-          "caption": "Rigshospitalet in Copenhagen.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/denmark-01-image.png",
+          "caption": "Concert organiser Albina Serhiienko with Kyivstoner and his wife on the evening the performance was cancelled.",
           "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+            "candidateId": "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
             "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+            "candidateId": "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg",
             "publisher": "DR Nyheder",
-            "originalTitle": "Rigshospitalet opjusterer: Har afvist 12 donorlevere på grund af manglende kapacitet",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
-            "publishedAt": "2026-11-19T19:12:02.000Z"
+            "originalTitle": "Russisk diplomat bliver udvist af Danmark efter sag om attentatforsøg",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg",
+            "publishedAt": "2026-11-20T16:58:14.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/det-ved-vi-om-rapperen-som-rusland-angiveligt-ville-have-draebt-i-danmark",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Det ved vi om rapperen, som Rusland angiveligt ville have dræbt i Danmark",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/det-ved-vi-om-rapperen-som-rusland-angiveligt-ville-have-draebt-i-danmark",
+            "publishedAt": "2026-11-20T14:40:00.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/udland/fsb-har-tidligere-anklaget-rapper-organisering-af-terrorforsoeg",
+            "publisher": "DR Nyheder",
+            "originalTitle": "FSB har tidligere anklaget rapper for organisering af terrorforsøg",
+            "canonicalUrl": "https://www.dr.dk/nyheder/udland/fsb-har-tidligere-anklaget-rapper-organisering-af-terrorforsoeg",
+            "publishedAt": "2026-11-20T14:26:08.000Z"
+          },
+          {
+            "candidateId": "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
+            "publisher": "DR Nyheder",
+            "originalTitle": "Albina havde arrangeret koncert med ukrainsk rapper - så blev hun kontaktet af PET",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
+            "publishedAt": "2026-11-20T19:23:15.000Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg",
         "segments": [
           {
             "id": "denmark-01-s1",
-            "body": "Rigshospitalet rejected 12 donor livers between October 2025 and September 2026 because of capacity constraints, according to a new report from the Capital Region. Five could potentially have been used for a child. The figure is higher than the 10 previously reported.",
+            "body": "Denmark has ordered Russia's defence attaché to leave within seven days, with Foreign Minister Lars Løkke Rasmussen saying the move sends a signal. The government says it will also stop issuing non-essential visas to Russian citizens and proposes tougher penalties for crimes carried out on behalf of a foreign state.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet"
+              "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg"
             ]
           },
           {
             "id": "denmark-01-s2",
-            "title": "Staffing pressures extend to other operations",
-            "body": "The hospital says the rejected offers do not mean 12 Danish patients could have received transplants, since compatibility was not established in each case. It says urgent cases were always checked for a match and that no patient with an acute, life-threatening need was affected. The report also describes shortages of specialist surgeons for liver transplants and pancreatic cancer operations.",
+            "title": "What authorities allege",
+            "body": "PET says there are indications that senior members of the banned gang Loyal to Familia helped plan an attempted killing of Kyivstoner, a Ukrainian-American rapper, during a September visit. Two Danish men with alleged gang links are suspected of being hired by Russia's FSB; they were arrested near the concert venue. Russia's embassy denies Russian involvement.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet"
+              "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg",
+              "https://www.dr.dk/nyheder/udland/det-ved-vi-om-rapperen-som-rusland-angiveligt-ville-have-draebt-i-danmark",
+              "https://www.dr.dk/nyheder/udland/fsb-har-tidligere-anklaget-rapper-organisering-af-terrorforsoeg"
+            ]
+          },
+          {
+            "id": "denmark-01-s3",
+            "title": "The cancelled concert",
+            "body": "Concert organiser Albina Serhiienko says PET contacted her a week before the show and asked that the rapper be protected. The performance was cancelled shortly before doors opened, but she says police asked her not to tell guests why. She says she was shocked by the later arrest news and grateful to Danish police and PET.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
+              "https://www.dr.dk/nyheder/indland/russisk-diplomat-bliver-udvist-af-danmark-efter-sag-om-attentatforsoeg"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.dr.dk/nyheder/indland/albina-havde-arrangeret-koncert-med-ukrainsk-rapper-saa-blev-hun-kontaktet-af-pet",
+                "body": "Serhiienko describes being instructed to keep the security reason from concertgoers while police monitored the venue. Her account gives a first-hand view of how the alleged threat affected the event."
+              }
             ]
           }
         ]
@@ -927,26 +1151,44 @@
         "id": "denmark-02",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Police suspect man killed partner and daughter before taking his own life",
-        "shortHeadline": "Police suspect man killed partner and daughter in Give",
-        "standfirst": "Initial findings suggest a 62-year-old man killed his partner and their 10-year-old daughter before taking his own life, police say. The circumstances remain under investigation.",
+        "headline": "Hardi considers moving production from Denmark, putting hundreds of jobs at risk",
+        "shortHeadline": "Hardi proposal puts hundreds of Danish jobs at risk",
+        "standfirst": "The manufacturer of agricultural sprayers is considering moving production to France and Romania, leaving development and sales in Denmark. The proposal could affect some of its 334 Danish employees, but the company says no final decision has been made.",
         "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/denmark-02-image.png",
+          "caption": "Hardi employee Steen Svendsen could be among those affected if production moves abroad.",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/politi-mand-draebte-kaereste-og-datter-i-give",
+            "candidateId": "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning",
             "publisher": "DR Nyheder",
-            "originalTitle": "Politi: Mand dræbte kæreste og datter i Give",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/politi-mand-draebte-kaereste-og-datter-i-give",
-            "publishedAt": "2026-11-19T18:34:52.000Z"
+            "originalTitle": "Weekendhumøret forsvandt i Nørre Alslev: Stor virksomhed varsler mulig udflytning",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning",
+            "publishedAt": "2026-11-20T16:45:00.000Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/politi-mand-draebte-kaereste-og-datter-i-give",
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning",
         "segments": [
           {
             "id": "denmark-02-s1",
-            "body": "Police say preliminary findings suggest a 62-year-old man killed his 48-year-old partner and their 10-year-old daughter in Give before taking his own life. The three were found dead at their home on Wednesday. Police have not said how or when they believe the deaths occurred and say the investigation is continuing.",
+            "body": "Hardi's French owner, Exel Industries, is considering moving production from Nørre Alslev to France and Romania, with development and sales remaining in Denmark. The company has 334 employees in Denmark; it is not yet clear how many jobs could go. Hardi's managing director says the plan is a proposal, not a final decision.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/politi-mand-draebte-kaereste-og-datter-i-give"
+              "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning"
+            ]
+          },
+          {
+            "id": "denmark-02-s2",
+            "title": "Local impact",
+            "body": "Workers and residents told DR the plant is important to the town and wider area. A local union representative says many employees have worked there for years and that some families may have more than one person on the payroll. The company says the proposal reflects a downturn in the agricultural machinery market.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/indland/weekendhumoeret-forsvandt-i-noerre-alslev-stor-virksomhed-varsler-mulig-udflytning"
             ]
           }
         ]
@@ -955,26 +1197,51 @@
         "id": "denmark-03",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Man dies after explosion and fire in container in Hornslet",
-        "shortHeadline": "Man dies after container explosion in Hornslet",
-        "standfirst": "A 69-year-old man died after an explosion involving a container with gas cylinders in an industrial area. Police say initial investigations point to an accident.",
+        "headline": "Danish pension fund leads investor lawsuit over Zuckerberg's control of Meta",
+        "shortHeadline": "PFA leads lawsuit over Zuckerberg's proposed Meta shares",
+        "standfirst": "PFA Pension has been named a lead plaintiff in an investor case challenging a proposed Meta share class that would let Mark Zuckerberg sell shares while retaining voting control. Meta has paused the plan and says it will defend itself.",
         "viewerProvenance": "DR NYHEDER",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/denmark-03-image.png",
+          "caption": "Mark Zuckerberg and Meta's board are defendants in a lawsuit over a proposed share plan.",
+          "source": {
+            "candidateId": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
+            "publisher": "DR Nyheder",
+            "canonicalUrl": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/seneste/69-aarig-mand-doed-efter-eksplosion-i-container-i-hornslet",
+            "candidateId": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
             "publisher": "DR Nyheder",
-            "originalTitle": "69-årig mand død efter eksplosion i container i Hornslet",
-            "canonicalUrl": "https://www.dr.dk/nyheder/seneste/69-aarig-mand-doed-efter-eksplosion-i-container-i-hornslet",
-            "publishedAt": "2026-11-19T22:28:51.000Z"
+            "originalTitle": "Dansk pensionsgigant får hovedrolle i retssag om Zuckerbergs magt i Meta",
+            "canonicalUrl": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
+            "publishedAt": "2026-11-20T20:01:00.000Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/seneste/69-aarig-mand-doed-efter-eksplosion-i-container-i-hornslet",
+        "primarySourceRef": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
         "segments": [
           {
             "id": "denmark-03-s1",
-            "body": "A 69-year-old man was found near a container after an explosion and fire at an industrial area in Hornslet on Thursday. Fire officials said the container held pressurised cylinders and the blast damaged a nearby warehouse. Police said initial investigations indicated that the incident was an accident.",
+            "body": "Danish pension fund PFA and California State Teachers' Retirement System have been named lead plaintiffs in a consolidated Delaware lawsuit against Meta and Mark Zuckerberg. Investors argue a proposed non-voting share class would let Zuckerberg sell shares without weakening his control of the company.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/seneste/69-aarig-mand-doed-efter-eksplosion-i-container-i-hornslet"
+              "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
+            ]
+          },
+          {
+            "id": "denmark-03-s2",
+            "title": "Meta's response",
+            "body": "Meta has paused the share plan, according to a court filing. The company says it is acting in shareholders' interests and will strongly defend itself. It has previously said the arrangement would let Zuckerberg sell shares to fund philanthropic work; the investors argue it would entrench his control while leaving other shareholders with no equivalent benefit.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
+            ]
+          },
+          {
+            "id": "denmark-03-s3",
+            "body": "PFA says it holds Meta shares worth about DKK 5.5bn and calls the case important because similar structures could be used by other companies. The lawsuit is scheduled for trial in April next year; any judgment could be appealed.",
+            "sourceRefs": [
+              "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
             ]
           }
         ]
@@ -983,71 +1250,43 @@
         "id": "denmark-04",
         "kind": "story",
         "editorialType": "news",
-        "headline": "Police warn residents to close windows during warehouse fire in Mørke",
-        "shortHeadline": "Asbestos warning during warehouse fire in Mørke",
-        "standfirst": "The old warehouse was almost burned down, and police say its roof contains asbestos. There are no reports of injuries; people nearby have been told to keep windows and doors closed.",
-        "viewerProvenance": "DR NYHEDER",
-        "sources": [
-          {
-            "candidateId": "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-brand-i-lagerbygning-i-moerke-luk-vinduer-og-doere",
-            "publisher": "DR Nyheder",
-            "originalTitle": "Politi til stede ved brand i lagerbygning i Mørke - luk vinduer og døre",
-            "canonicalUrl": "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-brand-i-lagerbygning-i-moerke-luk-vinduer-og-doere",
-            "publishedAt": "2026-11-20T04:25:39.000Z"
-          }
-        ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-brand-i-lagerbygning-i-moerke-luk-vinduer-og-doere",
-        "segments": [
-          {
-            "id": "denmark-04-s1",
-            "body": "Police and firefighters were responding to a fire at an old warehouse on Industrivej in Mørke, Djursland, early Friday. The building was almost burned down, and crews were working to prevent the fire spreading to nearby buildings. Police said there were no reports of injuries and warned people in the area to keep doors and windows closed because the roof contains asbestos.",
-            "sourceRefs": [
-              "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-brand-i-lagerbygning-i-moerke-luk-vinduer-og-doere"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "denmark-05",
-        "kind": "story",
-        "editorialType": "news",
-        "headline": "Repeated bicycle-shop burglaries cost North Jutland businesses millions",
-        "shortHeadline": "Bicycle thefts cost North Jutland shops millions",
-        "standfirst": "One shop in Støvring says thieves have taken bicycles worth more than DKK 3m in three break-ins since March. Another shop in Aars was targeted a day later, and police are investigating both cases.",
+        "headline": "Two TV 2 executives leave after controversy over hidden-camera programme",
+        "shortHeadline": "TV 2 leaders depart after hidden-camera show backlash",
+        "standfirst": "TV 2's content director and programme director are leaving after criticism of Alle elsker Rasmus, a hidden-camera series that the broadcaster apologised for and removed. An internal review is still under way.",
         "viewerProvenance": "DR NYHEDER",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/denmark-05-image.png",
-          "caption": "Støvring bicycle-shop owner Simon Lassen describes the repeated break-ins.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/denmark-04-image.png",
+          "caption": "TV 2's content director and programme director are leaving after the programme controversy.",
           "source": {
-            "candidateId": "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner",
+            "candidateId": "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2",
             "publisher": "DR Nyheder",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner",
+            "candidateId": "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2",
             "publisher": "DR Nyheder",
-            "originalTitle": "Siden foråret har Simon mistet cykler for flere millioner kroner",
-            "canonicalUrl": "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner",
-            "publishedAt": "2026-11-19T18:54:00.000Z"
+            "originalTitle": "Indholdsdirektør og programdirektør stopper på TV 2",
+            "canonicalUrl": "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2",
+            "publishedAt": "2026-11-20T13:00:58.000Z"
           }
         ],
-        "primarySourceRef": "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner",
+        "primarySourceRef": "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2",
         "segments": [
           {
-            "id": "denmark-05-s1",
-            "body": "A bicycle shop in Støvring says it lost bicycles worth about DKK 750,000 in a break-in this week, despite spending more than DKK 300,000 on extra security after earlier thefts. It estimates losses across three break-ins since March at more than DKK 3m.",
+            "id": "denmark-04-s1",
+            "body": "TV 2 says content director Ulla Pors and programme director Dorthe Thirstrup are leaving after criticism of Alle elsker Rasmus. In the programme, comedian Rasmus Wallbridge was led to believe he was directing a film; TV 2 later apologised and removed the series from its platforms.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner"
+              "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2"
             ]
           },
           {
-            "id": "denmark-05-s2",
-            "body": "A shop in Aars was burgled about a day later, with its owner saying thieves selected high-value bicycles. He had not yet established the total loss. North Jutland Police said they were investigating both cases and had received information from residents and local businesses.",
+            "id": "denmark-04-s2",
+            "body": "The broadcaster says a review of the programme and its production is continuing, but that it has already concluded the programme area needs new leadership to rebuild trust. Findings are expected to be presented to the board in the coming weeks. Thirstrup said she had made mistakes and apologised to Wallbridge.",
             "sourceRefs": [
-              "https://www.dr.dk/nyheder/indland/siden-foraaret-har-simon-mistet-cykler-flere-millioner-kroner"
+              "https://www.dr.dk/nyheder/indland/indholdsdirektoer-og-programdirektoer-stopper-paa-tv-2"
             ]
           }
         ]
@@ -1056,33 +1295,58 @@
         "id": "sport-01",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "England fined after away fans chant anti-Catholic abuse in Spain",
-        "shortHeadline": "England fined over anti-Catholic chants in Spain",
-        "standfirst": "Uefa fined the Football Association £12,572 and imposed a suspended one-match ban on England away supporters after chants deemed anti-Catholic and anti-Irish during the 3-2 Nations League win in Spain.",
+        "headline": "Man Utd’s manager costs near £100m as Berrada defends the club hierarchy",
+        "shortHeadline": "Man Utd’s manager costs near £100m as Berrada defends the club",
+        "standfirst": "A new filing puts Manchester United’s hiring and firing bill since 2013 at £95m, before further costs are added. Chief executive Omar Berrada has also defended the club’s summer recruitment amid supporter criticism.",
         "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-01-image.png",
+          "caption": "Mauricio Pochettino held his first Manchester United news conference.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o",
+            "candidateId": "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o",
             "publisher": "BBC Sport",
-            "originalTitle": "England fined for fans' anti-Catholic chants in Spain",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o",
-            "publishedAt": "2026-11-19T19:11:03.284Z"
+            "originalTitle": "Cost of Man Utd hiring and firing managers nears £100m",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o",
+            "publishedAt": "2026-11-20T23:18:16.746Z"
+          },
+          {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cwz0k32j9kr9o",
+            "publisher": "BBC Sport",
+            "originalTitle": "Man Utd fan criticism has gone too far at times - Berrada",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cwz0k32j9kr9o",
+            "publishedAt": "2026-11-20T16:24:46.376Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o",
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o",
         "segments": [
           {
             "id": "sport-01-s1",
-            "body": "Uefa fined the Football Association £12,572 (15,000 euros) and suspended England away supporters from one match. BBC Sport understands the charge of “racist and/or discriminatory behaviour” relates to chants deemed anti-Catholic and anti-Irish during England’s 3-2 win in Madrid.",
+            "body": "Manchester United say they owe US Soccer £7.5m in compensation for Mauricio Pochettino’s release from his USA deal. That takes the club’s manager hiring and firing costs since Sir Alex Ferguson retired to £95m, a figure expected to pass £100m once the cost of Pochettino’s staff and Michael Carrick’s dismissal are included.\n\nThe club borrowed another £10m on 16 November, three days after announcing Pochettino. Its filing also shows £240m owed on its rolling credit limit and £417m in outstanding transfer fees, including £181m due after a year.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o"
+              "https://www.bbc.com/sport/football/articles/cwd01n9z23x5o"
             ]
           },
           {
             "id": "sport-01-s2",
-            "body": "The away-fan ban will be enforced if there is a further offence within two years. England’s victory also ended Spain’s 43-match unbeaten run and put England top of their Nations League group.",
+            "title": "Criticism and recruitment",
+            "body": "Berrada said he understood supporters’ frustration at United sitting 18th, and accepted that some criticism was fair, but said some had “crossed a line”. He defended the club’s summer signings, while acknowledging that it could have added a defender if the right player and value had been available.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cmlye2n7p7d9o"
+              "https://www.bbc.com/sport/football/articles/cwz0k32j9kr9o"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/sport/football/articles/cwz0k32j9kr9o",
+                "body": "Berrada says United are happy with their summer recruitment and will not spend simply to silence critics. Pochettino, meanwhile, said he wants to be involved in the main decisions about the squad."
+              }
             ]
           }
         ]
@@ -1091,44 +1355,44 @@
         "id": "sport-02",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "Lyon expose Arsenal's gap to Europe's Women's Champions League elite",
-        "shortHeadline": "Lyon expose Arsenal's European gap",
-        "standfirst": "Arsenal were outplayed in a 2-0 home defeat by Lyon, their second demanding test against a European heavyweight in a week. The result leaves them needing to improve both their form and their chances of progressing.",
+        "headline": "England’s revival faces its toughest test yet against New Zealand",
+        "shortHeadline": "England’s revival faces a major test against New Zealand",
+        "standfirst": "After scoring 20 tries in wins over Australia and Japan, England meet an All Blacks side stung by a first defeat by Wales in 73 years. The contest will test whether England’s improved depth and attacking form can stand up to elite opposition.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-02-image.png",
-          "caption": "Arsenal goalkeeper Misa Rodríguez made six saves in the defeat by Lyon.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-02-image.png",
+          "caption": "England beat Japan 78-15 last weekend.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o",
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o",
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
             "publisher": "BBC Sport",
-            "originalTitle": "Arsenal 'have ingredients' but Europe's elite on another level",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o",
-            "publishedAt": "2026-11-19T23:57:54.076Z"
+            "originalTitle": "Stacked England aim to pile on style and add to All Black misery",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
+            "publishedAt": "2026-11-20T16:51:17.062Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o",
+        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
         "segments": [
           {
             "id": "sport-02-s1",
-            "body": "Jule Brand put Lyon ahead midway through the first half and Melchie Dumornay sealed the 2-0 win in the 57th minute. Lyon had 23 shots to Arsenal’s seven and created six big chances; Arsenal goalkeeper Misa Rodríguez made six saves.",
+            "body": "England’s emphatic recent wins have restored some confidence after five straight defeats earlier in the year. Their attack has produced 20 tries against Australia and Japan, but New Zealand are a substantially sterner test: the All Blacks have lost four of their past seven matches and arrive after their historic defeat by Wales.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o"
+              "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o"
             ]
           },
           {
             "id": "sport-02-s2",
-            "title": "The challenge ahead",
-            "body": "Arsenal had drawn 1-1 away to Barcelona the previous week, but the defeat by Lyon followed a fifth successive Women’s Super League draw at home. Arsenal have not yet qualified for the Champions League knockout stages and are 12 points off the WSL title pace.",
+            "title": "Depth back in the picture",
+            "body": "England have regained several players from injury, including full-back George Furbank and prop Will Stuart, while the bench offers further options such as Marcus Smith and Henry Pollock. They are still without Immanuel Feyi-Waboso, Tom Curry and Alex Mitchell, but coach Steve Borthwick says the squad’s depth is back to a level last seen a year ago.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cm4gnxz8dvx1o"
+              "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o"
             ]
           }
         ]
@@ -1137,44 +1401,51 @@
         "id": "sport-03",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "Shevchenko rejects Mudryk's claim that Ukraine FA caused failed drugs test",
-        "shortHeadline": "Shevchenko rebuts Mudryk over failed drugs test",
-        "standfirst": "Mykhailo Mudryk blames Ukraine’s football association for the meldonium finding that led to his 20-month suspension. Andriy Shevchenko says the accusation is baseless and calls on the winger to provide evidence or apologise.",
+        "headline": "Cricket Australia backs Cummins as captain amid renewed sandpaper claims",
+        "shortHeadline": "Cricket Australia backs Cummins amid renewed sandpaper claims",
+        "standfirst": "Cricket Australia will continue to support Pat Cummins as Test captain as new accounts reopen the 2018 ball-tampering dispute. Cummins denies knowing about the plan; fast bowler Josh Hazlewood says he would consider leaving if Cummins were forced out.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-03-image.png",
-          "caption": "Mykhailo Mudryk, who has 28 caps for Ukraine.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-03-image.png",
+          "caption": "Pat Cummins, who was named Australia captain in 2021.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cmgqx908lk44o",
+            "candidateId": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cmgqx908lk44o",
+            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/football/articles/cmgqx908lk44o",
+            "candidateId": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
             "publisher": "BBC Sport",
-            "originalTitle": "Shevchenko accuses Mudryk camp of 'baseless slander'",
-            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cmgqx908lk44o",
-            "publishedAt": "2026-11-19T20:44:11.594Z"
+            "originalTitle": "Cummins retains Cricket Australia support as captain",
+            "canonicalUrl": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
+            "publishedAt": "2026-11-20T10:13:23.689Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cmgqx908lk44o",
+        "primarySourceRef": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
         "segments": [
           {
             "id": "sport-03-s1",
-            "body": "Mudryk, who returned to football in July after a suspension running from November 2024, says the Ukrainian Association of Football was responsible for his failed test and that the substance entered his system on international duty. He also criticised the association’s handling of the case and said Shevchenko offered little support.",
+            "body": "Cricket Australia is backing Cummins to remain captain, a role he has held since 2021, despite renewed allegations over the 2018 Cape Town Test. Cameron Bancroft’s recent account supported earlier claims by Usman Khawaja that the whole team knew about the plan to tamper with the ball. Cummins has denied involvement or knowledge and called Khawaja’s claims “100% wrong”.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cmgqx908lk44o"
+              "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o"
             ]
           },
           {
             "id": "sport-03-s2",
-            "title": "The association's response",
-            "body": "Shevchenko, now UAF president, says Mudryk’s representatives repeatedly asked the association to find an employee to falsely accept responsibility for the meldonium finding, and that it refused. He says investigations and audits did not establish when or where the substance entered Mudryk’s system, and challenged him to provide evidence. BBC Sport has contacted Mudryk’s representatives for comment.",
+            "title": "Backing from a team-mate",
+            "body": "Hazlewood, who played in the Cape Town Test, said he would consider quitting the team if Cummins were made to stand down. Bancroft has also alleged that players and coaches celebrated when the ball-tampering succeeded; those claims remain contested.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/football/articles/cmgqx908lk44o"
+              "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
+                "body": "Hazlewood called the recent criticism a “pile on” and said he wanted to back Cummins. His comments underline that the dispute could affect the current team as well as revisiting the 2018 scandal."
+              }
             ]
           }
         ]
@@ -1183,59 +1454,36 @@
         "id": "sport-04",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "England recall Furbank, Atkinson and Chessum for New Zealand test",
-        "shortHeadline": "England bring back three starters for All Blacks test",
-        "standfirst": "George Furbank, Seb Atkinson and Ollie Chessum return to England’s starting side for Saturday’s Nations Championship meeting with New Zealand. Will Joseph keeps his place after scoring five tries against Japan.",
+        "headline": "Alcaraz reaches ATP Finals semi-finals with perfect group record",
+        "shortHeadline": "Alcaraz reaches ATP Finals semis despite injury concerns",
+        "standfirst": "Carlos Alcaraz beat Flavio Cobolli in straight sets to complete the group stage without defeat, despite a hamstring problem. He next faces Ben Shelton, while Daniil Medvedev meets Alexander Zverev in the other semi-final.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-04-image.png",
-          "caption": "George Furbank returns to England's starting side at full-back.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-04-image.png",
+          "caption": "Carlos Alcaraz is seeking his first ATP Finals title.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go",
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go",
+            "candidateId": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
             "publisher": "BBC Sport",
-            "originalTitle": "Furbank leads returning England trio for All Blacks visit",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go",
-            "publishedAt": "2026-11-19T14:18:36.694Z"
-          },
-          {
-            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/ckge31np9ew7o",
-            "publisher": "BBC Sport",
-            "originalTitle": "'Clearer' approach has lifted England mood - Itoje",
-            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/ckge31np9ew7o",
-            "publishedAt": "2026-11-19T22:29:46.304Z"
+            "originalTitle": "Alcaraz puts aside injury concerns to take apart Cobolli",
+            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
+            "publishedAt": "2026-11-20T14:55:49.860Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go",
+        "primarySourceRef": "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o",
         "segments": [
           {
             "id": "sport-04-s1",
-            "body": "Furbank returns at full-back, Atkinson at centre and Chessum in the back row after all three missed last weekend’s win over Japan with knocks. Fin Smith is back at fly-half, while Joseph starts again after crossing five times in the 45-12 victory.",
+            "body": "Alcaraz, wearing strapping on his left leg after hurting his hamstring against Daniil Medvedev, beat Flavio Cobolli 6-4 6-1 in 65 minutes. He did not face a break point and hit 29 winners, extending his winning run to 12 matches.\n\nThe Spaniard said the immediate challenge was recovering physically for the next day’s semi-final against Ben Shelton. Alcaraz has never won the season-ending title.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go"
-            ]
-          },
-          {
-            "id": "sport-04-s2",
-            "title": "A test of England's progress",
-            "body": "England have won their past four matches, including a 45-12 victory over Australia, after a run of five successive defeats. Captain Maro Itoje says the team’s purpose and understanding have become clearer; coach Steve Borthwick has also credited senior players’ work on discipline. New Zealand arrive after losing to Wales for the first time in 73 years.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/rugby-union/articles/ckge31np9ew7o",
-              "https://www.bbc.com/sport/rugby-union/articles/ckdd1y064y0go"
-            ],
-            "treatment": "from-sources",
-            "perspectives": [
-              {
-                "sourceRef": "https://www.bbc.com/sport/rugby-union/articles/ckge31np9ew7o",
-                "body": "Itoje describes England as more cohesive, with a clearer understanding of their game plan. Borthwick says senior players led discussions on discipline, following 14 yellow cards and a red in England’s first eight Tests of 2026; the team has had no cards across its two November Tests so far."
-              }
+              "https://www.bbc.com/sport/tennis/articles/cqrkgn17emr2o"
             ]
           }
         ]
@@ -1244,43 +1492,36 @@
         "id": "sport-05",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "Zverev tops ATP Finals group but raises ankle concern; Shelton also advances",
-        "shortHeadline": "Zverev wins group as Shelton reaches ATP Finals semis",
-        "standfirst": "Alexander Zverev beat Arthur Fils in straight sets to finish top of his ATP Finals group, but said his troublesome right ankle was painful. Ben Shelton also secured a semi-final place after beating Rafael Jodar.",
+        "headline": "Kim takes three-shot LPGA lead after hole-in-one; Hull stays in contention",
+        "shortHeadline": "Kim leads LPGA finale by three; Hull remains in the mix",
+        "standfirst": "A-Lim Kim’s hole-in-one helped her shoot 64 and move to 15 under at the CME Group Tour Championship. Charley Hull is four strokes back after a bogey-free 67, with the tournament’s $4m top prize still in play.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-05-image.png",
-          "caption": "Alexander Zverev, who won his ATP Finals group despite an ankle problem.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-05-image.png",
+          "caption": "A-Lim Kim, whose only major title came at the 2020 US Women’s Open.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro",
+            "candidateId": "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro",
+            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro",
+            "candidateId": "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o",
             "publisher": "BBC Sport",
-            "originalTitle": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
-            "canonicalUrl": "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro",
-            "publishedAt": "2026-11-19T16:18:50.285Z"
+            "originalTitle": "Kim moves clear at LPGA finale after hole-in-one",
+            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o",
+            "publishedAt": "2026-11-20T23:04:34.270Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro",
+        "primarySourceRef": "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o",
         "segments": [
           {
             "id": "sport-05-s1",
-            "body": "Zverev won 6-4 7-6 (8-6), finishing top of the John McEnroe Group and sending Shelton through. He said pain in the right ankle—where he tore ligaments in 2022—affected his serve, and that he would do everything he could to be pain-free for Saturday’s semi-final.",
+            "body": "Kim made a hole-in-one at the par-three 16th on her way to a seven-under 64, taking the outright lead at 15 under after two rounds. Jeeno Thitikul is second on 12 under.\n\nEngland’s Charley Hull is among six players tied for third at 11 under after a bogey-free 67. The tournament’s $4m top prize is at stake on Sunday.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro"
-            ]
-          },
-          {
-            "id": "sport-05-s2",
-            "body": "Shelton had beaten Jodar 7-6 (10-8) 7-5 earlier, a result that left his qualification dependent on Zverev beating Fils. Zverev has yet to lose a set in Turin, but his semi-final availability remains uncertain given the ankle problem he described.",
-            "sourceRefs": [
-              "https://www.bbc.com/sport/tennis/articles/c64gne03ykjro"
+              "https://www.bbc.com/sport/golf/articles/ck62pzd7vjr0o"
             ]
           }
         ]
@@ -1289,36 +1530,36 @@
         "id": "sport-06",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "Charley Hull one shot off lead after opening round at LPGA finale",
-        "shortHeadline": "Hull one off lead at LPGA season finale",
-        "standfirst": "Charley Hull opened the CME Group Tour Championship with a six-under-par 66, one shot behind three co-leaders. Fellow English golfer Lottie Woad is two shots off the pace after a five-under round.",
+        "headline": "Mudryk rejects Shevchenko’s account as dispute over drugs test escalates",
+        "shortHeadline": "Mudryk rejects Shevchenko’s account of drugs-test dispute",
+        "standfirst": "Mykhailo Mudryk says Andriy Shevchenko is lying about whether the winger asked a Ukrainian football official to take blame for his positive test. Mudryk repeats his allegations against the association and says he has evidence, which it has not yet responded to in the report.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-06-image.png",
-          "caption": "Charley Hull, who won this tournament in 2016.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-06-image.png",
+          "caption": "Mykhailo Mudryk has won 28 caps for Ukraine.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/golf/articles/cmx20gypx244o",
+            "candidateId": "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/cmx20gypx244o",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/golf/articles/cmx20gypx244o",
+            "candidateId": "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o",
             "publisher": "BBC Sport",
-            "originalTitle": "England's Hull one stroke off lead at lucrative LPGA finale",
-            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/cmx20gypx244o",
-            "publishedAt": "2026-11-19T22:31:40.011Z"
+            "originalTitle": "Shevchenko lying about drugs test claims - Mudryk",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o",
+            "publishedAt": "2026-11-20T21:54:17.510Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/golf/articles/cmx20gypx244o",
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o",
         "segments": [
           {
             "id": "sport-06-s1",
-            "body": "Hull made 66 at Tiburon Golf Club in Naples, Florida, putting her among nine players one shot behind Karis Davidson, Kim A-lim and Jeeno Thitikul, who share the first-round lead at seven under. Woad signed for a five-under 67.",
+            "body": "Mudryk has denied Shevchenko’s accusation that his representatives repeatedly asked a Ukrainian Association of Football employee to take the blame for his meldonium test. In a statement, the winger called that account a “lie” and said neither he nor his representatives made such a request.\n\nMudryk, who was suspended from November 2024 to July 2026, says he believes the substance entered his system while on international duty. He also accuses the association of withholding information and misleading his team, and says WhatsApp messages support his claim that he used its supplements at training camps.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/golf/articles/cmx20gypx244o"
+              "https://www.bbc.com/sport/football/articles/cjn502n9vqp4o"
             ]
           }
         ]
@@ -1327,44 +1568,51 @@
         "id": "sport-07",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "World marathon champion Peres Jepchirchir given three-year doping ban",
-        "shortHeadline": "Jepchirchir banned for three years over doping violation",
-        "standfirst": "The Athletics Integrity Unit says a sample collected before Peres Jepchirchir’s Sydney Marathon win tested positive for EPO. The Kenyan denies using the substance but accepted disqualification of results from 17 July 2026.",
+        "headline": "Ireland and South Africa meet amid suspensions and a charged build-up",
+        "shortHeadline": "Ireland and South Africa meet amid disciplinary tensions",
+        "standfirst": "South Africa face Ireland in Dublin without banned coach Rassie Erasmus, while both teams have had late changes to their squads. Ireland are looking to respond to a run of heavy defeats against leading sides.",
         "viewerProvenance": "BBC SPORT",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/sport-07-image.png",
-          "caption": "Peres Jepchirchir won the 2026 Sydney Marathon before the doping violation came to light.",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-07-image.png",
+          "caption": "Siya Kolisi spoke about what rugby means to people in South Africa.",
           "source": {
-            "candidateId": "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o",
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
             "publisher": "BBC Sport",
-            "canonicalUrl": "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
             "credit": null
           }
         },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o",
+            "candidateId": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
             "publisher": "BBC Sport",
-            "originalTitle": "World marathon champion Jepchirchir gets three-year doping ban",
-            "canonicalUrl": "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o",
-            "publishedAt": "2026-11-19T08:20:47.307Z"
+            "originalTitle": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+            "canonicalUrl": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
+            "publishedAt": "2026-11-20T16:28:47.064Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o",
+        "primarySourceRef": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
         "segments": [
           {
             "id": "sport-07-s1",
-            "body": "Jepchirchir, the reigning world marathon champion and 2021 Olympic gold medallist, has been banned for three years. The out-of-competition sample was collected in Kenya before her 30 August Sydney Marathon win and returned an adverse finding on 17 September. She denied using EPO but signed an admission of violations form and accepted disqualification of all results since 17 July 2026.",
+            "body": "Erasmus will miss the match after receiving a six-match ban for questioning officials following South Africa’s defeat by France. Assistant coach Mzwandile Stick backed him, while Ireland captain Dan Sheehan said the suspension had no effect on his team.\n\nSouth Africa back-row Jasper Wiese is also suspended. Ireland fly-half Sam Prendergast was cleared to play after being cited over an alleged hip-drop tackle.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o"
+              "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo"
             ]
           },
           {
             "id": "sport-07-s2",
-            "title": "Wider scrutiny",
-            "body": "The ban adds to scrutiny of Kenya’s anti-doping efforts ahead of its hosting of the 2029 World Athletics Championships. More than 140 Kenyan athletes have been suspended by the AIU since 2017. The AIU has previously said it found no evidence of systemic violations, while recurring cases continue to raise questions about prevention and enforcement.",
+            "title": "A test for Ireland",
+            "body": "Ireland have lost their past six matches against New Zealand, France and South Africa by double-digit margins. Sheehan, usually a hooker, will captain from number eight with several back-row players unavailable. South Africa have brought in Franco Mostert after Ruan Nortje was ruled out through injury.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/athletics/articles/cv5y1e1zle88o"
+              "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo"
+            ],
+            "treatment": "from-sources",
+            "perspectives": [
+              {
+                "sourceRef": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
+                "body": "Stick says South Africa’s players remain united behind Erasmus. Ireland’s Sheehan, by contrast, said the disciplinary story has “zero impact” on his side’s preparation."
+              }
             ]
           }
         ]
@@ -1373,34 +1621,44 @@
         "id": "sport-08",
         "kind": "story",
         "editorialType": "sport",
-        "headline": "LIV Golf paid players millions while UK suppliers were owed overdue bills",
-        "shortHeadline": "LIV paid golfers millions as UK suppliers went unpaid",
-        "standfirst": "BBC Sport has seen overdue invoices from five UK businesses as LIV Golf made millions in player payments before filing for bankruptcy. Small suppliers say the unpaid debts have put their businesses under severe strain.",
+        "headline": "Kulusevski and Everton captain Finnigan describe the toll of long injuries",
+        "shortHeadline": "Kulusevski and Finnigan on the isolation of long injuries",
+        "standfirst": "Dejan Kulusevski and Everton’s Megan Finnigan describe loneliness, doubts and the strain of lengthy rehabilitation. Both have returned to action after serious injuries kept them out for more than a season.",
         "viewerProvenance": "BBC SPORT",
+        "image": {
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/sport-08-image.png",
+          "caption": "Dejan Kulusevski has been working towards a return after a long injury absence.",
+          "source": {
+            "candidateId": "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo",
+            "publisher": "BBC Sport",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo",
+            "credit": null
+          }
+        },
         "sources": [
           {
-            "candidateId": "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o",
+            "candidateId": "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo",
             "publisher": "BBC Sport",
-            "originalTitle": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
-            "canonicalUrl": "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o",
-            "publishedAt": "2026-11-19T06:37:40.520Z"
+            "originalTitle": "Loneliness & mood swings - what's it like to miss a season through injury?",
+            "canonicalUrl": "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo",
+            "publishedAt": "2026-11-20T06:13:23.662Z"
           }
         ],
-        "primarySourceRef": "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o",
+        "primarySourceRef": "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo",
         "segments": [
           {
             "id": "sport-08-s1",
-            "body": "Court filings show LIV made 59 payments to golfers totalling $16.6m on 31 July, while UK suppliers had overdue bills. A further $34.2m went to players between 17 August and 3 September; Jon Rahm received $6.4m five days before the league filed for bankruptcy protection on 8 September.",
+            "body": "Tottenham’s Kulusevski says he wondered whether he could play again after a serious knee injury kept him out for 18 months and cost him a place at the 2026 World Cup. He returned as a substitute in October after 526 days away and says he no longer takes playing for granted.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o"
+              "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo"
             ]
           },
           {
             "id": "sport-08-s2",
-            "title": "Suppliers face uncertain recovery",
-            "body": "Five small UK businesses provided BBC Sport with invoices totalling hundreds of thousands of pounds. Global Infusion Group is owed £321,671 and cleaning firm BD365 Clean £75,225. LIV did not respond to a request for comment. The Saudi owners have earmarked $2m for unsecured creditors so far, and a January hearing is due to consider the wind-down plan; how much suppliers will recover remains unknown.",
+            "title": "The mental toll",
+            "body": "Everton captain Finnigan says she lost her confidence and “sparkle” during 602 days out with a cruciate ligament injury. Former England midfielder Fara Williams also highlights the financial pressure some women face while injured, including bills and uncertainty over short-term contracts.",
             "sourceRefs": [
-              "https://www.bbc.com/sport/golf/articles/cw7vpv793n24o"
+              "https://www.bbc.com/sport/football/articles/cqvg27m9xp1xo"
             ]
           }
         ]
@@ -1414,7 +1672,7 @@
         "standfirst": "Streams, TikTok searches and a flourishing market for memorabilia point to a revival of Buckley’s music among young listeners. Fans describe its unguarded emotion as a contrast to online life and the difficulty of finding connection.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-01-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-01-image.png",
           "caption": "Sydney Tripoli with memorabilia from her Jeff Buckley collection.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/19/jeff-buckley-gen-z-nostalgia",
@@ -1460,7 +1718,7 @@
         "standfirst": "The Glasgow group’s unconventional music found a new audience through Frank Ocean and TikTok. Their reunion has brought back both the excitement of playing together and the fear of disturbing a once-cherished moment.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-02-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-02-image.png",
           "caption": "Life Without Buildings around the release of their debut album.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/17/post-punk-life-without-buildings-reformed",
@@ -1506,7 +1764,7 @@
         "standfirst": "The singer’s forthcoming Cailín draws on Irish instruments and family history, while her campaigning continues to focus on the economics that make touring difficult for working musicians.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-03-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-03-image.png",
           "caption": "Kate Nash.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans",
@@ -1552,7 +1810,7 @@
         "standfirst": "The Belgian duo’s next album keeps their playful art-pop but moves towards grief, family and parenthood. Their tour of Ghent and conversation about the record reveal the personal history behind its stranger images.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-04-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-04-image.png",
           "caption": "Charlotte Adigéry and Bolis Pupul in Ghent.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/13/interview-art-pop-duo-charlotte-adigery-and-bolis-pupul",
@@ -1670,7 +1928,7 @@
         "standfirst": "All Ages draws on the Milan producer’s teenage straight-edge punk years and his fascination with rave. Its collision of beatless synths and raw voices is often thrilling, even when the experiment falters.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-07-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-07-image.png",
           "caption": "Lorenzo Senni.",
           "source": {
             "candidateId": "https://www.theguardian.com/music/2026/nov/19/lorenzo-senni-all-ages-review-warp-milan-producer",
@@ -1716,7 +1974,7 @@
         "standfirst": "The band’s first new album since 2017 trades some of their more portentous habits for open-hearted songs. This review hears a strong return, while questioning whether it can restore their wider cultural standing.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-music-08-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-music-08-image.png",
           "caption": "U2.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/music/u2-lost-plot-new-album-finally-fixes-4876073",
@@ -1762,7 +2020,7 @@
         "standfirst": "Nathan Fielder and Lance Oppenheim’s film begins with access to Holmes before prison, then takes a startling turn. Its provocative use of reenactment leaves the viewer weighing performance against truth.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-01-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-01-image.png",
           "caption": "Elizabeth Holmes in You Can See Everything.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
@@ -1808,7 +2066,7 @@
         "standfirst": "Beth de Araújo’s film follows an eight-year-old who witnesses a rape and struggles to understand what she saw. Its approach is grounded in the director’s experience, though one review finds some of its choices contrived.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-02-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-02-image.png",
           "caption": "Channing Tatum and Mason Reeves in Josephine.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/18/josephine-review-mason-reeves",
@@ -1870,7 +2128,7 @@
         "standfirst": "The Belfast-born actor discusses I See Buildings Fall Like Lightning, about precarious work, and his role as Sam Bankman-Fried in The Altruists. He says the characters have left him thinking about the distance between money and power.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-03-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-03-image.png",
           "caption": "Anthony Boyle.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
@@ -1916,7 +2174,7 @@
         "standfirst": "A woman commissions a husband made of willow in a bawdy, deliberately odd fairy tale. The film’s creators and commentators connect its appeal to domestic labour and desire; one critic finds its gender politics troubling but funny.",
         "viewerProvenance": "MULTIPLE SOURCES",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-04-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-04-image.png",
           "caption": "Olivia Colman as the Fisherwoman in Wicker.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/film/wicker-unhinged-sexist-loved-it-4856200",
@@ -1978,7 +2236,7 @@
         "standfirst": "The director revisits his cult films, explains why he is crowdfunding Repo Man 2 and offers blunt views on franchises. He also recalls John Lydon’s furious response to Sid and Nancy.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-05-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-05-image.png",
           "caption": "Alex Cox.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/19/alex-cox-john-lydon-said-sid-and-nancy-was-a-nightmarish-piece-of-garbage",
@@ -2024,7 +2282,7 @@
         "standfirst": "Leighton Meester brings wit and warmth to a familiar Christmas romcom formula about a bodyguard and a movie star. The review finds the film’s silliness part of its appeal.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-film-06-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-film-06-image.png",
           "caption": "Leighton Meester and Jared Padalecki in Guarding Stars.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester",
@@ -2069,7 +2327,7 @@
         "standfirst": "Julia Garner and Anthony Boyle play Caroline Ellison and Sam Bankman-Fried in a fast-moving account of FTX’s rise and collapse. The review praises the performances while warning that the financial detail can be hard to follow.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-tv-01-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-tv-01-image.png",
           "caption": "Anthony Boyle as Sam Bankman-Fried in The Altruists.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
@@ -2115,7 +2373,7 @@
         "standfirst": "Nicola Coughlan plays a woman whose partner’s misogynistic ideas turn into coercion and violence. The review argues that the drama’s unsettling force lies in showing how ordinary the behaviour can appear.",
         "viewerProvenance": "THE I PAPER",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-tv-02-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-tv-02-image.png",
           "caption": "Nicola Coughlan as Helen and Joe Cole as Steve in I Am Helen.",
           "source": {
             "candidateId": "https://inews.co.uk/culture/television/all-men-should-watch-i-am-helen-4904127",
@@ -2161,7 +2419,7 @@
         "standfirst": "A long interview with refugee-turned-CIA officer Peter Sichel gives this documentary an extraordinary central voice. The review also notes what remains unknowable about his work and the people he recruited.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-tv-03-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-tv-03-image.png",
           "caption": "Peter Sichel in The Last Spy.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/17/the-last-spy-review-a-riveting-tale-of-cia-meddling-espionage-gossip-and-blue-nun-wine",
@@ -2207,7 +2465,7 @@
         "standfirst": "Fans in hockey jerseys watched episodes of the romance in seats that moved, vibrated and sprayed water. The experience was often ridiculous and funny, though one viewer said the effects could undercut the emotion.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-tv-04-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-tv-04-image.png",
           "caption": "Connor Storrie and Hudson Williams in Heated Rivalry.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
@@ -2289,7 +2547,7 @@
         "standfirst": "Take-Two says an adaptation would need to delight players, but this essay argues that GTA’s open-ended play is the very thing a scripted series would struggle to preserve.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-tv-06-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-tv-06-image.png",
           "caption": "Grand Theft Auto VI.",
           "source": {
             "candidateId": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
@@ -2335,7 +2593,7 @@
         "standfirst": "A guide to avoiding trouble in Leonida offers advice on cash, heat and heists, while a separate report details the game’s explicit sex, drugs and violence. Both make clear that the sprawling new world is made for adults.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-games-01-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-games-01-image.png",
           "caption": "Grand Theft Auto VI, an adults-only game.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
@@ -2398,7 +2656,7 @@
         "standfirst": "Twenty years on, the Wii’s accessible motion controls and the PS3’s technical ambition both look influential—and incomplete. This retrospective traces what each console got right and where its vision fell short.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-games-02-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-games-02-image.png",
           "caption": "Nintendo’s Wii and Sony’s PlayStation 3.",
           "source": {
             "candidateId": "https://www.theguardian.com/games/2026/nov/18/how-nintendo-wii-sony-playstation-3-predicted-future-of-gaming",
@@ -2444,7 +2702,7 @@
         "standfirst": "Alex Garland’s adaptation has a major game, a prominent mythology and a reported large budget behind it. The challenge, this essay argues, is making audiences care about the world rather than merely explaining it.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/culture-games-03-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/culture-games-03-image.png",
           "caption": "Elden Ring, the game being adapted for film.",
           "source": {
             "candidateId": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny",
@@ -2490,7 +2748,7 @@
         "standfirst": "Researchers told MPs that early exposure to colibactin, produced by some E coli, may help explain rising bowel cancer rates in younger people. Its role remains under investigation.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/science-tech-science-01-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/science-tech-science-01-image.png",
           "caption": "E coli bacteria in the gut; some variants produce the toxin colibactin, a suspected contributor to early-onset bowel cancer.",
           "source": {
             "candidateId": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
@@ -2673,7 +2931,7 @@
         "standfirst": "Marine archaeologists found the wooden gunboat Spitfire off Queensland on the anniversary of its 1898 sinking. The wreck is protected, adding a newly located vessel to Australia’s maritime heritage.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/science-tech-science-05-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/science-tech-science-05-image.png",
           "caption": "Illustration of the HMCS Spitfire, Australia’s first locally built warship.",
           "source": {
             "candidateId": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
@@ -2762,7 +3020,7 @@
         "standfirst": "Three senators say apps and ads that can generate non-consensual sexual images remain accessible to children despite company rules. The firms say they prohibit the content and are working to detect it.",
         "viewerProvenance": "THE GUARDIAN",
         "image": {
-          "asset": "./editions/p100-news-20261120T043218924Z-culture-20261119T163321196Z-sport-20261120T043218924Z--local/assets/science-tech-tech-02-image.png",
+          "asset": "./editions/p100-news-20261121T043302242Z-culture-20261119T163321196Z-sport-20261121T043302242Z--local/assets/science-tech-tech-02-image.png",
           "caption": "Senators Ed Markey and Ron Wyden at a news conference at the Capitol.",
           "source": {
             "candidateId": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
@@ -3134,7 +3392,8 @@
           "contentId": "world-01",
           "segmentIds": [
             "world-01-s1",
-            "world-01-s2"
+            "world-01-s2",
+            "world-01-s3"
           ]
         }
       },
@@ -3162,7 +3421,8 @@
           "contentId": "world-03",
           "segmentIds": [
             "world-03-s1",
-            "world-03-s2"
+            "world-03-s2",
+            "world-03-s3"
           ]
         }
       },
@@ -3176,7 +3436,8 @@
           "contentId": "world-04",
           "segmentIds": [
             "world-04-s1",
-            "world-04-s2"
+            "world-04-s2",
+            "world-04-s3"
           ]
         }
       },
@@ -3190,7 +3451,8 @@
           "contentId": "world-05",
           "segmentIds": [
             "world-05-s1",
-            "world-05-s2"
+            "world-05-s2",
+            "world-05-s3"
           ]
         }
       },
@@ -3218,7 +3480,23 @@
           "contentId": "world-07",
           "segmentIds": [
             "world-07-s1",
-            "world-07-s2"
+            "world-07-s2",
+            "world-07-s3"
+          ]
+        }
+      },
+      {
+        "id": "page-118",
+        "number": "118",
+        "sectionId": "world",
+        "parent": "110",
+        "template": "news-story",
+        "payload": {
+          "contentId": "world-08",
+          "segmentIds": [
+            "world-08-s1",
+            "world-08-s2",
+            "world-08-s3"
           ]
         }
       },
@@ -3232,7 +3510,8 @@
           "contentId": "uk-01",
           "segmentIds": [
             "uk-01-s1",
-            "uk-01-s2"
+            "uk-01-s2",
+            "uk-01-s3"
           ]
         }
       },
@@ -3246,7 +3525,8 @@
           "contentId": "uk-02",
           "segmentIds": [
             "uk-02-s1",
-            "uk-02-s2"
+            "uk-02-s2",
+            "uk-02-s3"
           ]
         }
       },
@@ -3273,7 +3553,8 @@
         "payload": {
           "contentId": "uk-04",
           "segmentIds": [
-            "uk-04-s1"
+            "uk-04-s1",
+            "uk-04-s2"
           ]
         }
       },
@@ -3300,7 +3581,9 @@
         "payload": {
           "contentId": "uk-06",
           "segmentIds": [
-            "uk-06-s1"
+            "uk-06-s1",
+            "uk-06-s2",
+            "uk-06-s3"
           ]
         }
       },
@@ -3328,7 +3611,8 @@
           "contentId": "denmark-01",
           "segmentIds": [
             "denmark-01-s1",
-            "denmark-01-s2"
+            "denmark-01-s2",
+            "denmark-01-s3"
           ]
         }
       },
@@ -3341,7 +3625,8 @@
         "payload": {
           "contentId": "denmark-02",
           "segmentIds": [
-            "denmark-02-s1"
+            "denmark-02-s1",
+            "denmark-02-s2"
           ]
         }
       },
@@ -3354,7 +3639,9 @@
         "payload": {
           "contentId": "denmark-03",
           "segmentIds": [
-            "denmark-03-s1"
+            "denmark-03-s1",
+            "denmark-03-s2",
+            "denmark-03-s3"
           ]
         }
       },
@@ -3367,21 +3654,8 @@
         "payload": {
           "contentId": "denmark-04",
           "segmentIds": [
-            "denmark-04-s1"
-          ]
-        }
-      },
-      {
-        "id": "page-135",
-        "number": "135",
-        "sectionId": "denmark",
-        "parent": "130",
-        "template": "news-story",
-        "payload": {
-          "contentId": "denmark-05",
-          "segmentIds": [
-            "denmark-05-s1",
-            "denmark-05-s2"
+            "denmark-04-s1",
+            "denmark-04-s2"
           ]
         }
       },
@@ -3407,13 +3681,13 @@
           "title": "HEADLINES",
           "storyReferenceIds": [
             "headline-world-01",
-            "headline-uk-01",
-            "headline-world-02",
-            "headline-uk-03",
-            "headline-world-03",
-            "headline-uk-05",
             "headline-denmark-01",
-            "headline-world-04"
+            "headline-world-02",
+            "headline-uk-01",
+            "headline-world-03",
+            "headline-world-04",
+            "headline-denmark-02",
+            "headline-uk-02"
           ]
         }
       },
@@ -3432,7 +3706,8 @@
             "ref-world-04",
             "ref-world-05",
             "ref-world-06",
-            "ref-world-07"
+            "ref-world-07",
+            "ref-world-08"
           ]
         }
       },
@@ -3467,8 +3742,7 @@
             "ref-denmark-01",
             "ref-denmark-02",
             "ref-denmark-03",
-            "ref-denmark-04",
-            "ref-denmark-05"
+            "ref-denmark-04"
           ]
         }
       },
@@ -3523,8 +3797,7 @@
         "payload": {
           "contentId": "sport-04",
           "segmentIds": [
-            "sport-04-s1",
-            "sport-04-s2"
+            "sport-04-s1"
           ]
         }
       },
@@ -3537,8 +3810,7 @@
         "payload": {
           "contentId": "sport-05",
           "segmentIds": [
-            "sport-05-s1",
-            "sport-05-s2"
+            "sport-05-s1"
           ]
         }
       },
@@ -4332,7 +4604,7 @@
         "destination": {
           "page": "111"
         },
-        "label": "Inside Taiz, cut off by Houthi forces",
+        "label": "Poland reports Russian missile in its airspace",
         "contentId": "world-01"
       },
       {
@@ -4340,7 +4612,7 @@
         "destination": {
           "page": "112"
         },
-        "label": "Europe readies for Ukraine peace talks",
+        "label": "AI-linked sell-off pushes global markets lower",
         "contentId": "world-02"
       },
       {
@@ -4348,7 +4620,7 @@
         "destination": {
           "page": "113"
         },
-        "label": "Myanmar ruling could influence future genocide cases",
+        "label": "COP31 talks overrun amid dispute on fossil fuels",
         "contentId": "world-03"
       },
       {
@@ -4356,7 +4628,7 @@
         "destination": {
           "page": "114"
         },
-        "label": "Early trial finds promise in pancreatic cancer pill",
+        "label": "Bail firm faces fresh allegations over detained migrants",
         "contentId": "world-04"
       },
       {
@@ -4364,7 +4636,7 @@
         "destination": {
           "page": "115"
         },
-        "label": "Canada bets on AI data centres amid US backlash",
+        "label": "Pet owners seek answers after remains found dumped",
         "contentId": "world-05"
       },
       {
@@ -4372,7 +4644,7 @@
         "destination": {
           "page": "116"
         },
-        "label": "California opens Nvidia probe over China allegations",
+        "label": "Bayer's $7.25bn Roundup settlement gets judge's approval",
         "contentId": "world-06"
       },
       {
@@ -4380,15 +4652,23 @@
         "destination": {
           "page": "117"
         },
-        "label": "Iowa explosives blast delayed amid toxic-plume fears",
+        "label": "ANC seeks city coalitions after South African election setback",
         "contentId": "world-07"
+      },
+      {
+        "id": "ref-world-08",
+        "destination": {
+          "page": "118"
+        },
+        "label": "Nepal's new leader visits India amid hopes for a reset",
+        "contentId": "world-08"
       },
       {
         "id": "ref-uk-01",
         "destination": {
           "page": "121"
         },
-        "label": "UK and EU near deal on youth mobility",
+        "label": "UK and EU seal food, emissions and youth mobility deals",
         "contentId": "uk-01"
       },
       {
@@ -4396,7 +4676,7 @@
         "destination": {
           "page": "122"
         },
-        "label": "UK and EU to discuss third-country asylum returns",
+        "label": "Blackpool's young jobseekers caught in an experience trap",
         "contentId": "uk-02"
       },
       {
@@ -4404,7 +4684,7 @@
         "destination": {
           "page": "123"
         },
-        "label": "Letby lawyer seeks urgent review after witness revelations",
+        "label": "Zero-hours reforms may be softened over hiring concerns",
         "contentId": "uk-03"
       },
       {
@@ -4412,7 +4692,7 @@
         "destination": {
           "page": "124"
         },
-        "label": "Bradford councillor stabbed; man arrested",
+        "label": "Activist jailed for slashing Channel migrant boat",
         "contentId": "uk-04"
       },
       {
@@ -4420,7 +4700,7 @@
         "destination": {
           "page": "125"
         },
-        "label": "Hospitals to expand access to Alzheimer’s blood tests",
+        "label": "UK faces its coldest night of autumn so far",
         "contentId": "uk-05"
       },
       {
@@ -4428,7 +4708,7 @@
         "destination": {
           "page": "126"
         },
-        "label": "UK and EU draft plans migration dialogue",
+        "label": "US measles status lost as UK vaccination rates fall",
         "contentId": "uk-06"
       },
       {
@@ -4436,7 +4716,7 @@
         "destination": {
           "page": "127"
         },
-        "label": "Next BBC cuts may be more visible to audiences",
+        "label": "Teacher arrested after missing indecent-assault sentencing",
         "contentId": "uk-07"
       },
       {
@@ -4444,7 +4724,7 @@
         "destination": {
           "page": "131"
         },
-        "label": "Rigshospitalet rejected 12 donor livers over capacity",
+        "label": "Denmark expels Russian diplomat over alleged rapper plot",
         "contentId": "denmark-01"
       },
       {
@@ -4452,7 +4732,7 @@
         "destination": {
           "page": "132"
         },
-        "label": "Police suspect man killed partner and daughter in Give",
+        "label": "Hardi proposal puts hundreds of Danish jobs at risk",
         "contentId": "denmark-02"
       },
       {
@@ -4460,7 +4740,7 @@
         "destination": {
           "page": "133"
         },
-        "label": "Man dies after container explosion in Hornslet",
+        "label": "PFA leads lawsuit over Zuckerberg's proposed Meta shares",
         "contentId": "denmark-03"
       },
       {
@@ -4468,80 +4748,72 @@
         "destination": {
           "page": "134"
         },
-        "label": "Asbestos warning during warehouse fire in Mørke",
+        "label": "TV 2 leaders depart after hidden-camera show backlash",
         "contentId": "denmark-04"
-      },
-      {
-        "id": "ref-denmark-05",
-        "destination": {
-          "page": "135"
-        },
-        "label": "Bicycle thefts cost North Jutland shops millions",
-        "contentId": "denmark-05"
       },
       {
         "id": "headline-world-01",
         "destination": {
           "page": "111"
         },
-        "label": "Inside Taiz, cut off by Houthi forces",
+        "label": "Poland reports Russian missile in its airspace",
         "contentId": "world-01"
-      },
-      {
-        "id": "headline-uk-01",
-        "destination": {
-          "page": "121"
-        },
-        "label": "UK and EU near deal on youth mobility",
-        "contentId": "uk-01"
-      },
-      {
-        "id": "headline-world-02",
-        "destination": {
-          "page": "112"
-        },
-        "label": "Europe readies for Ukraine peace talks",
-        "contentId": "world-02"
-      },
-      {
-        "id": "headline-uk-03",
-        "destination": {
-          "page": "123"
-        },
-        "label": "Letby lawyer seeks urgent review after witness revelations",
-        "contentId": "uk-03"
-      },
-      {
-        "id": "headline-world-03",
-        "destination": {
-          "page": "113"
-        },
-        "label": "Myanmar ruling could influence future genocide cases",
-        "contentId": "world-03"
-      },
-      {
-        "id": "headline-uk-05",
-        "destination": {
-          "page": "125"
-        },
-        "label": "Hospitals to expand access to Alzheimer’s blood tests",
-        "contentId": "uk-05"
       },
       {
         "id": "headline-denmark-01",
         "destination": {
           "page": "131"
         },
-        "label": "Rigshospitalet rejected 12 donor livers over capacity",
+        "label": "Denmark expels Russian diplomat over alleged rapper plot",
         "contentId": "denmark-01"
+      },
+      {
+        "id": "headline-world-02",
+        "destination": {
+          "page": "112"
+        },
+        "label": "AI-linked sell-off pushes global markets lower",
+        "contentId": "world-02"
+      },
+      {
+        "id": "headline-uk-01",
+        "destination": {
+          "page": "121"
+        },
+        "label": "UK and EU seal food, emissions and youth mobility deals",
+        "contentId": "uk-01"
+      },
+      {
+        "id": "headline-world-03",
+        "destination": {
+          "page": "113"
+        },
+        "label": "COP31 talks overrun amid dispute on fossil fuels",
+        "contentId": "world-03"
       },
       {
         "id": "headline-world-04",
         "destination": {
           "page": "114"
         },
-        "label": "Early trial finds promise in pancreatic cancer pill",
+        "label": "Bail firm faces fresh allegations over detained migrants",
         "contentId": "world-04"
+      },
+      {
+        "id": "headline-denmark-02",
+        "destination": {
+          "page": "132"
+        },
+        "label": "Hardi proposal puts hundreds of Danish jobs at risk",
+        "contentId": "denmark-02"
+      },
+      {
+        "id": "headline-uk-02",
+        "destination": {
+          "page": "122"
+        },
+        "label": "Blackpool's young jobseekers caught in an experience trap",
+        "contentId": "uk-02"
       },
       {
         "id": "sport-nav-200",
@@ -4555,7 +4827,7 @@
         "destination": {
           "page": "201"
         },
-        "label": "England fined over anti-Catholic chants in Spain",
+        "label": "Man Utd’s manager costs near £100m as Berrada defends the club",
         "contentId": "sport-01"
       },
       {
@@ -4563,7 +4835,7 @@
         "destination": {
           "page": "202"
         },
-        "label": "Lyon expose Arsenal's European gap",
+        "label": "England’s revival faces a major test against New Zealand",
         "contentId": "sport-02"
       },
       {
@@ -4571,7 +4843,7 @@
         "destination": {
           "page": "203"
         },
-        "label": "Shevchenko rebuts Mudryk over failed drugs test",
+        "label": "Cricket Australia backs Cummins amid renewed sandpaper claims",
         "contentId": "sport-03"
       },
       {
@@ -4579,7 +4851,7 @@
         "destination": {
           "page": "204"
         },
-        "label": "England bring back three starters for All Blacks test",
+        "label": "Alcaraz reaches ATP Finals semis despite injury concerns",
         "contentId": "sport-04"
       },
       {
@@ -4587,7 +4859,7 @@
         "destination": {
           "page": "205"
         },
-        "label": "Zverev wins group as Shelton reaches ATP Finals semis",
+        "label": "Kim leads LPGA finale by three; Hull remains in the mix",
         "contentId": "sport-05"
       },
       {
@@ -4595,7 +4867,7 @@
         "destination": {
           "page": "206"
         },
-        "label": "Hull one off lead at LPGA season finale",
+        "label": "Mudryk rejects Shevchenko’s account of drugs-test dispute",
         "contentId": "sport-06"
       },
       {
@@ -4603,7 +4875,7 @@
         "destination": {
           "page": "207"
         },
-        "label": "Jepchirchir banned for three years over doping violation",
+        "label": "Ireland and South Africa meet amid disciplinary tensions",
         "contentId": "sport-07"
       },
       {
@@ -4611,7 +4883,7 @@
         "destination": {
           "page": "208"
         },
-        "label": "LIV paid golfers millions as UK suppliers went unpaid",
+        "label": "Kulusevski and Finnigan on the isolation of long injuries",
         "contentId": "sport-08"
       },
       {
